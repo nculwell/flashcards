@@ -32,9 +32,18 @@ def main():
             and row["mood"] == "Indicativo"
             and row["tense"] == "Presente"
             ]
+    print("#separator:Semicolon")
+    print("#html:false")
     for row in selected_verbs:
         for form, pronoun in FORMS:
-            print(row["infinitive"], row["mood"], row["tense"], pronoun, row["form_"+form])
+            print(
+                    '"' + row["mood"] + "\n" + row["tense"]
+                    + "\n\n"
+                    + pronoun + " [" + row["infinitive"] + "]"
+                    + '";"'
+                    + pronoun + " " + row["form_"+form]
+                    + '"'
+                    )
 
 if __name__ == '__main__':
     main()
