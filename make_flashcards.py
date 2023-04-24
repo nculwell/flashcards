@@ -3,6 +3,8 @@
 import sys, os, os.path
 import csv
 
+import spanish_verbs_db
+
 CSV_PATH = "fred-jehle-spanish-verbs-master/jehle_verb_database.csv"
 
 FORMS = [
@@ -29,9 +31,10 @@ def main():
     else:
         print("Invalid arguments. USAGE: make_flashcards.py <mood> <tense> [<ending>]")
     # Encoding needs to remove Unicode BOM
-    with open(CSV_PATH, encoding="utf-8-sig") as f:
-        reader = csv.DictReader(f)
-        rows = [ row for row in reader ]
+    rows = spanish_verbs_db.read_word_list()
+    #with open(CSV_PATH, encoding="utf-8-sig") as f:
+    #    reader = csv.DictReader(f)
+    #    rows = [ row for row in reader ]
     #print(rows[0])
     (endings,) = validate_args(rows, mood, tense, ending)
     selected_verbs = select_verbs(rows, mood, tense, endings)

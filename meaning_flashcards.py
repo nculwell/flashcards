@@ -3,14 +3,12 @@
 import sys, os, os.path
 import csv
 
+import spanish_verbs_db
+
 CSV_PATH = "fred-jehle-spanish-verbs-master/jehle_verb_database.csv"
 
 def main():
-    # Encoding needs to remove Unicode BOM
-    with open(CSV_PATH, encoding="utf-8-sig") as f:
-        reader = csv.DictReader(f)
-        rows = [ row for row in reader ]
-    #print(rows[0]) ; return
+    rows = spanish_verbs_db.read_word_list()
     selected_verbs = [
             row for row in rows
             if row["mood"] == "Indicativo"
@@ -22,10 +20,8 @@ def write_output(selected_verbs):
     print("#separator:Semicolon")
     print("#html:false")
     for row in selected_verbs:
-        print(
-                '"MEANING OF: ' + row["infinitive"] + '";"'
-                + row["infinitive_english"]
-                + '"'
+        spanish_verbs_db.write_output_line(
+                [ row["infinitive"], row["infinitive_english"] ]
                 )
 
 if __name__ == '__main__':
