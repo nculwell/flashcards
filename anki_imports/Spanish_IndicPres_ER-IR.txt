@@ -1,0 +1,9218 @@
+#separator:Semicolon
+#html:false
+"Indicativo
+Presente
+
+yo [abrir]";"yo abro"
+"Indicativo
+Presente
+
+tú [abrir]";"tú abres"
+"Indicativo
+Presente
+
+él [abrir]";"él abre"
+"Indicativo
+Presente
+
+ella [abrir]";"ella abre"
+"Indicativo
+Presente
+
+Usted [abrir]";"Usted abre"
+"Indicativo
+Presente
+
+nosotros [abrir]";"nosotros abrimos"
+"Indicativo
+Presente
+
+nosotras [abrir]";"nosotras abrimos"
+"Indicativo
+Presente
+
+vosotros [abrir]";"vosotros abrís"
+"Indicativo
+Presente
+
+vosotras [abrir]";"vosotras abrís"
+"Indicativo
+Presente
+
+ellos [abrir]";"ellos abren"
+"Indicativo
+Presente
+
+ellas [abrir]";"ellas abren"
+"Indicativo
+Presente
+
+Ustedes [abrir]";"Ustedes abren"
+"Indicativo
+Presente
+
+yo [aburrir]";"yo aburro"
+"Indicativo
+Presente
+
+tú [aburrir]";"tú aburres"
+"Indicativo
+Presente
+
+él [aburrir]";"él aburre"
+"Indicativo
+Presente
+
+ella [aburrir]";"ella aburre"
+"Indicativo
+Presente
+
+Usted [aburrir]";"Usted aburre"
+"Indicativo
+Presente
+
+nosotros [aburrir]";"nosotros aburrimos"
+"Indicativo
+Presente
+
+nosotras [aburrir]";"nosotras aburrimos"
+"Indicativo
+Presente
+
+vosotros [aburrir]";"vosotros aburrís"
+"Indicativo
+Presente
+
+vosotras [aburrir]";"vosotras aburrís"
+"Indicativo
+Presente
+
+ellos [aburrir]";"ellos aburren"
+"Indicativo
+Presente
+
+ellas [aburrir]";"ellas aburren"
+"Indicativo
+Presente
+
+Ustedes [aburrir]";"Ustedes aburren"
+"Indicativo
+Presente
+
+yo [acontecer]";"yo acontezco"
+"Indicativo
+Presente
+
+tú [acontecer]";"tú aconteces"
+"Indicativo
+Presente
+
+él [acontecer]";"él acontece"
+"Indicativo
+Presente
+
+ella [acontecer]";"ella acontece"
+"Indicativo
+Presente
+
+Usted [acontecer]";"Usted acontece"
+"Indicativo
+Presente
+
+nosotros [acontecer]";"nosotros acontecemos"
+"Indicativo
+Presente
+
+nosotras [acontecer]";"nosotras acontecemos"
+"Indicativo
+Presente
+
+vosotros [acontecer]";"vosotros acontecéis"
+"Indicativo
+Presente
+
+vosotras [acontecer]";"vosotras acontecéis"
+"Indicativo
+Presente
+
+ellos [acontecer]";"ellos acontecen"
+"Indicativo
+Presente
+
+ellas [acontecer]";"ellas acontecen"
+"Indicativo
+Presente
+
+Ustedes [acontecer]";"Ustedes acontecen"
+"Indicativo
+Presente
+
+yo [admitir]";"yo admito"
+"Indicativo
+Presente
+
+tú [admitir]";"tú admites"
+"Indicativo
+Presente
+
+él [admitir]";"él admite"
+"Indicativo
+Presente
+
+ella [admitir]";"ella admite"
+"Indicativo
+Presente
+
+Usted [admitir]";"Usted admite"
+"Indicativo
+Presente
+
+nosotros [admitir]";"nosotros admitimos"
+"Indicativo
+Presente
+
+nosotras [admitir]";"nosotras admitimos"
+"Indicativo
+Presente
+
+vosotros [admitir]";"vosotros admitís"
+"Indicativo
+Presente
+
+vosotras [admitir]";"vosotras admitís"
+"Indicativo
+Presente
+
+ellos [admitir]";"ellos admiten"
+"Indicativo
+Presente
+
+ellas [admitir]";"ellas admiten"
+"Indicativo
+Presente
+
+Ustedes [admitir]";"Ustedes admiten"
+"Indicativo
+Presente
+
+yo [advertir]";"yo advierto"
+"Indicativo
+Presente
+
+tú [advertir]";"tú adviertes"
+"Indicativo
+Presente
+
+él [advertir]";"él advierte"
+"Indicativo
+Presente
+
+ella [advertir]";"ella advierte"
+"Indicativo
+Presente
+
+Usted [advertir]";"Usted advierte"
+"Indicativo
+Presente
+
+nosotros [advertir]";"nosotros advertimos"
+"Indicativo
+Presente
+
+nosotras [advertir]";"nosotras advertimos"
+"Indicativo
+Presente
+
+vosotros [advertir]";"vosotros advertís"
+"Indicativo
+Presente
+
+vosotras [advertir]";"vosotras advertís"
+"Indicativo
+Presente
+
+ellos [advertir]";"ellos advierten"
+"Indicativo
+Presente
+
+ellas [advertir]";"ellas advierten"
+"Indicativo
+Presente
+
+Ustedes [advertir]";"Ustedes advierten"
+"Indicativo
+Presente
+
+yo [afligir]";"yo aflijo"
+"Indicativo
+Presente
+
+tú [afligir]";"tú afliges"
+"Indicativo
+Presente
+
+él [afligir]";"él aflige"
+"Indicativo
+Presente
+
+ella [afligir]";"ella aflige"
+"Indicativo
+Presente
+
+Usted [afligir]";"Usted aflige"
+"Indicativo
+Presente
+
+nosotros [afligir]";"nosotros afligimos"
+"Indicativo
+Presente
+
+nosotras [afligir]";"nosotras afligimos"
+"Indicativo
+Presente
+
+vosotros [afligir]";"vosotros afligís"
+"Indicativo
+Presente
+
+vosotras [afligir]";"vosotras afligís"
+"Indicativo
+Presente
+
+ellos [afligir]";"ellos afligen"
+"Indicativo
+Presente
+
+ellas [afligir]";"ellas afligen"
+"Indicativo
+Presente
+
+Ustedes [afligir]";"Ustedes afligen"
+"Indicativo
+Presente
+
+yo [agradecer]";"yo agradezco"
+"Indicativo
+Presente
+
+tú [agradecer]";"tú agradeces"
+"Indicativo
+Presente
+
+él [agradecer]";"él agradece"
+"Indicativo
+Presente
+
+ella [agradecer]";"ella agradece"
+"Indicativo
+Presente
+
+Usted [agradecer]";"Usted agradece"
+"Indicativo
+Presente
+
+nosotros [agradecer]";"nosotros agradecemos"
+"Indicativo
+Presente
+
+nosotras [agradecer]";"nosotras agradecemos"
+"Indicativo
+Presente
+
+vosotros [agradecer]";"vosotros agradecéis"
+"Indicativo
+Presente
+
+vosotras [agradecer]";"vosotras agradecéis"
+"Indicativo
+Presente
+
+ellos [agradecer]";"ellos agradecen"
+"Indicativo
+Presente
+
+ellas [agradecer]";"ellas agradecen"
+"Indicativo
+Presente
+
+Ustedes [agradecer]";"Ustedes agradecen"
+"Indicativo
+Presente
+
+yo [amanecer]";"yo amanezco"
+"Indicativo
+Presente
+
+tú [amanecer]";"tú amaneces"
+"Indicativo
+Presente
+
+él [amanecer]";"él amanece"
+"Indicativo
+Presente
+
+ella [amanecer]";"ella amanece"
+"Indicativo
+Presente
+
+Usted [amanecer]";"Usted amanece"
+"Indicativo
+Presente
+
+nosotros [amanecer]";"nosotros amanecemos"
+"Indicativo
+Presente
+
+nosotras [amanecer]";"nosotras amanecemos"
+"Indicativo
+Presente
+
+vosotros [amanecer]";"vosotros amanecéis"
+"Indicativo
+Presente
+
+vosotras [amanecer]";"vosotras amanecéis"
+"Indicativo
+Presente
+
+ellos [amanecer]";"ellos amanecen"
+"Indicativo
+Presente
+
+ellas [amanecer]";"ellas amanecen"
+"Indicativo
+Presente
+
+Ustedes [amanecer]";"Ustedes amanecen"
+"Indicativo
+Presente
+
+yo [añadir]";"yo añado"
+"Indicativo
+Presente
+
+tú [añadir]";"tú añades"
+"Indicativo
+Presente
+
+él [añadir]";"él añade"
+"Indicativo
+Presente
+
+ella [añadir]";"ella añade"
+"Indicativo
+Presente
+
+Usted [añadir]";"Usted añade"
+"Indicativo
+Presente
+
+nosotros [añadir]";"nosotros añadimos"
+"Indicativo
+Presente
+
+nosotras [añadir]";"nosotras añadimos"
+"Indicativo
+Presente
+
+vosotros [añadir]";"vosotros añadís"
+"Indicativo
+Presente
+
+vosotras [añadir]";"vosotras añadís"
+"Indicativo
+Presente
+
+ellos [añadir]";"ellos añaden"
+"Indicativo
+Presente
+
+ellas [añadir]";"ellas añaden"
+"Indicativo
+Presente
+
+Ustedes [añadir]";"Ustedes añaden"
+"Indicativo
+Presente
+
+yo [aparecer]";"yo aparezco"
+"Indicativo
+Presente
+
+tú [aparecer]";"tú apareces"
+"Indicativo
+Presente
+
+él [aparecer]";"él aparece"
+"Indicativo
+Presente
+
+ella [aparecer]";"ella aparece"
+"Indicativo
+Presente
+
+Usted [aparecer]";"Usted aparece"
+"Indicativo
+Presente
+
+nosotros [aparecer]";"nosotros aparecemos"
+"Indicativo
+Presente
+
+nosotras [aparecer]";"nosotras aparecemos"
+"Indicativo
+Presente
+
+vosotros [aparecer]";"vosotros aparecéis"
+"Indicativo
+Presente
+
+vosotras [aparecer]";"vosotras aparecéis"
+"Indicativo
+Presente
+
+ellos [aparecer]";"ellos aparecen"
+"Indicativo
+Presente
+
+ellas [aparecer]";"ellas aparecen"
+"Indicativo
+Presente
+
+Ustedes [aparecer]";"Ustedes aparecen"
+"Indicativo
+Presente
+
+yo [aplaudir]";"yo aplaudo"
+"Indicativo
+Presente
+
+tú [aplaudir]";"tú aplaudes"
+"Indicativo
+Presente
+
+él [aplaudir]";"él aplaude"
+"Indicativo
+Presente
+
+ella [aplaudir]";"ella aplaude"
+"Indicativo
+Presente
+
+Usted [aplaudir]";"Usted aplaude"
+"Indicativo
+Presente
+
+nosotros [aplaudir]";"nosotros aplaudimos"
+"Indicativo
+Presente
+
+nosotras [aplaudir]";"nosotras aplaudimos"
+"Indicativo
+Presente
+
+vosotros [aplaudir]";"vosotros aplaudís"
+"Indicativo
+Presente
+
+vosotras [aplaudir]";"vosotras aplaudís"
+"Indicativo
+Presente
+
+ellos [aplaudir]";"ellos aplauden"
+"Indicativo
+Presente
+
+ellas [aplaudir]";"ellas aplauden"
+"Indicativo
+Presente
+
+Ustedes [aplaudir]";"Ustedes aplauden"
+"Indicativo
+Presente
+
+yo [aprender]";"yo aprendo"
+"Indicativo
+Presente
+
+tú [aprender]";"tú aprendes"
+"Indicativo
+Presente
+
+él [aprender]";"él aprende"
+"Indicativo
+Presente
+
+ella [aprender]";"ella aprende"
+"Indicativo
+Presente
+
+Usted [aprender]";"Usted aprende"
+"Indicativo
+Presente
+
+nosotros [aprender]";"nosotros aprendemos"
+"Indicativo
+Presente
+
+nosotras [aprender]";"nosotras aprendemos"
+"Indicativo
+Presente
+
+vosotros [aprender]";"vosotros aprendéis"
+"Indicativo
+Presente
+
+vosotras [aprender]";"vosotras aprendéis"
+"Indicativo
+Presente
+
+ellos [aprender]";"ellos aprenden"
+"Indicativo
+Presente
+
+ellas [aprender]";"ellas aprenden"
+"Indicativo
+Presente
+
+Ustedes [aprender]";"Ustedes aprenden"
+"Indicativo
+Presente
+
+yo [asistir]";"yo asisto"
+"Indicativo
+Presente
+
+tú [asistir]";"tú asistes"
+"Indicativo
+Presente
+
+él [asistir]";"él asiste"
+"Indicativo
+Presente
+
+ella [asistir]";"ella asiste"
+"Indicativo
+Presente
+
+Usted [asistir]";"Usted asiste"
+"Indicativo
+Presente
+
+nosotros [asistir]";"nosotros asistimos"
+"Indicativo
+Presente
+
+nosotras [asistir]";"nosotras asistimos"
+"Indicativo
+Presente
+
+vosotros [asistir]";"vosotros asistís"
+"Indicativo
+Presente
+
+vosotras [asistir]";"vosotras asistís"
+"Indicativo
+Presente
+
+ellos [asistir]";"ellos asisten"
+"Indicativo
+Presente
+
+ellas [asistir]";"ellas asisten"
+"Indicativo
+Presente
+
+Ustedes [asistir]";"Ustedes asisten"
+"Indicativo
+Presente
+
+yo [atender]";"yo atiendo"
+"Indicativo
+Presente
+
+tú [atender]";"tú atiendes"
+"Indicativo
+Presente
+
+él [atender]";"él atiende"
+"Indicativo
+Presente
+
+ella [atender]";"ella atiende"
+"Indicativo
+Presente
+
+Usted [atender]";"Usted atiende"
+"Indicativo
+Presente
+
+nosotros [atender]";"nosotros atendemos"
+"Indicativo
+Presente
+
+nosotras [atender]";"nosotras atendemos"
+"Indicativo
+Presente
+
+vosotros [atender]";"vosotros atendéis"
+"Indicativo
+Presente
+
+vosotras [atender]";"vosotras atendéis"
+"Indicativo
+Presente
+
+ellos [atender]";"ellos atienden"
+"Indicativo
+Presente
+
+ellas [atender]";"ellas atienden"
+"Indicativo
+Presente
+
+Ustedes [atender]";"Ustedes atienden"
+"Indicativo
+Presente
+
+yo [atraer]";"yo atraigo"
+"Indicativo
+Presente
+
+tú [atraer]";"tú atraes"
+"Indicativo
+Presente
+
+él [atraer]";"él atrae"
+"Indicativo
+Presente
+
+ella [atraer]";"ella atrae"
+"Indicativo
+Presente
+
+Usted [atraer]";"Usted atrae"
+"Indicativo
+Presente
+
+nosotros [atraer]";"nosotros atraemos"
+"Indicativo
+Presente
+
+nosotras [atraer]";"nosotras atraemos"
+"Indicativo
+Presente
+
+vosotros [atraer]";"vosotros atraéis"
+"Indicativo
+Presente
+
+vosotras [atraer]";"vosotras atraéis"
+"Indicativo
+Presente
+
+ellos [atraer]";"ellos atraen"
+"Indicativo
+Presente
+
+ellas [atraer]";"ellas atraen"
+"Indicativo
+Presente
+
+Ustedes [atraer]";"Ustedes atraen"
+"Indicativo
+Presente
+
+yo [barrer]";"yo barro"
+"Indicativo
+Presente
+
+tú [barrer]";"tú barres"
+"Indicativo
+Presente
+
+él [barrer]";"él barre"
+"Indicativo
+Presente
+
+ella [barrer]";"ella barre"
+"Indicativo
+Presente
+
+Usted [barrer]";"Usted barre"
+"Indicativo
+Presente
+
+nosotros [barrer]";"nosotros barremos"
+"Indicativo
+Presente
+
+nosotras [barrer]";"nosotras barremos"
+"Indicativo
+Presente
+
+vosotros [barrer]";"vosotros barréis"
+"Indicativo
+Presente
+
+vosotras [barrer]";"vosotras barréis"
+"Indicativo
+Presente
+
+ellos [barrer]";"ellos barren"
+"Indicativo
+Presente
+
+ellas [barrer]";"ellas barren"
+"Indicativo
+Presente
+
+Ustedes [barrer]";"Ustedes barren"
+"Indicativo
+Presente
+
+yo [batir]";"yo bato"
+"Indicativo
+Presente
+
+tú [batir]";"tú bates"
+"Indicativo
+Presente
+
+él [batir]";"él bate"
+"Indicativo
+Presente
+
+ella [batir]";"ella bate"
+"Indicativo
+Presente
+
+Usted [batir]";"Usted bate"
+"Indicativo
+Presente
+
+nosotros [batir]";"nosotros batimos"
+"Indicativo
+Presente
+
+nosotras [batir]";"nosotras batimos"
+"Indicativo
+Presente
+
+vosotros [batir]";"vosotros batís"
+"Indicativo
+Presente
+
+vosotras [batir]";"vosotras batís"
+"Indicativo
+Presente
+
+ellos [batir]";"ellos baten"
+"Indicativo
+Presente
+
+ellas [batir]";"ellas baten"
+"Indicativo
+Presente
+
+Ustedes [batir]";"Ustedes baten"
+"Indicativo
+Presente
+
+yo [beber]";"yo bebo"
+"Indicativo
+Presente
+
+tú [beber]";"tú bebes"
+"Indicativo
+Presente
+
+él [beber]";"él bebe"
+"Indicativo
+Presente
+
+ella [beber]";"ella bebe"
+"Indicativo
+Presente
+
+Usted [beber]";"Usted bebe"
+"Indicativo
+Presente
+
+nosotros [beber]";"nosotros bebemos"
+"Indicativo
+Presente
+
+nosotras [beber]";"nosotras bebemos"
+"Indicativo
+Presente
+
+vosotros [beber]";"vosotros bebéis"
+"Indicativo
+Presente
+
+vosotras [beber]";"vosotras bebéis"
+"Indicativo
+Presente
+
+ellos [beber]";"ellos beben"
+"Indicativo
+Presente
+
+ellas [beber]";"ellas beben"
+"Indicativo
+Presente
+
+Ustedes [beber]";"Ustedes beben"
+"Indicativo
+Presente
+
+yo [bendecir]";"yo bendigo"
+"Indicativo
+Presente
+
+tú [bendecir]";"tú bendices"
+"Indicativo
+Presente
+
+él [bendecir]";"él bendice"
+"Indicativo
+Presente
+
+ella [bendecir]";"ella bendice"
+"Indicativo
+Presente
+
+Usted [bendecir]";"Usted bendice"
+"Indicativo
+Presente
+
+nosotros [bendecir]";"nosotros bendecimos"
+"Indicativo
+Presente
+
+nosotras [bendecir]";"nosotras bendecimos"
+"Indicativo
+Presente
+
+vosotros [bendecir]";"vosotros bendecís"
+"Indicativo
+Presente
+
+vosotras [bendecir]";"vosotras bendecís"
+"Indicativo
+Presente
+
+ellos [bendecir]";"ellos bendicen"
+"Indicativo
+Presente
+
+ellas [bendecir]";"ellas bendicen"
+"Indicativo
+Presente
+
+Ustedes [bendecir]";"Ustedes bendicen"
+"Indicativo
+Presente
+
+yo [caber]";"yo quepo"
+"Indicativo
+Presente
+
+tú [caber]";"tú cabes"
+"Indicativo
+Presente
+
+él [caber]";"él cabe"
+"Indicativo
+Presente
+
+ella [caber]";"ella cabe"
+"Indicativo
+Presente
+
+Usted [caber]";"Usted cabe"
+"Indicativo
+Presente
+
+nosotros [caber]";"nosotros cabemos"
+"Indicativo
+Presente
+
+nosotras [caber]";"nosotras cabemos"
+"Indicativo
+Presente
+
+vosotros [caber]";"vosotros cabéis"
+"Indicativo
+Presente
+
+vosotras [caber]";"vosotras cabéis"
+"Indicativo
+Presente
+
+ellos [caber]";"ellos caben"
+"Indicativo
+Presente
+
+ellas [caber]";"ellas caben"
+"Indicativo
+Presente
+
+Ustedes [caber]";"Ustedes caben"
+"Indicativo
+Presente
+
+yo [caer]";"yo caigo"
+"Indicativo
+Presente
+
+tú [caer]";"tú caes"
+"Indicativo
+Presente
+
+él [caer]";"él cae"
+"Indicativo
+Presente
+
+ella [caer]";"ella cae"
+"Indicativo
+Presente
+
+Usted [caer]";"Usted cae"
+"Indicativo
+Presente
+
+nosotros [caer]";"nosotros caemos"
+"Indicativo
+Presente
+
+nosotras [caer]";"nosotras caemos"
+"Indicativo
+Presente
+
+vosotros [caer]";"vosotros caéis"
+"Indicativo
+Presente
+
+vosotras [caer]";"vosotras caéis"
+"Indicativo
+Presente
+
+ellos [caer]";"ellos caen"
+"Indicativo
+Presente
+
+ellas [caer]";"ellas caen"
+"Indicativo
+Presente
+
+Ustedes [caer]";"Ustedes caen"
+"Indicativo
+Presente
+
+yo [coger]";"yo cojo"
+"Indicativo
+Presente
+
+tú [coger]";"tú coges"
+"Indicativo
+Presente
+
+él [coger]";"él coge"
+"Indicativo
+Presente
+
+ella [coger]";"ella coge"
+"Indicativo
+Presente
+
+Usted [coger]";"Usted coge"
+"Indicativo
+Presente
+
+nosotros [coger]";"nosotros cogemos"
+"Indicativo
+Presente
+
+nosotras [coger]";"nosotras cogemos"
+"Indicativo
+Presente
+
+vosotros [coger]";"vosotros cogéis"
+"Indicativo
+Presente
+
+vosotras [coger]";"vosotras cogéis"
+"Indicativo
+Presente
+
+ellos [coger]";"ellos cogen"
+"Indicativo
+Presente
+
+ellas [coger]";"ellas cogen"
+"Indicativo
+Presente
+
+Ustedes [coger]";"Ustedes cogen"
+"Indicativo
+Presente
+
+yo [combatir]";"yo combato"
+"Indicativo
+Presente
+
+tú [combatir]";"tú combates"
+"Indicativo
+Presente
+
+él [combatir]";"él combate"
+"Indicativo
+Presente
+
+ella [combatir]";"ella combate"
+"Indicativo
+Presente
+
+Usted [combatir]";"Usted combate"
+"Indicativo
+Presente
+
+nosotros [combatir]";"nosotros combatimos"
+"Indicativo
+Presente
+
+nosotras [combatir]";"nosotras combatimos"
+"Indicativo
+Presente
+
+vosotros [combatir]";"vosotros combatís"
+"Indicativo
+Presente
+
+vosotras [combatir]";"vosotras combatís"
+"Indicativo
+Presente
+
+ellos [combatir]";"ellos combaten"
+"Indicativo
+Presente
+
+ellas [combatir]";"ellas combaten"
+"Indicativo
+Presente
+
+Ustedes [combatir]";"Ustedes combaten"
+"Indicativo
+Presente
+
+yo [comer]";"yo como"
+"Indicativo
+Presente
+
+tú [comer]";"tú comes"
+"Indicativo
+Presente
+
+él [comer]";"él come"
+"Indicativo
+Presente
+
+ella [comer]";"ella come"
+"Indicativo
+Presente
+
+Usted [comer]";"Usted come"
+"Indicativo
+Presente
+
+nosotros [comer]";"nosotros comemos"
+"Indicativo
+Presente
+
+nosotras [comer]";"nosotras comemos"
+"Indicativo
+Presente
+
+vosotros [comer]";"vosotros coméis"
+"Indicativo
+Presente
+
+vosotras [comer]";"vosotras coméis"
+"Indicativo
+Presente
+
+ellos [comer]";"ellos comen"
+"Indicativo
+Presente
+
+ellas [comer]";"ellas comen"
+"Indicativo
+Presente
+
+Ustedes [comer]";"Ustedes comen"
+"Indicativo
+Presente
+
+yo [competir]";"yo compito"
+"Indicativo
+Presente
+
+tú [competir]";"tú compites"
+"Indicativo
+Presente
+
+él [competir]";"él compite"
+"Indicativo
+Presente
+
+ella [competir]";"ella compite"
+"Indicativo
+Presente
+
+Usted [competir]";"Usted compite"
+"Indicativo
+Presente
+
+nosotros [competir]";"nosotros competimos"
+"Indicativo
+Presente
+
+nosotras [competir]";"nosotras competimos"
+"Indicativo
+Presente
+
+vosotros [competir]";"vosotros competís"
+"Indicativo
+Presente
+
+vosotras [competir]";"vosotras competís"
+"Indicativo
+Presente
+
+ellos [competir]";"ellos compiten"
+"Indicativo
+Presente
+
+ellas [competir]";"ellas compiten"
+"Indicativo
+Presente
+
+Ustedes [competir]";"Ustedes compiten"
+"Indicativo
+Presente
+
+yo [componer]";"yo compongo"
+"Indicativo
+Presente
+
+tú [componer]";"tú compones"
+"Indicativo
+Presente
+
+él [componer]";"él compone"
+"Indicativo
+Presente
+
+ella [componer]";"ella compone"
+"Indicativo
+Presente
+
+Usted [componer]";"Usted compone"
+"Indicativo
+Presente
+
+nosotros [componer]";"nosotros componemos"
+"Indicativo
+Presente
+
+nosotras [componer]";"nosotras componemos"
+"Indicativo
+Presente
+
+vosotros [componer]";"vosotros componéis"
+"Indicativo
+Presente
+
+vosotras [componer]";"vosotras componéis"
+"Indicativo
+Presente
+
+ellos [componer]";"ellos componen"
+"Indicativo
+Presente
+
+ellas [componer]";"ellas componen"
+"Indicativo
+Presente
+
+Ustedes [componer]";"Ustedes componen"
+"Indicativo
+Presente
+
+yo [comprender]";"yo comprendo"
+"Indicativo
+Presente
+
+tú [comprender]";"tú comprendes"
+"Indicativo
+Presente
+
+él [comprender]";"él comprende"
+"Indicativo
+Presente
+
+ella [comprender]";"ella comprende"
+"Indicativo
+Presente
+
+Usted [comprender]";"Usted comprende"
+"Indicativo
+Presente
+
+nosotros [comprender]";"nosotros comprendemos"
+"Indicativo
+Presente
+
+nosotras [comprender]";"nosotras comprendemos"
+"Indicativo
+Presente
+
+vosotros [comprender]";"vosotros comprendéis"
+"Indicativo
+Presente
+
+vosotras [comprender]";"vosotras comprendéis"
+"Indicativo
+Presente
+
+ellos [comprender]";"ellos comprenden"
+"Indicativo
+Presente
+
+ellas [comprender]";"ellas comprenden"
+"Indicativo
+Presente
+
+Ustedes [comprender]";"Ustedes comprenden"
+"Indicativo
+Presente
+
+yo [conducir]";"yo conduzco"
+"Indicativo
+Presente
+
+tú [conducir]";"tú conduces"
+"Indicativo
+Presente
+
+él [conducir]";"él conduce"
+"Indicativo
+Presente
+
+ella [conducir]";"ella conduce"
+"Indicativo
+Presente
+
+Usted [conducir]";"Usted conduce"
+"Indicativo
+Presente
+
+nosotros [conducir]";"nosotros conducimos"
+"Indicativo
+Presente
+
+nosotras [conducir]";"nosotras conducimos"
+"Indicativo
+Presente
+
+vosotros [conducir]";"vosotros conducís"
+"Indicativo
+Presente
+
+vosotras [conducir]";"vosotras conducís"
+"Indicativo
+Presente
+
+ellos [conducir]";"ellos conducen"
+"Indicativo
+Presente
+
+ellas [conducir]";"ellas conducen"
+"Indicativo
+Presente
+
+Ustedes [conducir]";"Ustedes conducen"
+"Indicativo
+Presente
+
+yo [compartir]";"yo comparto"
+"Indicativo
+Presente
+
+tú [compartir]";"tú compartes"
+"Indicativo
+Presente
+
+él [compartir]";"él comparte"
+"Indicativo
+Presente
+
+ella [compartir]";"ella comparte"
+"Indicativo
+Presente
+
+Usted [compartir]";"Usted comparte"
+"Indicativo
+Presente
+
+nosotros [compartir]";"nosotros compartimos"
+"Indicativo
+Presente
+
+nosotras [compartir]";"nosotras compartimos"
+"Indicativo
+Presente
+
+vosotros [compartir]";"vosotros compartís"
+"Indicativo
+Presente
+
+vosotras [compartir]";"vosotras compartís"
+"Indicativo
+Presente
+
+ellos [compartir]";"ellos comparten"
+"Indicativo
+Presente
+
+ellas [compartir]";"ellas comparten"
+"Indicativo
+Presente
+
+Ustedes [compartir]";"Ustedes comparten"
+"Indicativo
+Presente
+
+yo [conocer]";"yo conozco"
+"Indicativo
+Presente
+
+tú [conocer]";"tú conoces"
+"Indicativo
+Presente
+
+él [conocer]";"él conoce"
+"Indicativo
+Presente
+
+ella [conocer]";"ella conoce"
+"Indicativo
+Presente
+
+Usted [conocer]";"Usted conoce"
+"Indicativo
+Presente
+
+nosotros [conocer]";"nosotros conocemos"
+"Indicativo
+Presente
+
+nosotras [conocer]";"nosotras conocemos"
+"Indicativo
+Presente
+
+vosotros [conocer]";"vosotros conocéis"
+"Indicativo
+Presente
+
+vosotras [conocer]";"vosotras conocéis"
+"Indicativo
+Presente
+
+ellos [conocer]";"ellos conocen"
+"Indicativo
+Presente
+
+ellas [conocer]";"ellas conocen"
+"Indicativo
+Presente
+
+Ustedes [conocer]";"Ustedes conocen"
+"Indicativo
+Presente
+
+yo [conseguir]";"yo consigo"
+"Indicativo
+Presente
+
+tú [conseguir]";"tú consigues"
+"Indicativo
+Presente
+
+él [conseguir]";"él consigue"
+"Indicativo
+Presente
+
+ella [conseguir]";"ella consigue"
+"Indicativo
+Presente
+
+Usted [conseguir]";"Usted consigue"
+"Indicativo
+Presente
+
+nosotros [conseguir]";"nosotros conseguimos"
+"Indicativo
+Presente
+
+nosotras [conseguir]";"nosotras conseguimos"
+"Indicativo
+Presente
+
+vosotros [conseguir]";"vosotros conseguís"
+"Indicativo
+Presente
+
+vosotras [conseguir]";"vosotras conseguís"
+"Indicativo
+Presente
+
+ellos [conseguir]";"ellos consiguen"
+"Indicativo
+Presente
+
+ellas [conseguir]";"ellas consiguen"
+"Indicativo
+Presente
+
+Ustedes [conseguir]";"Ustedes consiguen"
+"Indicativo
+Presente
+
+yo [consentir]";"yo consiento"
+"Indicativo
+Presente
+
+tú [consentir]";"tú consientes"
+"Indicativo
+Presente
+
+él [consentir]";"él consiente"
+"Indicativo
+Presente
+
+ella [consentir]";"ella consiente"
+"Indicativo
+Presente
+
+Usted [consentir]";"Usted consiente"
+"Indicativo
+Presente
+
+nosotros [consentir]";"nosotros consentimos"
+"Indicativo
+Presente
+
+nosotras [consentir]";"nosotras consentimos"
+"Indicativo
+Presente
+
+vosotros [consentir]";"vosotros consentís"
+"Indicativo
+Presente
+
+vosotras [consentir]";"vosotras consentís"
+"Indicativo
+Presente
+
+ellos [consentir]";"ellos consienten"
+"Indicativo
+Presente
+
+ellas [consentir]";"ellas consienten"
+"Indicativo
+Presente
+
+Ustedes [consentir]";"Ustedes consienten"
+"Indicativo
+Presente
+
+yo [consistir]";"yo consisto"
+"Indicativo
+Presente
+
+tú [consistir]";"tú consistes"
+"Indicativo
+Presente
+
+él [consistir]";"él consiste"
+"Indicativo
+Presente
+
+ella [consistir]";"ella consiste"
+"Indicativo
+Presente
+
+Usted [consistir]";"Usted consiste"
+"Indicativo
+Presente
+
+nosotros [consistir]";"nosotros consistimos"
+"Indicativo
+Presente
+
+nosotras [consistir]";"nosotras consistimos"
+"Indicativo
+Presente
+
+vosotros [consistir]";"vosotros consistís"
+"Indicativo
+Presente
+
+vosotras [consistir]";"vosotras consistís"
+"Indicativo
+Presente
+
+ellos [consistir]";"ellos consisten"
+"Indicativo
+Presente
+
+ellas [consistir]";"ellas consisten"
+"Indicativo
+Presente
+
+Ustedes [consistir]";"Ustedes consisten"
+"Indicativo
+Presente
+
+yo [constituir]";"yo constituyo"
+"Indicativo
+Presente
+
+tú [constituir]";"tú constituyes"
+"Indicativo
+Presente
+
+él [constituir]";"él constituye"
+"Indicativo
+Presente
+
+ella [constituir]";"ella constituye"
+"Indicativo
+Presente
+
+Usted [constituir]";"Usted constituye"
+"Indicativo
+Presente
+
+nosotros [constituir]";"nosotros constituimos"
+"Indicativo
+Presente
+
+nosotras [constituir]";"nosotras constituimos"
+"Indicativo
+Presente
+
+vosotros [constituir]";"vosotros constituís"
+"Indicativo
+Presente
+
+vosotras [constituir]";"vosotras constituís"
+"Indicativo
+Presente
+
+ellos [constituir]";"ellos constituyen"
+"Indicativo
+Presente
+
+ellas [constituir]";"ellas constituyen"
+"Indicativo
+Presente
+
+Ustedes [constituir]";"Ustedes constituyen"
+"Indicativo
+Presente
+
+yo [construir]";"yo construyo"
+"Indicativo
+Presente
+
+tú [construir]";"tú construyes"
+"Indicativo
+Presente
+
+él [construir]";"él construye"
+"Indicativo
+Presente
+
+ella [construir]";"ella construye"
+"Indicativo
+Presente
+
+Usted [construir]";"Usted construye"
+"Indicativo
+Presente
+
+nosotros [construir]";"nosotros construimos"
+"Indicativo
+Presente
+
+nosotras [construir]";"nosotras construimos"
+"Indicativo
+Presente
+
+vosotros [construir]";"vosotros construís"
+"Indicativo
+Presente
+
+vosotras [construir]";"vosotras construís"
+"Indicativo
+Presente
+
+ellos [construir]";"ellos construyen"
+"Indicativo
+Presente
+
+ellas [construir]";"ellas construyen"
+"Indicativo
+Presente
+
+Ustedes [construir]";"Ustedes construyen"
+"Indicativo
+Presente
+
+yo [consumir]";"yo consumo"
+"Indicativo
+Presente
+
+tú [consumir]";"tú consumes"
+"Indicativo
+Presente
+
+él [consumir]";"él consume"
+"Indicativo
+Presente
+
+ella [consumir]";"ella consume"
+"Indicativo
+Presente
+
+Usted [consumir]";"Usted consume"
+"Indicativo
+Presente
+
+nosotros [consumir]";"nosotros consumimos"
+"Indicativo
+Presente
+
+nosotras [consumir]";"nosotras consumimos"
+"Indicativo
+Presente
+
+vosotros [consumir]";"vosotros consumís"
+"Indicativo
+Presente
+
+vosotras [consumir]";"vosotras consumís"
+"Indicativo
+Presente
+
+ellos [consumir]";"ellos consumen"
+"Indicativo
+Presente
+
+ellas [consumir]";"ellas consumen"
+"Indicativo
+Presente
+
+Ustedes [consumir]";"Ustedes consumen"
+"Indicativo
+Presente
+
+yo [contener]";"yo contengo"
+"Indicativo
+Presente
+
+tú [contener]";"tú contienes"
+"Indicativo
+Presente
+
+él [contener]";"él contiene"
+"Indicativo
+Presente
+
+ella [contener]";"ella contiene"
+"Indicativo
+Presente
+
+Usted [contener]";"Usted contiene"
+"Indicativo
+Presente
+
+nosotros [contener]";"nosotros contenemos"
+"Indicativo
+Presente
+
+nosotras [contener]";"nosotras contenemos"
+"Indicativo
+Presente
+
+vosotros [contener]";"vosotros contenéis"
+"Indicativo
+Presente
+
+vosotras [contener]";"vosotras contenéis"
+"Indicativo
+Presente
+
+ellos [contener]";"ellos contienen"
+"Indicativo
+Presente
+
+ellas [contener]";"ellas contienen"
+"Indicativo
+Presente
+
+Ustedes [contener]";"Ustedes contienen"
+"Indicativo
+Presente
+
+yo [contribuir]";"yo contribuyo"
+"Indicativo
+Presente
+
+tú [contribuir]";"tú contribuyes"
+"Indicativo
+Presente
+
+él [contribuir]";"él contribuye"
+"Indicativo
+Presente
+
+ella [contribuir]";"ella contribuye"
+"Indicativo
+Presente
+
+Usted [contribuir]";"Usted contribuye"
+"Indicativo
+Presente
+
+nosotros [contribuir]";"nosotros contribuimos"
+"Indicativo
+Presente
+
+nosotras [contribuir]";"nosotras contribuimos"
+"Indicativo
+Presente
+
+vosotros [contribuir]";"vosotros contribuís"
+"Indicativo
+Presente
+
+vosotras [contribuir]";"vosotras contribuís"
+"Indicativo
+Presente
+
+ellos [contribuir]";"ellos contribuyen"
+"Indicativo
+Presente
+
+ellas [contribuir]";"ellas contribuyen"
+"Indicativo
+Presente
+
+Ustedes [contribuir]";"Ustedes contribuyen"
+"Indicativo
+Presente
+
+yo [convencer]";"yo convenzo"
+"Indicativo
+Presente
+
+tú [convencer]";"tú convences"
+"Indicativo
+Presente
+
+él [convencer]";"él convence"
+"Indicativo
+Presente
+
+ella [convencer]";"ella convence"
+"Indicativo
+Presente
+
+Usted [convencer]";"Usted convence"
+"Indicativo
+Presente
+
+nosotros [convencer]";"nosotros convencemos"
+"Indicativo
+Presente
+
+nosotras [convencer]";"nosotras convencemos"
+"Indicativo
+Presente
+
+vosotros [convencer]";"vosotros convencéis"
+"Indicativo
+Presente
+
+vosotras [convencer]";"vosotras convencéis"
+"Indicativo
+Presente
+
+ellos [convencer]";"ellos convencen"
+"Indicativo
+Presente
+
+ellas [convencer]";"ellas convencen"
+"Indicativo
+Presente
+
+Ustedes [convencer]";"Ustedes convencen"
+"Indicativo
+Presente
+
+yo [convenir]";"yo convengo"
+"Indicativo
+Presente
+
+tú [convenir]";"tú convienes"
+"Indicativo
+Presente
+
+él [convenir]";"él conviene"
+"Indicativo
+Presente
+
+ella [convenir]";"ella conviene"
+"Indicativo
+Presente
+
+Usted [convenir]";"Usted conviene"
+"Indicativo
+Presente
+
+nosotros [convenir]";"nosotros convenimos"
+"Indicativo
+Presente
+
+nosotras [convenir]";"nosotras convenimos"
+"Indicativo
+Presente
+
+vosotros [convenir]";"vosotros convenís"
+"Indicativo
+Presente
+
+vosotras [convenir]";"vosotras convenís"
+"Indicativo
+Presente
+
+ellos [convenir]";"ellos convienen"
+"Indicativo
+Presente
+
+ellas [convenir]";"ellas convienen"
+"Indicativo
+Presente
+
+Ustedes [convenir]";"Ustedes convienen"
+"Indicativo
+Presente
+
+yo [convertir]";"yo convierto"
+"Indicativo
+Presente
+
+tú [convertir]";"tú conviertes"
+"Indicativo
+Presente
+
+él [convertir]";"él convierte"
+"Indicativo
+Presente
+
+ella [convertir]";"ella convierte"
+"Indicativo
+Presente
+
+Usted [convertir]";"Usted convierte"
+"Indicativo
+Presente
+
+nosotros [convertir]";"nosotros convertimos"
+"Indicativo
+Presente
+
+nosotras [convertir]";"nosotras convertimos"
+"Indicativo
+Presente
+
+vosotros [convertir]";"vosotros convertís"
+"Indicativo
+Presente
+
+vosotras [convertir]";"vosotras convertís"
+"Indicativo
+Presente
+
+ellos [convertir]";"ellos convierten"
+"Indicativo
+Presente
+
+ellas [convertir]";"ellas convierten"
+"Indicativo
+Presente
+
+Ustedes [convertir]";"Ustedes convierten"
+"Indicativo
+Presente
+
+yo [corregir]";"yo corrijo"
+"Indicativo
+Presente
+
+tú [corregir]";"tú corriges"
+"Indicativo
+Presente
+
+él [corregir]";"él corrige"
+"Indicativo
+Presente
+
+ella [corregir]";"ella corrige"
+"Indicativo
+Presente
+
+Usted [corregir]";"Usted corrige"
+"Indicativo
+Presente
+
+nosotros [corregir]";"nosotros corregimos"
+"Indicativo
+Presente
+
+nosotras [corregir]";"nosotras corregimos"
+"Indicativo
+Presente
+
+vosotros [corregir]";"vosotros corregís"
+"Indicativo
+Presente
+
+vosotras [corregir]";"vosotras corregís"
+"Indicativo
+Presente
+
+ellos [corregir]";"ellos corrigen"
+"Indicativo
+Presente
+
+ellas [corregir]";"ellas corrigen"
+"Indicativo
+Presente
+
+Ustedes [corregir]";"Ustedes corrigen"
+"Indicativo
+Presente
+
+yo [correr]";"yo corro"
+"Indicativo
+Presente
+
+tú [correr]";"tú corres"
+"Indicativo
+Presente
+
+él [correr]";"él corre"
+"Indicativo
+Presente
+
+ella [correr]";"ella corre"
+"Indicativo
+Presente
+
+Usted [correr]";"Usted corre"
+"Indicativo
+Presente
+
+nosotros [correr]";"nosotros corremos"
+"Indicativo
+Presente
+
+nosotras [correr]";"nosotras corremos"
+"Indicativo
+Presente
+
+vosotros [correr]";"vosotros corréis"
+"Indicativo
+Presente
+
+vosotras [correr]";"vosotras corréis"
+"Indicativo
+Presente
+
+ellos [correr]";"ellos corren"
+"Indicativo
+Presente
+
+ellas [correr]";"ellas corren"
+"Indicativo
+Presente
+
+Ustedes [correr]";"Ustedes corren"
+"Indicativo
+Presente
+
+yo [coser]";"yo coso"
+"Indicativo
+Presente
+
+tú [coser]";"tú coses"
+"Indicativo
+Presente
+
+él [coser]";"él cose"
+"Indicativo
+Presente
+
+ella [coser]";"ella cose"
+"Indicativo
+Presente
+
+Usted [coser]";"Usted cose"
+"Indicativo
+Presente
+
+nosotros [coser]";"nosotros cosemos"
+"Indicativo
+Presente
+
+nosotras [coser]";"nosotras cosemos"
+"Indicativo
+Presente
+
+vosotros [coser]";"vosotros coséis"
+"Indicativo
+Presente
+
+vosotras [coser]";"vosotras coséis"
+"Indicativo
+Presente
+
+ellos [coser]";"ellos cosen"
+"Indicativo
+Presente
+
+ellas [coser]";"ellas cosen"
+"Indicativo
+Presente
+
+Ustedes [coser]";"Ustedes cosen"
+"Indicativo
+Presente
+
+yo [crecer]";"yo crezco"
+"Indicativo
+Presente
+
+tú [crecer]";"tú creces"
+"Indicativo
+Presente
+
+él [crecer]";"él crece"
+"Indicativo
+Presente
+
+ella [crecer]";"ella crece"
+"Indicativo
+Presente
+
+Usted [crecer]";"Usted crece"
+"Indicativo
+Presente
+
+nosotros [crecer]";"nosotros crecemos"
+"Indicativo
+Presente
+
+nosotras [crecer]";"nosotras crecemos"
+"Indicativo
+Presente
+
+vosotros [crecer]";"vosotros crecéis"
+"Indicativo
+Presente
+
+vosotras [crecer]";"vosotras crecéis"
+"Indicativo
+Presente
+
+ellos [crecer]";"ellos crecen"
+"Indicativo
+Presente
+
+ellas [crecer]";"ellas crecen"
+"Indicativo
+Presente
+
+Ustedes [crecer]";"Ustedes crecen"
+"Indicativo
+Presente
+
+yo [creer]";"yo creo"
+"Indicativo
+Presente
+
+tú [creer]";"tú crees"
+"Indicativo
+Presente
+
+él [creer]";"él cree"
+"Indicativo
+Presente
+
+ella [creer]";"ella cree"
+"Indicativo
+Presente
+
+Usted [creer]";"Usted cree"
+"Indicativo
+Presente
+
+nosotros [creer]";"nosotros creemos"
+"Indicativo
+Presente
+
+nosotras [creer]";"nosotras creemos"
+"Indicativo
+Presente
+
+vosotros [creer]";"vosotros creéis"
+"Indicativo
+Presente
+
+vosotras [creer]";"vosotras creéis"
+"Indicativo
+Presente
+
+ellos [creer]";"ellos creen"
+"Indicativo
+Presente
+
+ellas [creer]";"ellas creen"
+"Indicativo
+Presente
+
+Ustedes [creer]";"Ustedes creen"
+"Indicativo
+Presente
+
+yo [cubrir]";"yo cubro"
+"Indicativo
+Presente
+
+tú [cubrir]";"tú cubres"
+"Indicativo
+Presente
+
+él [cubrir]";"él cubre"
+"Indicativo
+Presente
+
+ella [cubrir]";"ella cubre"
+"Indicativo
+Presente
+
+Usted [cubrir]";"Usted cubre"
+"Indicativo
+Presente
+
+nosotros [cubrir]";"nosotros cubrimos"
+"Indicativo
+Presente
+
+nosotras [cubrir]";"nosotras cubrimos"
+"Indicativo
+Presente
+
+vosotros [cubrir]";"vosotros cubrís"
+"Indicativo
+Presente
+
+vosotras [cubrir]";"vosotras cubrís"
+"Indicativo
+Presente
+
+ellos [cubrir]";"ellos cubren"
+"Indicativo
+Presente
+
+ellas [cubrir]";"ellas cubren"
+"Indicativo
+Presente
+
+Ustedes [cubrir]";"Ustedes cubren"
+"Indicativo
+Presente
+
+yo [cumplir]";"yo cumplo"
+"Indicativo
+Presente
+
+tú [cumplir]";"tú cumples"
+"Indicativo
+Presente
+
+él [cumplir]";"él cumple"
+"Indicativo
+Presente
+
+ella [cumplir]";"ella cumple"
+"Indicativo
+Presente
+
+Usted [cumplir]";"Usted cumple"
+"Indicativo
+Presente
+
+nosotros [cumplir]";"nosotros cumplimos"
+"Indicativo
+Presente
+
+nosotras [cumplir]";"nosotras cumplimos"
+"Indicativo
+Presente
+
+vosotros [cumplir]";"vosotros cumplís"
+"Indicativo
+Presente
+
+vosotras [cumplir]";"vosotras cumplís"
+"Indicativo
+Presente
+
+ellos [cumplir]";"ellos cumplen"
+"Indicativo
+Presente
+
+ellas [cumplir]";"ellas cumplen"
+"Indicativo
+Presente
+
+Ustedes [cumplir]";"Ustedes cumplen"
+"Indicativo
+Presente
+
+yo [deber]";"yo debo"
+"Indicativo
+Presente
+
+tú [deber]";"tú debes"
+"Indicativo
+Presente
+
+él [deber]";"él debe"
+"Indicativo
+Presente
+
+ella [deber]";"ella debe"
+"Indicativo
+Presente
+
+Usted [deber]";"Usted debe"
+"Indicativo
+Presente
+
+nosotros [deber]";"nosotros debemos"
+"Indicativo
+Presente
+
+nosotras [deber]";"nosotras debemos"
+"Indicativo
+Presente
+
+vosotros [deber]";"vosotros debéis"
+"Indicativo
+Presente
+
+vosotras [deber]";"vosotras debéis"
+"Indicativo
+Presente
+
+ellos [deber]";"ellos deben"
+"Indicativo
+Presente
+
+ellas [deber]";"ellas deben"
+"Indicativo
+Presente
+
+Ustedes [deber]";"Ustedes deben"
+"Indicativo
+Presente
+
+yo [decidir]";"yo decido"
+"Indicativo
+Presente
+
+tú [decidir]";"tú decides"
+"Indicativo
+Presente
+
+él [decidir]";"él decide"
+"Indicativo
+Presente
+
+ella [decidir]";"ella decide"
+"Indicativo
+Presente
+
+Usted [decidir]";"Usted decide"
+"Indicativo
+Presente
+
+nosotros [decidir]";"nosotros decidimos"
+"Indicativo
+Presente
+
+nosotras [decidir]";"nosotras decidimos"
+"Indicativo
+Presente
+
+vosotros [decidir]";"vosotros decidís"
+"Indicativo
+Presente
+
+vosotras [decidir]";"vosotras decidís"
+"Indicativo
+Presente
+
+ellos [decidir]";"ellos deciden"
+"Indicativo
+Presente
+
+ellas [decidir]";"ellas deciden"
+"Indicativo
+Presente
+
+Ustedes [decidir]";"Ustedes deciden"
+"Indicativo
+Presente
+
+yo [depender]";"yo dependo"
+"Indicativo
+Presente
+
+tú [depender]";"tú dependes"
+"Indicativo
+Presente
+
+él [depender]";"él depende"
+"Indicativo
+Presente
+
+ella [depender]";"ella depende"
+"Indicativo
+Presente
+
+Usted [depender]";"Usted depende"
+"Indicativo
+Presente
+
+nosotros [depender]";"nosotros dependemos"
+"Indicativo
+Presente
+
+nosotras [depender]";"nosotras dependemos"
+"Indicativo
+Presente
+
+vosotros [depender]";"vosotros dependéis"
+"Indicativo
+Presente
+
+vosotras [depender]";"vosotras dependéis"
+"Indicativo
+Presente
+
+ellos [depender]";"ellos dependen"
+"Indicativo
+Presente
+
+ellas [depender]";"ellas dependen"
+"Indicativo
+Presente
+
+Ustedes [depender]";"Ustedes dependen"
+"Indicativo
+Presente
+
+yo [decir]";"yo digo"
+"Indicativo
+Presente
+
+tú [decir]";"tú dices"
+"Indicativo
+Presente
+
+él [decir]";"él dice"
+"Indicativo
+Presente
+
+ella [decir]";"ella dice"
+"Indicativo
+Presente
+
+Usted [decir]";"Usted dice"
+"Indicativo
+Presente
+
+nosotros [decir]";"nosotros decimos"
+"Indicativo
+Presente
+
+nosotras [decir]";"nosotras decimos"
+"Indicativo
+Presente
+
+vosotros [decir]";"vosotros decís"
+"Indicativo
+Presente
+
+vosotras [decir]";"vosotras decís"
+"Indicativo
+Presente
+
+ellos [decir]";"ellos dicen"
+"Indicativo
+Presente
+
+ellas [decir]";"ellas dicen"
+"Indicativo
+Presente
+
+Ustedes [decir]";"Ustedes dicen"
+"Indicativo
+Presente
+
+yo [defender]";"yo defiendo"
+"Indicativo
+Presente
+
+tú [defender]";"tú defiendes"
+"Indicativo
+Presente
+
+él [defender]";"él defiende"
+"Indicativo
+Presente
+
+ella [defender]";"ella defiende"
+"Indicativo
+Presente
+
+Usted [defender]";"Usted defiende"
+"Indicativo
+Presente
+
+nosotros [defender]";"nosotros defendemos"
+"Indicativo
+Presente
+
+nosotras [defender]";"nosotras defendemos"
+"Indicativo
+Presente
+
+vosotros [defender]";"vosotros defendéis"
+"Indicativo
+Presente
+
+vosotras [defender]";"vosotras defendéis"
+"Indicativo
+Presente
+
+ellos [defender]";"ellos defienden"
+"Indicativo
+Presente
+
+ellas [defender]";"ellas defienden"
+"Indicativo
+Presente
+
+Ustedes [defender]";"Ustedes defienden"
+"Indicativo
+Presente
+
+yo [deprimir]";"yo deprimo"
+"Indicativo
+Presente
+
+tú [deprimir]";"tú deprimes"
+"Indicativo
+Presente
+
+él [deprimir]";"él deprime"
+"Indicativo
+Presente
+
+ella [deprimir]";"ella deprime"
+"Indicativo
+Presente
+
+Usted [deprimir]";"Usted deprime"
+"Indicativo
+Presente
+
+nosotros [deprimir]";"nosotros deprimimos"
+"Indicativo
+Presente
+
+nosotras [deprimir]";"nosotras deprimimos"
+"Indicativo
+Presente
+
+vosotros [deprimir]";"vosotros deprimís"
+"Indicativo
+Presente
+
+vosotras [deprimir]";"vosotras deprimís"
+"Indicativo
+Presente
+
+ellos [deprimir]";"ellos deprimen"
+"Indicativo
+Presente
+
+ellas [deprimir]";"ellas deprimen"
+"Indicativo
+Presente
+
+Ustedes [deprimir]";"Ustedes deprimen"
+"Indicativo
+Presente
+
+yo [derretir]";"yo derrito"
+"Indicativo
+Presente
+
+tú [derretir]";"tú derrites"
+"Indicativo
+Presente
+
+él [derretir]";"él derrite"
+"Indicativo
+Presente
+
+ella [derretir]";"ella derrite"
+"Indicativo
+Presente
+
+Usted [derretir]";"Usted derrite"
+"Indicativo
+Presente
+
+nosotros [derretir]";"nosotros derretimos"
+"Indicativo
+Presente
+
+nosotras [derretir]";"nosotras derretimos"
+"Indicativo
+Presente
+
+vosotros [derretir]";"vosotros derretís"
+"Indicativo
+Presente
+
+vosotras [derretir]";"vosotras derretís"
+"Indicativo
+Presente
+
+ellos [derretir]";"ellos derriten"
+"Indicativo
+Presente
+
+ellas [derretir]";"ellas derriten"
+"Indicativo
+Presente
+
+Ustedes [derretir]";"Ustedes derriten"
+"Indicativo
+Presente
+
+yo [desagradecer]";"yo desagradezco"
+"Indicativo
+Presente
+
+tú [desagradecer]";"tú desagradeces"
+"Indicativo
+Presente
+
+él [desagradecer]";"él desagradece"
+"Indicativo
+Presente
+
+ella [desagradecer]";"ella desagradece"
+"Indicativo
+Presente
+
+Usted [desagradecer]";"Usted desagradece"
+"Indicativo
+Presente
+
+nosotros [desagradecer]";"nosotros desagradecemos"
+"Indicativo
+Presente
+
+nosotras [desagradecer]";"nosotras desagradecemos"
+"Indicativo
+Presente
+
+vosotros [desagradecer]";"vosotros desagradecéis"
+"Indicativo
+Presente
+
+vosotras [desagradecer]";"vosotras desagradecéis"
+"Indicativo
+Presente
+
+ellos [desagradecer]";"ellos desagradecen"
+"Indicativo
+Presente
+
+ellas [desagradecer]";"ellas desagradecen"
+"Indicativo
+Presente
+
+Ustedes [desagradecer]";"Ustedes desagradecen"
+"Indicativo
+Presente
+
+yo [desaparecer]";"yo desaparezco"
+"Indicativo
+Presente
+
+tú [desaparecer]";"tú desapareces"
+"Indicativo
+Presente
+
+él [desaparecer]";"él desaparece"
+"Indicativo
+Presente
+
+ella [desaparecer]";"ella desaparece"
+"Indicativo
+Presente
+
+Usted [desaparecer]";"Usted desaparece"
+"Indicativo
+Presente
+
+nosotros [desaparecer]";"nosotros desaparecemos"
+"Indicativo
+Presente
+
+nosotras [desaparecer]";"nosotras desaparecemos"
+"Indicativo
+Presente
+
+vosotros [desaparecer]";"vosotros desaparecéis"
+"Indicativo
+Presente
+
+vosotras [desaparecer]";"vosotras desaparecéis"
+"Indicativo
+Presente
+
+ellos [desaparecer]";"ellos desaparecen"
+"Indicativo
+Presente
+
+ellas [desaparecer]";"ellas desaparecen"
+"Indicativo
+Presente
+
+Ustedes [desaparecer]";"Ustedes desaparecen"
+"Indicativo
+Presente
+
+yo [descender]";"yo desciendo"
+"Indicativo
+Presente
+
+tú [descender]";"tú desciendes"
+"Indicativo
+Presente
+
+él [descender]";"él desciende"
+"Indicativo
+Presente
+
+ella [descender]";"ella desciende"
+"Indicativo
+Presente
+
+Usted [descender]";"Usted desciende"
+"Indicativo
+Presente
+
+nosotros [descender]";"nosotros descendemos"
+"Indicativo
+Presente
+
+nosotras [descender]";"nosotras descendemos"
+"Indicativo
+Presente
+
+vosotros [descender]";"vosotros descendéis"
+"Indicativo
+Presente
+
+vosotras [descender]";"vosotras descendéis"
+"Indicativo
+Presente
+
+ellos [descender]";"ellos descienden"
+"Indicativo
+Presente
+
+ellas [descender]";"ellas descienden"
+"Indicativo
+Presente
+
+Ustedes [descender]";"Ustedes descienden"
+"Indicativo
+Presente
+
+yo [describir]";"yo describo"
+"Indicativo
+Presente
+
+tú [describir]";"tú describes"
+"Indicativo
+Presente
+
+él [describir]";"él describe"
+"Indicativo
+Presente
+
+ella [describir]";"ella describe"
+"Indicativo
+Presente
+
+Usted [describir]";"Usted describe"
+"Indicativo
+Presente
+
+nosotros [describir]";"nosotros describimos"
+"Indicativo
+Presente
+
+nosotras [describir]";"nosotras describimos"
+"Indicativo
+Presente
+
+vosotros [describir]";"vosotros describís"
+"Indicativo
+Presente
+
+vosotras [describir]";"vosotras describís"
+"Indicativo
+Presente
+
+ellos [describir]";"ellos describen"
+"Indicativo
+Presente
+
+ellas [describir]";"ellas describen"
+"Indicativo
+Presente
+
+Ustedes [describir]";"Ustedes describen"
+"Indicativo
+Presente
+
+yo [descubrir]";"yo descubro"
+"Indicativo
+Presente
+
+tú [descubrir]";"tú descubres"
+"Indicativo
+Presente
+
+él [descubrir]";"él descubre"
+"Indicativo
+Presente
+
+ella [descubrir]";"ella descubre"
+"Indicativo
+Presente
+
+Usted [descubrir]";"Usted descubre"
+"Indicativo
+Presente
+
+nosotros [descubrir]";"nosotros descubrimos"
+"Indicativo
+Presente
+
+nosotras [descubrir]";"nosotras descubrimos"
+"Indicativo
+Presente
+
+vosotros [descubrir]";"vosotros descubrís"
+"Indicativo
+Presente
+
+vosotras [descubrir]";"vosotras descubrís"
+"Indicativo
+Presente
+
+ellos [descubrir]";"ellos descubren"
+"Indicativo
+Presente
+
+ellas [descubrir]";"ellas descubren"
+"Indicativo
+Presente
+
+Ustedes [descubrir]";"Ustedes descubren"
+"Indicativo
+Presente
+
+yo [deshacer]";"yo deshago"
+"Indicativo
+Presente
+
+tú [deshacer]";"tú deshaces"
+"Indicativo
+Presente
+
+él [deshacer]";"él deshace"
+"Indicativo
+Presente
+
+ella [deshacer]";"ella deshace"
+"Indicativo
+Presente
+
+Usted [deshacer]";"Usted deshace"
+"Indicativo
+Presente
+
+nosotros [deshacer]";"nosotros deshacemos"
+"Indicativo
+Presente
+
+nosotras [deshacer]";"nosotras deshacemos"
+"Indicativo
+Presente
+
+vosotros [deshacer]";"vosotros deshacéis"
+"Indicativo
+Presente
+
+vosotras [deshacer]";"vosotras deshacéis"
+"Indicativo
+Presente
+
+ellos [deshacer]";"ellos deshacen"
+"Indicativo
+Presente
+
+ellas [deshacer]";"ellas deshacen"
+"Indicativo
+Presente
+
+Ustedes [deshacer]";"Ustedes deshacen"
+"Indicativo
+Presente
+
+yo [despedir]";"yo despido"
+"Indicativo
+Presente
+
+tú [despedir]";"tú despides"
+"Indicativo
+Presente
+
+él [despedir]";"él despide"
+"Indicativo
+Presente
+
+ella [despedir]";"ella despide"
+"Indicativo
+Presente
+
+Usted [despedir]";"Usted despide"
+"Indicativo
+Presente
+
+nosotros [despedir]";"nosotros despedimos"
+"Indicativo
+Presente
+
+nosotras [despedir]";"nosotras despedimos"
+"Indicativo
+Presente
+
+vosotros [despedir]";"vosotros despedís"
+"Indicativo
+Presente
+
+vosotras [despedir]";"vosotras despedís"
+"Indicativo
+Presente
+
+ellos [despedir]";"ellos despiden"
+"Indicativo
+Presente
+
+ellas [despedir]";"ellas despiden"
+"Indicativo
+Presente
+
+Ustedes [despedir]";"Ustedes despiden"
+"Indicativo
+Presente
+
+yo [destruir]";"yo destruyo"
+"Indicativo
+Presente
+
+tú [destruir]";"tú destruyes"
+"Indicativo
+Presente
+
+él [destruir]";"él destruye"
+"Indicativo
+Presente
+
+ella [destruir]";"ella destruye"
+"Indicativo
+Presente
+
+Usted [destruir]";"Usted destruye"
+"Indicativo
+Presente
+
+nosotros [destruir]";"nosotros destruimos"
+"Indicativo
+Presente
+
+nosotras [destruir]";"nosotras destruimos"
+"Indicativo
+Presente
+
+vosotros [destruir]";"vosotros destruís"
+"Indicativo
+Presente
+
+vosotras [destruir]";"vosotras destruís"
+"Indicativo
+Presente
+
+ellos [destruir]";"ellos destruyen"
+"Indicativo
+Presente
+
+ellas [destruir]";"ellas destruyen"
+"Indicativo
+Presente
+
+Ustedes [destruir]";"Ustedes destruyen"
+"Indicativo
+Presente
+
+yo [detener]";"yo detengo"
+"Indicativo
+Presente
+
+tú [detener]";"tú detienes"
+"Indicativo
+Presente
+
+él [detener]";"él detiene"
+"Indicativo
+Presente
+
+ella [detener]";"ella detiene"
+"Indicativo
+Presente
+
+Usted [detener]";"Usted detiene"
+"Indicativo
+Presente
+
+nosotros [detener]";"nosotros detenemos"
+"Indicativo
+Presente
+
+nosotras [detener]";"nosotras detenemos"
+"Indicativo
+Presente
+
+vosotros [detener]";"vosotros detenéis"
+"Indicativo
+Presente
+
+vosotras [detener]";"vosotras detenéis"
+"Indicativo
+Presente
+
+ellos [detener]";"ellos detienen"
+"Indicativo
+Presente
+
+ellas [detener]";"ellas detienen"
+"Indicativo
+Presente
+
+Ustedes [detener]";"Ustedes detienen"
+"Indicativo
+Presente
+
+yo [devolver]";"yo devuelvo"
+"Indicativo
+Presente
+
+tú [devolver]";"tú devuelves"
+"Indicativo
+Presente
+
+él [devolver]";"él devuelve"
+"Indicativo
+Presente
+
+ella [devolver]";"ella devuelve"
+"Indicativo
+Presente
+
+Usted [devolver]";"Usted devuelve"
+"Indicativo
+Presente
+
+nosotros [devolver]";"nosotros devolvemos"
+"Indicativo
+Presente
+
+nosotras [devolver]";"nosotras devolvemos"
+"Indicativo
+Presente
+
+vosotros [devolver]";"vosotros devolvéis"
+"Indicativo
+Presente
+
+vosotras [devolver]";"vosotras devolvéis"
+"Indicativo
+Presente
+
+ellos [devolver]";"ellos devuelven"
+"Indicativo
+Presente
+
+ellas [devolver]";"ellas devuelven"
+"Indicativo
+Presente
+
+Ustedes [devolver]";"Ustedes devuelven"
+"Indicativo
+Presente
+
+yo [dirigir]";"yo dirijo"
+"Indicativo
+Presente
+
+tú [dirigir]";"tú diriges"
+"Indicativo
+Presente
+
+él [dirigir]";"él dirige"
+"Indicativo
+Presente
+
+ella [dirigir]";"ella dirige"
+"Indicativo
+Presente
+
+Usted [dirigir]";"Usted dirige"
+"Indicativo
+Presente
+
+nosotros [dirigir]";"nosotros dirigimos"
+"Indicativo
+Presente
+
+nosotras [dirigir]";"nosotras dirigimos"
+"Indicativo
+Presente
+
+vosotros [dirigir]";"vosotros dirigís"
+"Indicativo
+Presente
+
+vosotras [dirigir]";"vosotras dirigís"
+"Indicativo
+Presente
+
+ellos [dirigir]";"ellos dirigen"
+"Indicativo
+Presente
+
+ellas [dirigir]";"ellas dirigen"
+"Indicativo
+Presente
+
+Ustedes [dirigir]";"Ustedes dirigen"
+"Indicativo
+Presente
+
+yo [disminuir]";"yo disminuyo"
+"Indicativo
+Presente
+
+tú [disminuir]";"tú disminuyes"
+"Indicativo
+Presente
+
+él [disminuir]";"él disminuye"
+"Indicativo
+Presente
+
+ella [disminuir]";"ella disminuye"
+"Indicativo
+Presente
+
+Usted [disminuir]";"Usted disminuye"
+"Indicativo
+Presente
+
+nosotros [disminuir]";"nosotros disminuimos"
+"Indicativo
+Presente
+
+nosotras [disminuir]";"nosotras disminuimos"
+"Indicativo
+Presente
+
+vosotros [disminuir]";"vosotros disminuís"
+"Indicativo
+Presente
+
+vosotras [disminuir]";"vosotras disminuís"
+"Indicativo
+Presente
+
+ellos [disminuir]";"ellos disminuyen"
+"Indicativo
+Presente
+
+ellas [disminuir]";"ellas disminuyen"
+"Indicativo
+Presente
+
+Ustedes [disminuir]";"Ustedes disminuyen"
+"Indicativo
+Presente
+
+yo [distinguir]";"yo distingo"
+"Indicativo
+Presente
+
+tú [distinguir]";"tú distingues"
+"Indicativo
+Presente
+
+él [distinguir]";"él distingue"
+"Indicativo
+Presente
+
+ella [distinguir]";"ella distingue"
+"Indicativo
+Presente
+
+Usted [distinguir]";"Usted distingue"
+"Indicativo
+Presente
+
+nosotros [distinguir]";"nosotros distinguimos"
+"Indicativo
+Presente
+
+nosotras [distinguir]";"nosotras distinguimos"
+"Indicativo
+Presente
+
+vosotros [distinguir]";"vosotros distinguís"
+"Indicativo
+Presente
+
+vosotras [distinguir]";"vosotras distinguís"
+"Indicativo
+Presente
+
+ellos [distinguir]";"ellos distinguen"
+"Indicativo
+Presente
+
+ellas [distinguir]";"ellas distinguen"
+"Indicativo
+Presente
+
+Ustedes [distinguir]";"Ustedes distinguen"
+"Indicativo
+Presente
+
+yo [distribuir]";"yo distribuyo"
+"Indicativo
+Presente
+
+tú [distribuir]";"tú distribuyes"
+"Indicativo
+Presente
+
+él [distribuir]";"él distribuye"
+"Indicativo
+Presente
+
+ella [distribuir]";"ella distribuye"
+"Indicativo
+Presente
+
+Usted [distribuir]";"Usted distribuye"
+"Indicativo
+Presente
+
+nosotros [distribuir]";"nosotros distribuimos"
+"Indicativo
+Presente
+
+nosotras [distribuir]";"nosotras distribuimos"
+"Indicativo
+Presente
+
+vosotros [distribuir]";"vosotros distribuís"
+"Indicativo
+Presente
+
+vosotras [distribuir]";"vosotras distribuís"
+"Indicativo
+Presente
+
+ellos [distribuir]";"ellos distribuyen"
+"Indicativo
+Presente
+
+ellas [distribuir]";"ellas distribuyen"
+"Indicativo
+Presente
+
+Ustedes [distribuir]";"Ustedes distribuyen"
+"Indicativo
+Presente
+
+yo [divertir]";"yo divierto"
+"Indicativo
+Presente
+
+tú [divertir]";"tú diviertes"
+"Indicativo
+Presente
+
+él [divertir]";"él divierte"
+"Indicativo
+Presente
+
+ella [divertir]";"ella divierte"
+"Indicativo
+Presente
+
+Usted [divertir]";"Usted divierte"
+"Indicativo
+Presente
+
+nosotros [divertir]";"nosotros divertimos"
+"Indicativo
+Presente
+
+nosotras [divertir]";"nosotras divertimos"
+"Indicativo
+Presente
+
+vosotros [divertir]";"vosotros divertís"
+"Indicativo
+Presente
+
+vosotras [divertir]";"vosotras divertís"
+"Indicativo
+Presente
+
+ellos [divertir]";"ellos divierten"
+"Indicativo
+Presente
+
+ellas [divertir]";"ellas divierten"
+"Indicativo
+Presente
+
+Ustedes [divertir]";"Ustedes divierten"
+"Indicativo
+Presente
+
+yo [doler]";"yo "
+"Indicativo
+Presente
+
+tú [doler]";"tú "
+"Indicativo
+Presente
+
+él [doler]";"él duele"
+"Indicativo
+Presente
+
+ella [doler]";"ella duele"
+"Indicativo
+Presente
+
+Usted [doler]";"Usted duele"
+"Indicativo
+Presente
+
+nosotros [doler]";"nosotros "
+"Indicativo
+Presente
+
+nosotras [doler]";"nosotras "
+"Indicativo
+Presente
+
+vosotros [doler]";"vosotros "
+"Indicativo
+Presente
+
+vosotras [doler]";"vosotras "
+"Indicativo
+Presente
+
+ellos [doler]";"ellos duelen"
+"Indicativo
+Presente
+
+ellas [doler]";"ellas duelen"
+"Indicativo
+Presente
+
+Ustedes [doler]";"Ustedes duelen"
+"Indicativo
+Presente
+
+yo [dormir]";"yo duermo"
+"Indicativo
+Presente
+
+tú [dormir]";"tú duermes"
+"Indicativo
+Presente
+
+él [dormir]";"él duerme"
+"Indicativo
+Presente
+
+ella [dormir]";"ella duerme"
+"Indicativo
+Presente
+
+Usted [dormir]";"Usted duerme"
+"Indicativo
+Presente
+
+nosotros [dormir]";"nosotros dormimos"
+"Indicativo
+Presente
+
+nosotras [dormir]";"nosotras dormimos"
+"Indicativo
+Presente
+
+vosotros [dormir]";"vosotros dormís"
+"Indicativo
+Presente
+
+vosotras [dormir]";"vosotras dormís"
+"Indicativo
+Presente
+
+ellos [dormir]";"ellos duermen"
+"Indicativo
+Presente
+
+ellas [dormir]";"ellas duermen"
+"Indicativo
+Presente
+
+Ustedes [dormir]";"Ustedes duermen"
+"Indicativo
+Presente
+
+yo [ejercer]";"yo ejerzo"
+"Indicativo
+Presente
+
+tú [ejercer]";"tú ejerces"
+"Indicativo
+Presente
+
+él [ejercer]";"él ejerce"
+"Indicativo
+Presente
+
+ella [ejercer]";"ella ejerce"
+"Indicativo
+Presente
+
+Usted [ejercer]";"Usted ejerce"
+"Indicativo
+Presente
+
+nosotros [ejercer]";"nosotros ejercemos"
+"Indicativo
+Presente
+
+nosotras [ejercer]";"nosotras ejercemos"
+"Indicativo
+Presente
+
+vosotros [ejercer]";"vosotros ejercéis"
+"Indicativo
+Presente
+
+vosotras [ejercer]";"vosotras ejercéis"
+"Indicativo
+Presente
+
+ellos [ejercer]";"ellos ejercen"
+"Indicativo
+Presente
+
+ellas [ejercer]";"ellas ejercen"
+"Indicativo
+Presente
+
+Ustedes [ejercer]";"Ustedes ejercen"
+"Indicativo
+Presente
+
+yo [elegir]";"yo elijo"
+"Indicativo
+Presente
+
+tú [elegir]";"tú eliges"
+"Indicativo
+Presente
+
+él [elegir]";"él elige"
+"Indicativo
+Presente
+
+ella [elegir]";"ella elige"
+"Indicativo
+Presente
+
+Usted [elegir]";"Usted elige"
+"Indicativo
+Presente
+
+nosotros [elegir]";"nosotros elegimos"
+"Indicativo
+Presente
+
+nosotras [elegir]";"nosotras elegimos"
+"Indicativo
+Presente
+
+vosotros [elegir]";"vosotros elegís"
+"Indicativo
+Presente
+
+vosotras [elegir]";"vosotras elegís"
+"Indicativo
+Presente
+
+ellos [elegir]";"ellos eligen"
+"Indicativo
+Presente
+
+ellas [elegir]";"ellas eligen"
+"Indicativo
+Presente
+
+Ustedes [elegir]";"Ustedes eligen"
+"Indicativo
+Presente
+
+yo [encender]";"yo enciendo"
+"Indicativo
+Presente
+
+tú [encender]";"tú enciendes"
+"Indicativo
+Presente
+
+él [encender]";"él enciende"
+"Indicativo
+Presente
+
+ella [encender]";"ella enciende"
+"Indicativo
+Presente
+
+Usted [encender]";"Usted enciende"
+"Indicativo
+Presente
+
+nosotros [encender]";"nosotros encendemos"
+"Indicativo
+Presente
+
+nosotras [encender]";"nosotras encendemos"
+"Indicativo
+Presente
+
+vosotros [encender]";"vosotros encendéis"
+"Indicativo
+Presente
+
+vosotras [encender]";"vosotras encendéis"
+"Indicativo
+Presente
+
+ellos [encender]";"ellos encienden"
+"Indicativo
+Presente
+
+ellas [encender]";"ellas encienden"
+"Indicativo
+Presente
+
+Ustedes [encender]";"Ustedes encienden"
+"Indicativo
+Presente
+
+yo [enflaquecer]";"yo enflaquezco"
+"Indicativo
+Presente
+
+tú [enflaquecer]";"tú enflaqueces"
+"Indicativo
+Presente
+
+él [enflaquecer]";"él enflaquece"
+"Indicativo
+Presente
+
+ella [enflaquecer]";"ella enflaquece"
+"Indicativo
+Presente
+
+Usted [enflaquecer]";"Usted enflaquece"
+"Indicativo
+Presente
+
+nosotros [enflaquecer]";"nosotros enflaquecemos"
+"Indicativo
+Presente
+
+nosotras [enflaquecer]";"nosotras enflaquecemos"
+"Indicativo
+Presente
+
+vosotros [enflaquecer]";"vosotros enflaquecéis"
+"Indicativo
+Presente
+
+vosotras [enflaquecer]";"vosotras enflaquecéis"
+"Indicativo
+Presente
+
+ellos [enflaquecer]";"ellos enflaquecen"
+"Indicativo
+Presente
+
+ellas [enflaquecer]";"ellas enflaquecen"
+"Indicativo
+Presente
+
+Ustedes [enflaquecer]";"Ustedes enflaquecen"
+"Indicativo
+Presente
+
+yo [enriquecer]";"yo enriquezco"
+"Indicativo
+Presente
+
+tú [enriquecer]";"tú enriqueces"
+"Indicativo
+Presente
+
+él [enriquecer]";"él enriquece"
+"Indicativo
+Presente
+
+ella [enriquecer]";"ella enriquece"
+"Indicativo
+Presente
+
+Usted [enriquecer]";"Usted enriquece"
+"Indicativo
+Presente
+
+nosotros [enriquecer]";"nosotros enriquecemos"
+"Indicativo
+Presente
+
+nosotras [enriquecer]";"nosotras enriquecemos"
+"Indicativo
+Presente
+
+vosotros [enriquecer]";"vosotros enriquecéis"
+"Indicativo
+Presente
+
+vosotras [enriquecer]";"vosotras enriquecéis"
+"Indicativo
+Presente
+
+ellos [enriquecer]";"ellos enriquecen"
+"Indicativo
+Presente
+
+ellas [enriquecer]";"ellas enriquecen"
+"Indicativo
+Presente
+
+Ustedes [enriquecer]";"Ustedes enriquecen"
+"Indicativo
+Presente
+
+yo [entender]";"yo entiendo"
+"Indicativo
+Presente
+
+tú [entender]";"tú entiendes"
+"Indicativo
+Presente
+
+él [entender]";"él entiende"
+"Indicativo
+Presente
+
+ella [entender]";"ella entiende"
+"Indicativo
+Presente
+
+Usted [entender]";"Usted entiende"
+"Indicativo
+Presente
+
+nosotros [entender]";"nosotros entendemos"
+"Indicativo
+Presente
+
+nosotras [entender]";"nosotras entendemos"
+"Indicativo
+Presente
+
+vosotros [entender]";"vosotros entendéis"
+"Indicativo
+Presente
+
+vosotras [entender]";"vosotras entendéis"
+"Indicativo
+Presente
+
+ellos [entender]";"ellos entienden"
+"Indicativo
+Presente
+
+ellas [entender]";"ellas entienden"
+"Indicativo
+Presente
+
+Ustedes [entender]";"Ustedes entienden"
+"Indicativo
+Presente
+
+yo [entretener]";"yo entretengo"
+"Indicativo
+Presente
+
+tú [entretener]";"tú entretienes"
+"Indicativo
+Presente
+
+él [entretener]";"él entretiene"
+"Indicativo
+Presente
+
+ella [entretener]";"ella entretiene"
+"Indicativo
+Presente
+
+Usted [entretener]";"Usted entretiene"
+"Indicativo
+Presente
+
+nosotros [entretener]";"nosotros entretenemos"
+"Indicativo
+Presente
+
+nosotras [entretener]";"nosotras entretenemos"
+"Indicativo
+Presente
+
+vosotros [entretener]";"vosotros entretenéis"
+"Indicativo
+Presente
+
+vosotras [entretener]";"vosotras entretenéis"
+"Indicativo
+Presente
+
+ellos [entretener]";"ellos entretienen"
+"Indicativo
+Presente
+
+ellas [entretener]";"ellas entretienen"
+"Indicativo
+Presente
+
+Ustedes [entretener]";"Ustedes entretienen"
+"Indicativo
+Presente
+
+yo [envejecer]";"yo envejezco"
+"Indicativo
+Presente
+
+tú [envejecer]";"tú envejeces"
+"Indicativo
+Presente
+
+él [envejecer]";"él envejece"
+"Indicativo
+Presente
+
+ella [envejecer]";"ella envejece"
+"Indicativo
+Presente
+
+Usted [envejecer]";"Usted envejece"
+"Indicativo
+Presente
+
+nosotros [envejecer]";"nosotros envejecemos"
+"Indicativo
+Presente
+
+nosotras [envejecer]";"nosotras envejecemos"
+"Indicativo
+Presente
+
+vosotros [envejecer]";"vosotros envejecéis"
+"Indicativo
+Presente
+
+vosotras [envejecer]";"vosotras envejecéis"
+"Indicativo
+Presente
+
+ellos [envejecer]";"ellos envejecen"
+"Indicativo
+Presente
+
+ellas [envejecer]";"ellas envejecen"
+"Indicativo
+Presente
+
+Ustedes [envejecer]";"Ustedes envejecen"
+"Indicativo
+Presente
+
+yo [escoger]";"yo escojo"
+"Indicativo
+Presente
+
+tú [escoger]";"tú escoges"
+"Indicativo
+Presente
+
+él [escoger]";"él escoge"
+"Indicativo
+Presente
+
+ella [escoger]";"ella escoge"
+"Indicativo
+Presente
+
+Usted [escoger]";"Usted escoge"
+"Indicativo
+Presente
+
+nosotros [escoger]";"nosotros escogemos"
+"Indicativo
+Presente
+
+nosotras [escoger]";"nosotras escogemos"
+"Indicativo
+Presente
+
+vosotros [escoger]";"vosotros escogéis"
+"Indicativo
+Presente
+
+vosotras [escoger]";"vosotras escogéis"
+"Indicativo
+Presente
+
+ellos [escoger]";"ellos escogen"
+"Indicativo
+Presente
+
+ellas [escoger]";"ellas escogen"
+"Indicativo
+Presente
+
+Ustedes [escoger]";"Ustedes escogen"
+"Indicativo
+Presente
+
+yo [esconder]";"yo escondo"
+"Indicativo
+Presente
+
+tú [esconder]";"tú escondes"
+"Indicativo
+Presente
+
+él [esconder]";"él esconde"
+"Indicativo
+Presente
+
+ella [esconder]";"ella esconde"
+"Indicativo
+Presente
+
+Usted [esconder]";"Usted esconde"
+"Indicativo
+Presente
+
+nosotros [esconder]";"nosotros escondemos"
+"Indicativo
+Presente
+
+nosotras [esconder]";"nosotras escondemos"
+"Indicativo
+Presente
+
+vosotros [esconder]";"vosotros escondéis"
+"Indicativo
+Presente
+
+vosotras [esconder]";"vosotras escondéis"
+"Indicativo
+Presente
+
+ellos [esconder]";"ellos esconden"
+"Indicativo
+Presente
+
+ellas [esconder]";"ellas esconden"
+"Indicativo
+Presente
+
+Ustedes [esconder]";"Ustedes esconden"
+"Indicativo
+Presente
+
+yo [escribir]";"yo escribo"
+"Indicativo
+Presente
+
+tú [escribir]";"tú escribes"
+"Indicativo
+Presente
+
+él [escribir]";"él escribe"
+"Indicativo
+Presente
+
+ella [escribir]";"ella escribe"
+"Indicativo
+Presente
+
+Usted [escribir]";"Usted escribe"
+"Indicativo
+Presente
+
+nosotros [escribir]";"nosotros escribimos"
+"Indicativo
+Presente
+
+nosotras [escribir]";"nosotras escribimos"
+"Indicativo
+Presente
+
+vosotros [escribir]";"vosotros escribís"
+"Indicativo
+Presente
+
+vosotras [escribir]";"vosotras escribís"
+"Indicativo
+Presente
+
+ellos [escribir]";"ellos escriben"
+"Indicativo
+Presente
+
+ellas [escribir]";"ellas escriben"
+"Indicativo
+Presente
+
+Ustedes [escribir]";"Ustedes escriben"
+"Indicativo
+Presente
+
+yo [establecer]";"yo establezco"
+"Indicativo
+Presente
+
+tú [establecer]";"tú estableces"
+"Indicativo
+Presente
+
+él [establecer]";"él establece"
+"Indicativo
+Presente
+
+ella [establecer]";"ella establece"
+"Indicativo
+Presente
+
+Usted [establecer]";"Usted establece"
+"Indicativo
+Presente
+
+nosotros [establecer]";"nosotros establecemos"
+"Indicativo
+Presente
+
+nosotras [establecer]";"nosotras establecemos"
+"Indicativo
+Presente
+
+vosotros [establecer]";"vosotros establecéis"
+"Indicativo
+Presente
+
+vosotras [establecer]";"vosotras establecéis"
+"Indicativo
+Presente
+
+ellos [establecer]";"ellos establecen"
+"Indicativo
+Presente
+
+ellas [establecer]";"ellas establecen"
+"Indicativo
+Presente
+
+Ustedes [establecer]";"Ustedes establecen"
+"Indicativo
+Presente
+
+yo [exhibir]";"yo exhibo"
+"Indicativo
+Presente
+
+tú [exhibir]";"tú exhibes"
+"Indicativo
+Presente
+
+él [exhibir]";"él exhibe"
+"Indicativo
+Presente
+
+ella [exhibir]";"ella exhibe"
+"Indicativo
+Presente
+
+Usted [exhibir]";"Usted exhibe"
+"Indicativo
+Presente
+
+nosotros [exhibir]";"nosotros exhibimos"
+"Indicativo
+Presente
+
+nosotras [exhibir]";"nosotras exhibimos"
+"Indicativo
+Presente
+
+vosotros [exhibir]";"vosotros exhibís"
+"Indicativo
+Presente
+
+vosotras [exhibir]";"vosotras exhibís"
+"Indicativo
+Presente
+
+ellos [exhibir]";"ellos exhiben"
+"Indicativo
+Presente
+
+ellas [exhibir]";"ellas exhiben"
+"Indicativo
+Presente
+
+Ustedes [exhibir]";"Ustedes exhiben"
+"Indicativo
+Presente
+
+yo [exigir]";"yo exijo"
+"Indicativo
+Presente
+
+tú [exigir]";"tú exiges"
+"Indicativo
+Presente
+
+él [exigir]";"él exige"
+"Indicativo
+Presente
+
+ella [exigir]";"ella exige"
+"Indicativo
+Presente
+
+Usted [exigir]";"Usted exige"
+"Indicativo
+Presente
+
+nosotros [exigir]";"nosotros exigimos"
+"Indicativo
+Presente
+
+nosotras [exigir]";"nosotras exigimos"
+"Indicativo
+Presente
+
+vosotros [exigir]";"vosotros exigís"
+"Indicativo
+Presente
+
+vosotras [exigir]";"vosotras exigís"
+"Indicativo
+Presente
+
+ellos [exigir]";"ellos exigen"
+"Indicativo
+Presente
+
+ellas [exigir]";"ellas exigen"
+"Indicativo
+Presente
+
+Ustedes [exigir]";"Ustedes exigen"
+"Indicativo
+Presente
+
+yo [exponer]";"yo expongo"
+"Indicativo
+Presente
+
+tú [exponer]";"tú expones"
+"Indicativo
+Presente
+
+él [exponer]";"él expone"
+"Indicativo
+Presente
+
+ella [exponer]";"ella expone"
+"Indicativo
+Presente
+
+Usted [exponer]";"Usted expone"
+"Indicativo
+Presente
+
+nosotros [exponer]";"nosotros exponemos"
+"Indicativo
+Presente
+
+nosotras [exponer]";"nosotras exponemos"
+"Indicativo
+Presente
+
+vosotros [exponer]";"vosotros exponéis"
+"Indicativo
+Presente
+
+vosotras [exponer]";"vosotras exponéis"
+"Indicativo
+Presente
+
+ellos [exponer]";"ellos exponen"
+"Indicativo
+Presente
+
+ellas [exponer]";"ellas exponen"
+"Indicativo
+Presente
+
+Ustedes [exponer]";"Ustedes exponen"
+"Indicativo
+Presente
+
+yo [extender]";"yo extiendo"
+"Indicativo
+Presente
+
+tú [extender]";"tú extiendes"
+"Indicativo
+Presente
+
+él [extender]";"él extiende"
+"Indicativo
+Presente
+
+ella [extender]";"ella extiende"
+"Indicativo
+Presente
+
+Usted [extender]";"Usted extiende"
+"Indicativo
+Presente
+
+nosotros [extender]";"nosotros extendemos"
+"Indicativo
+Presente
+
+nosotras [extender]";"nosotras extendemos"
+"Indicativo
+Presente
+
+vosotros [extender]";"vosotros extendéis"
+"Indicativo
+Presente
+
+vosotras [extender]";"vosotras extendéis"
+"Indicativo
+Presente
+
+ellos [extender]";"ellos extienden"
+"Indicativo
+Presente
+
+ellas [extender]";"ellas extienden"
+"Indicativo
+Presente
+
+Ustedes [extender]";"Ustedes extienden"
+"Indicativo
+Presente
+
+yo [extinguir]";"yo extingo"
+"Indicativo
+Presente
+
+tú [extinguir]";"tú extingues"
+"Indicativo
+Presente
+
+él [extinguir]";"él extingue"
+"Indicativo
+Presente
+
+ella [extinguir]";"ella extingue"
+"Indicativo
+Presente
+
+Usted [extinguir]";"Usted extingue"
+"Indicativo
+Presente
+
+nosotros [extinguir]";"nosotros extinguimos"
+"Indicativo
+Presente
+
+nosotras [extinguir]";"nosotras extinguimos"
+"Indicativo
+Presente
+
+vosotros [extinguir]";"vosotros extinguís"
+"Indicativo
+Presente
+
+vosotras [extinguir]";"vosotras extinguís"
+"Indicativo
+Presente
+
+ellos [extinguir]";"ellos extinguen"
+"Indicativo
+Presente
+
+ellas [extinguir]";"ellas extinguen"
+"Indicativo
+Presente
+
+Ustedes [extinguir]";"Ustedes extinguen"
+"Indicativo
+Presente
+
+yo [fingir]";"yo finjo"
+"Indicativo
+Presente
+
+tú [fingir]";"tú finges"
+"Indicativo
+Presente
+
+él [fingir]";"él finge"
+"Indicativo
+Presente
+
+ella [fingir]";"ella finge"
+"Indicativo
+Presente
+
+Usted [fingir]";"Usted finge"
+"Indicativo
+Presente
+
+nosotros [fingir]";"nosotros fingimos"
+"Indicativo
+Presente
+
+nosotras [fingir]";"nosotras fingimos"
+"Indicativo
+Presente
+
+vosotros [fingir]";"vosotros fingís"
+"Indicativo
+Presente
+
+vosotras [fingir]";"vosotras fingís"
+"Indicativo
+Presente
+
+ellos [fingir]";"ellos fingen"
+"Indicativo
+Presente
+
+ellas [fingir]";"ellas fingen"
+"Indicativo
+Presente
+
+Ustedes [fingir]";"Ustedes fingen"
+"Indicativo
+Presente
+
+yo [florecer]";"yo florezco"
+"Indicativo
+Presente
+
+tú [florecer]";"tú floreces"
+"Indicativo
+Presente
+
+él [florecer]";"él florece"
+"Indicativo
+Presente
+
+ella [florecer]";"ella florece"
+"Indicativo
+Presente
+
+Usted [florecer]";"Usted florece"
+"Indicativo
+Presente
+
+nosotros [florecer]";"nosotros florecemos"
+"Indicativo
+Presente
+
+nosotras [florecer]";"nosotras florecemos"
+"Indicativo
+Presente
+
+vosotros [florecer]";"vosotros florecéis"
+"Indicativo
+Presente
+
+vosotras [florecer]";"vosotras florecéis"
+"Indicativo
+Presente
+
+ellos [florecer]";"ellos florecen"
+"Indicativo
+Presente
+
+ellas [florecer]";"ellas florecen"
+"Indicativo
+Presente
+
+Ustedes [florecer]";"Ustedes florecen"
+"Indicativo
+Presente
+
+yo [fortalecer]";"yo fortalezco"
+"Indicativo
+Presente
+
+tú [fortalecer]";"tú fortaleces"
+"Indicativo
+Presente
+
+él [fortalecer]";"él fortalece"
+"Indicativo
+Presente
+
+ella [fortalecer]";"ella fortalece"
+"Indicativo
+Presente
+
+Usted [fortalecer]";"Usted fortalece"
+"Indicativo
+Presente
+
+nosotros [fortalecer]";"nosotros fortalecemos"
+"Indicativo
+Presente
+
+nosotras [fortalecer]";"nosotras fortalecemos"
+"Indicativo
+Presente
+
+vosotros [fortalecer]";"vosotros fortalecéis"
+"Indicativo
+Presente
+
+vosotras [fortalecer]";"vosotras fortalecéis"
+"Indicativo
+Presente
+
+ellos [fortalecer]";"ellos fortalecen"
+"Indicativo
+Presente
+
+ellas [fortalecer]";"ellas fortalecen"
+"Indicativo
+Presente
+
+Ustedes [fortalecer]";"Ustedes fortalecen"
+"Indicativo
+Presente
+
+yo [gruñir]";"yo gruño"
+"Indicativo
+Presente
+
+tú [gruñir]";"tú gruñes"
+"Indicativo
+Presente
+
+él [gruñir]";"él gruñe"
+"Indicativo
+Presente
+
+ella [gruñir]";"ella gruñe"
+"Indicativo
+Presente
+
+Usted [gruñir]";"Usted gruñe"
+"Indicativo
+Presente
+
+nosotros [gruñir]";"nosotros gruñimos"
+"Indicativo
+Presente
+
+nosotras [gruñir]";"nosotras gruñimos"
+"Indicativo
+Presente
+
+vosotros [gruñir]";"vosotros gruñís"
+"Indicativo
+Presente
+
+vosotras [gruñir]";"vosotras gruñís"
+"Indicativo
+Presente
+
+ellos [gruñir]";"ellos gruñen"
+"Indicativo
+Presente
+
+ellas [gruñir]";"ellas gruñen"
+"Indicativo
+Presente
+
+Ustedes [gruñir]";"Ustedes gruñen"
+"Indicativo
+Presente
+
+yo [hacer]";"yo hago"
+"Indicativo
+Presente
+
+tú [hacer]";"tú haces"
+"Indicativo
+Presente
+
+él [hacer]";"él hace"
+"Indicativo
+Presente
+
+ella [hacer]";"ella hace"
+"Indicativo
+Presente
+
+Usted [hacer]";"Usted hace"
+"Indicativo
+Presente
+
+nosotros [hacer]";"nosotros hacemos"
+"Indicativo
+Presente
+
+nosotras [hacer]";"nosotras hacemos"
+"Indicativo
+Presente
+
+vosotros [hacer]";"vosotros hacéis"
+"Indicativo
+Presente
+
+vosotras [hacer]";"vosotras hacéis"
+"Indicativo
+Presente
+
+ellos [hacer]";"ellos hacen"
+"Indicativo
+Presente
+
+ellas [hacer]";"ellas hacen"
+"Indicativo
+Presente
+
+Ustedes [hacer]";"Ustedes hacen"
+"Indicativo
+Presente
+
+yo [herir]";"yo hiero"
+"Indicativo
+Presente
+
+tú [herir]";"tú hieres"
+"Indicativo
+Presente
+
+él [herir]";"él hiere"
+"Indicativo
+Presente
+
+ella [herir]";"ella hiere"
+"Indicativo
+Presente
+
+Usted [herir]";"Usted hiere"
+"Indicativo
+Presente
+
+nosotros [herir]";"nosotros herimos"
+"Indicativo
+Presente
+
+nosotras [herir]";"nosotras herimos"
+"Indicativo
+Presente
+
+vosotros [herir]";"vosotros herís"
+"Indicativo
+Presente
+
+vosotras [herir]";"vosotras herís"
+"Indicativo
+Presente
+
+ellos [herir]";"ellos hieren"
+"Indicativo
+Presente
+
+ellas [herir]";"ellas hieren"
+"Indicativo
+Presente
+
+Ustedes [herir]";"Ustedes hieren"
+"Indicativo
+Presente
+
+yo [hervir]";"yo hiervo"
+"Indicativo
+Presente
+
+tú [hervir]";"tú hierves"
+"Indicativo
+Presente
+
+él [hervir]";"él hierve"
+"Indicativo
+Presente
+
+ella [hervir]";"ella hierve"
+"Indicativo
+Presente
+
+Usted [hervir]";"Usted hierve"
+"Indicativo
+Presente
+
+nosotros [hervir]";"nosotros hervimos"
+"Indicativo
+Presente
+
+nosotras [hervir]";"nosotras hervimos"
+"Indicativo
+Presente
+
+vosotros [hervir]";"vosotros hervís"
+"Indicativo
+Presente
+
+vosotras [hervir]";"vosotras hervís"
+"Indicativo
+Presente
+
+ellos [hervir]";"ellos hierven"
+"Indicativo
+Presente
+
+ellas [hervir]";"ellas hierven"
+"Indicativo
+Presente
+
+Ustedes [hervir]";"Ustedes hierven"
+"Indicativo
+Presente
+
+yo [huir]";"yo huyo"
+"Indicativo
+Presente
+
+tú [huir]";"tú huyes"
+"Indicativo
+Presente
+
+él [huir]";"él huye"
+"Indicativo
+Presente
+
+ella [huir]";"ella huye"
+"Indicativo
+Presente
+
+Usted [huir]";"Usted huye"
+"Indicativo
+Presente
+
+nosotros [huir]";"nosotros huimos"
+"Indicativo
+Presente
+
+nosotras [huir]";"nosotras huimos"
+"Indicativo
+Presente
+
+vosotros [huir]";"vosotros huís"
+"Indicativo
+Presente
+
+vosotras [huir]";"vosotras huís"
+"Indicativo
+Presente
+
+ellos [huir]";"ellos huyen"
+"Indicativo
+Presente
+
+ellas [huir]";"ellas huyen"
+"Indicativo
+Presente
+
+Ustedes [huir]";"Ustedes huyen"
+"Indicativo
+Presente
+
+yo [imprimir]";"yo imprimo"
+"Indicativo
+Presente
+
+tú [imprimir]";"tú imprimes"
+"Indicativo
+Presente
+
+él [imprimir]";"él imprime"
+"Indicativo
+Presente
+
+ella [imprimir]";"ella imprime"
+"Indicativo
+Presente
+
+Usted [imprimir]";"Usted imprime"
+"Indicativo
+Presente
+
+nosotros [imprimir]";"nosotros imprimimos"
+"Indicativo
+Presente
+
+nosotras [imprimir]";"nosotras imprimimos"
+"Indicativo
+Presente
+
+vosotros [imprimir]";"vosotros imprimís"
+"Indicativo
+Presente
+
+vosotras [imprimir]";"vosotras imprimís"
+"Indicativo
+Presente
+
+ellos [imprimir]";"ellos imprimen"
+"Indicativo
+Presente
+
+ellas [imprimir]";"ellas imprimen"
+"Indicativo
+Presente
+
+Ustedes [imprimir]";"Ustedes imprimen"
+"Indicativo
+Presente
+
+yo [incluir]";"yo incluyo"
+"Indicativo
+Presente
+
+tú [incluir]";"tú incluyes"
+"Indicativo
+Presente
+
+él [incluir]";"él incluye"
+"Indicativo
+Presente
+
+ella [incluir]";"ella incluye"
+"Indicativo
+Presente
+
+Usted [incluir]";"Usted incluye"
+"Indicativo
+Presente
+
+nosotros [incluir]";"nosotros incluimos"
+"Indicativo
+Presente
+
+nosotras [incluir]";"nosotras incluimos"
+"Indicativo
+Presente
+
+vosotros [incluir]";"vosotros incluís"
+"Indicativo
+Presente
+
+vosotras [incluir]";"vosotras incluís"
+"Indicativo
+Presente
+
+ellos [incluir]";"ellos incluyen"
+"Indicativo
+Presente
+
+ellas [incluir]";"ellas incluyen"
+"Indicativo
+Presente
+
+Ustedes [incluir]";"Ustedes incluyen"
+"Indicativo
+Presente
+
+yo [inducir]";"yo induzco"
+"Indicativo
+Presente
+
+tú [inducir]";"tú induces"
+"Indicativo
+Presente
+
+él [inducir]";"él induce"
+"Indicativo
+Presente
+
+ella [inducir]";"ella induce"
+"Indicativo
+Presente
+
+Usted [inducir]";"Usted induce"
+"Indicativo
+Presente
+
+nosotros [inducir]";"nosotros inducimos"
+"Indicativo
+Presente
+
+nosotras [inducir]";"nosotras inducimos"
+"Indicativo
+Presente
+
+vosotros [inducir]";"vosotros inducís"
+"Indicativo
+Presente
+
+vosotras [inducir]";"vosotras inducís"
+"Indicativo
+Presente
+
+ellos [inducir]";"ellos inducen"
+"Indicativo
+Presente
+
+ellas [inducir]";"ellas inducen"
+"Indicativo
+Presente
+
+Ustedes [inducir]";"Ustedes inducen"
+"Indicativo
+Presente
+
+yo [influir]";"yo influyo"
+"Indicativo
+Presente
+
+tú [influir]";"tú influyes"
+"Indicativo
+Presente
+
+él [influir]";"él influye"
+"Indicativo
+Presente
+
+ella [influir]";"ella influye"
+"Indicativo
+Presente
+
+Usted [influir]";"Usted influye"
+"Indicativo
+Presente
+
+nosotros [influir]";"nosotros influimos"
+"Indicativo
+Presente
+
+nosotras [influir]";"nosotras influimos"
+"Indicativo
+Presente
+
+vosotros [influir]";"vosotros influís"
+"Indicativo
+Presente
+
+vosotras [influir]";"vosotras influís"
+"Indicativo
+Presente
+
+ellos [influir]";"ellos influyen"
+"Indicativo
+Presente
+
+ellas [influir]";"ellas influyen"
+"Indicativo
+Presente
+
+Ustedes [influir]";"Ustedes influyen"
+"Indicativo
+Presente
+
+yo [insistir]";"yo insisto"
+"Indicativo
+Presente
+
+tú [insistir]";"tú insistes"
+"Indicativo
+Presente
+
+él [insistir]";"él insiste"
+"Indicativo
+Presente
+
+ella [insistir]";"ella insiste"
+"Indicativo
+Presente
+
+Usted [insistir]";"Usted insiste"
+"Indicativo
+Presente
+
+nosotros [insistir]";"nosotros insistimos"
+"Indicativo
+Presente
+
+nosotras [insistir]";"nosotras insistimos"
+"Indicativo
+Presente
+
+vosotros [insistir]";"vosotros insistís"
+"Indicativo
+Presente
+
+vosotras [insistir]";"vosotras insistís"
+"Indicativo
+Presente
+
+ellos [insistir]";"ellos insisten"
+"Indicativo
+Presente
+
+ellas [insistir]";"ellas insisten"
+"Indicativo
+Presente
+
+Ustedes [insistir]";"Ustedes insisten"
+"Indicativo
+Presente
+
+yo [introducir]";"yo introduzco"
+"Indicativo
+Presente
+
+tú [introducir]";"tú introduces"
+"Indicativo
+Presente
+
+él [introducir]";"él introduce"
+"Indicativo
+Presente
+
+ella [introducir]";"ella introduce"
+"Indicativo
+Presente
+
+Usted [introducir]";"Usted introduce"
+"Indicativo
+Presente
+
+nosotros [introducir]";"nosotros introducimos"
+"Indicativo
+Presente
+
+nosotras [introducir]";"nosotras introducimos"
+"Indicativo
+Presente
+
+vosotros [introducir]";"vosotros introducís"
+"Indicativo
+Presente
+
+vosotras [introducir]";"vosotras introducís"
+"Indicativo
+Presente
+
+ellos [introducir]";"ellos introducen"
+"Indicativo
+Presente
+
+ellas [introducir]";"ellas introducen"
+"Indicativo
+Presente
+
+Ustedes [introducir]";"Ustedes introducen"
+"Indicativo
+Presente
+
+yo [invadir]";"yo invado"
+"Indicativo
+Presente
+
+tú [invadir]";"tú invades"
+"Indicativo
+Presente
+
+él [invadir]";"él invade"
+"Indicativo
+Presente
+
+ella [invadir]";"ella invade"
+"Indicativo
+Presente
+
+Usted [invadir]";"Usted invade"
+"Indicativo
+Presente
+
+nosotros [invadir]";"nosotros invadimos"
+"Indicativo
+Presente
+
+nosotras [invadir]";"nosotras invadimos"
+"Indicativo
+Presente
+
+vosotros [invadir]";"vosotros invadís"
+"Indicativo
+Presente
+
+vosotras [invadir]";"vosotras invadís"
+"Indicativo
+Presente
+
+ellos [invadir]";"ellos invaden"
+"Indicativo
+Presente
+
+ellas [invadir]";"ellas invaden"
+"Indicativo
+Presente
+
+Ustedes [invadir]";"Ustedes invaden"
+"Indicativo
+Presente
+
+yo [invertir]";"yo invierto"
+"Indicativo
+Presente
+
+tú [invertir]";"tú inviertes"
+"Indicativo
+Presente
+
+él [invertir]";"él invierte"
+"Indicativo
+Presente
+
+ella [invertir]";"ella invierte"
+"Indicativo
+Presente
+
+Usted [invertir]";"Usted invierte"
+"Indicativo
+Presente
+
+nosotros [invertir]";"nosotros invertimos"
+"Indicativo
+Presente
+
+nosotras [invertir]";"nosotras invertimos"
+"Indicativo
+Presente
+
+vosotros [invertir]";"vosotros invertís"
+"Indicativo
+Presente
+
+vosotras [invertir]";"vosotras invertís"
+"Indicativo
+Presente
+
+ellos [invertir]";"ellos invierten"
+"Indicativo
+Presente
+
+ellas [invertir]";"ellas invierten"
+"Indicativo
+Presente
+
+Ustedes [invertir]";"Ustedes invierten"
+"Indicativo
+Presente
+
+yo [ir]";"yo voy"
+"Indicativo
+Presente
+
+tú [ir]";"tú vas"
+"Indicativo
+Presente
+
+él [ir]";"él va"
+"Indicativo
+Presente
+
+ella [ir]";"ella va"
+"Indicativo
+Presente
+
+Usted [ir]";"Usted va"
+"Indicativo
+Presente
+
+nosotros [ir]";"nosotros vamos"
+"Indicativo
+Presente
+
+nosotras [ir]";"nosotras vamos"
+"Indicativo
+Presente
+
+vosotros [ir]";"vosotros vais"
+"Indicativo
+Presente
+
+vosotras [ir]";"vosotras vais"
+"Indicativo
+Presente
+
+ellos [ir]";"ellos van"
+"Indicativo
+Presente
+
+ellas [ir]";"ellas van"
+"Indicativo
+Presente
+
+Ustedes [ir]";"Ustedes van"
+"Indicativo
+Presente
+
+yo [leer]";"yo leo"
+"Indicativo
+Presente
+
+tú [leer]";"tú lees"
+"Indicativo
+Presente
+
+él [leer]";"él lee"
+"Indicativo
+Presente
+
+ella [leer]";"ella lee"
+"Indicativo
+Presente
+
+Usted [leer]";"Usted lee"
+"Indicativo
+Presente
+
+nosotros [leer]";"nosotros leemos"
+"Indicativo
+Presente
+
+nosotras [leer]";"nosotras leemos"
+"Indicativo
+Presente
+
+vosotros [leer]";"vosotros leéis"
+"Indicativo
+Presente
+
+vosotras [leer]";"vosotras leéis"
+"Indicativo
+Presente
+
+ellos [leer]";"ellos leen"
+"Indicativo
+Presente
+
+ellas [leer]";"ellas leen"
+"Indicativo
+Presente
+
+Ustedes [leer]";"Ustedes leen"
+"Indicativo
+Presente
+
+yo [llover]";"yo "
+"Indicativo
+Presente
+
+tú [llover]";"tú "
+"Indicativo
+Presente
+
+él [llover]";"él llueve"
+"Indicativo
+Presente
+
+ella [llover]";"ella llueve"
+"Indicativo
+Presente
+
+Usted [llover]";"Usted llueve"
+"Indicativo
+Presente
+
+nosotros [llover]";"nosotros "
+"Indicativo
+Presente
+
+nosotras [llover]";"nosotras "
+"Indicativo
+Presente
+
+vosotros [llover]";"vosotros "
+"Indicativo
+Presente
+
+vosotras [llover]";"vosotras "
+"Indicativo
+Presente
+
+ellos [llover]";"ellos "
+"Indicativo
+Presente
+
+ellas [llover]";"ellas "
+"Indicativo
+Presente
+
+Ustedes [llover]";"Ustedes "
+"Indicativo
+Presente
+
+yo [mantener]";"yo mantengo"
+"Indicativo
+Presente
+
+tú [mantener]";"tú mantienes"
+"Indicativo
+Presente
+
+él [mantener]";"él mantiene"
+"Indicativo
+Presente
+
+ella [mantener]";"ella mantiene"
+"Indicativo
+Presente
+
+Usted [mantener]";"Usted mantiene"
+"Indicativo
+Presente
+
+nosotros [mantener]";"nosotros mantenemos"
+"Indicativo
+Presente
+
+nosotras [mantener]";"nosotras mantenemos"
+"Indicativo
+Presente
+
+vosotros [mantener]";"vosotros mantenéis"
+"Indicativo
+Presente
+
+vosotras [mantener]";"vosotras mantenéis"
+"Indicativo
+Presente
+
+ellos [mantener]";"ellos mantienen"
+"Indicativo
+Presente
+
+ellas [mantener]";"ellas mantienen"
+"Indicativo
+Presente
+
+Ustedes [mantener]";"Ustedes mantienen"
+"Indicativo
+Presente
+
+yo [medir]";"yo mido"
+"Indicativo
+Presente
+
+tú [medir]";"tú mides"
+"Indicativo
+Presente
+
+él [medir]";"él mide"
+"Indicativo
+Presente
+
+ella [medir]";"ella mide"
+"Indicativo
+Presente
+
+Usted [medir]";"Usted mide"
+"Indicativo
+Presente
+
+nosotros [medir]";"nosotros medimos"
+"Indicativo
+Presente
+
+nosotras [medir]";"nosotras medimos"
+"Indicativo
+Presente
+
+vosotros [medir]";"vosotros medís"
+"Indicativo
+Presente
+
+vosotras [medir]";"vosotras medís"
+"Indicativo
+Presente
+
+ellos [medir]";"ellos miden"
+"Indicativo
+Presente
+
+ellas [medir]";"ellas miden"
+"Indicativo
+Presente
+
+Ustedes [medir]";"Ustedes miden"
+"Indicativo
+Presente
+
+yo [mentir]";"yo miento"
+"Indicativo
+Presente
+
+tú [mentir]";"tú mientes"
+"Indicativo
+Presente
+
+él [mentir]";"él miente"
+"Indicativo
+Presente
+
+ella [mentir]";"ella miente"
+"Indicativo
+Presente
+
+Usted [mentir]";"Usted miente"
+"Indicativo
+Presente
+
+nosotros [mentir]";"nosotros mentimos"
+"Indicativo
+Presente
+
+nosotras [mentir]";"nosotras mentimos"
+"Indicativo
+Presente
+
+vosotros [mentir]";"vosotros mentís"
+"Indicativo
+Presente
+
+vosotras [mentir]";"vosotras mentís"
+"Indicativo
+Presente
+
+ellos [mentir]";"ellos mienten"
+"Indicativo
+Presente
+
+ellas [mentir]";"ellas mienten"
+"Indicativo
+Presente
+
+Ustedes [mentir]";"Ustedes mienten"
+"Indicativo
+Presente
+
+yo [merecer]";"yo merezco"
+"Indicativo
+Presente
+
+tú [merecer]";"tú mereces"
+"Indicativo
+Presente
+
+él [merecer]";"él merece"
+"Indicativo
+Presente
+
+ella [merecer]";"ella merece"
+"Indicativo
+Presente
+
+Usted [merecer]";"Usted merece"
+"Indicativo
+Presente
+
+nosotros [merecer]";"nosotros merecemos"
+"Indicativo
+Presente
+
+nosotras [merecer]";"nosotras merecemos"
+"Indicativo
+Presente
+
+vosotros [merecer]";"vosotros merecéis"
+"Indicativo
+Presente
+
+vosotras [merecer]";"vosotras merecéis"
+"Indicativo
+Presente
+
+ellos [merecer]";"ellos merecen"
+"Indicativo
+Presente
+
+ellas [merecer]";"ellas merecen"
+"Indicativo
+Presente
+
+Ustedes [merecer]";"Ustedes merecen"
+"Indicativo
+Presente
+
+yo [meter]";"yo meto"
+"Indicativo
+Presente
+
+tú [meter]";"tú metes"
+"Indicativo
+Presente
+
+él [meter]";"él mete"
+"Indicativo
+Presente
+
+ella [meter]";"ella mete"
+"Indicativo
+Presente
+
+Usted [meter]";"Usted mete"
+"Indicativo
+Presente
+
+nosotros [meter]";"nosotros metemos"
+"Indicativo
+Presente
+
+nosotras [meter]";"nosotras metemos"
+"Indicativo
+Presente
+
+vosotros [meter]";"vosotros metéis"
+"Indicativo
+Presente
+
+vosotras [meter]";"vosotras metéis"
+"Indicativo
+Presente
+
+ellos [meter]";"ellos meten"
+"Indicativo
+Presente
+
+ellas [meter]";"ellas meten"
+"Indicativo
+Presente
+
+Ustedes [meter]";"Ustedes meten"
+"Indicativo
+Presente
+
+yo [morir]";"yo muero"
+"Indicativo
+Presente
+
+tú [morir]";"tú mueres"
+"Indicativo
+Presente
+
+él [morir]";"él muere"
+"Indicativo
+Presente
+
+ella [morir]";"ella muere"
+"Indicativo
+Presente
+
+Usted [morir]";"Usted muere"
+"Indicativo
+Presente
+
+nosotros [morir]";"nosotros morimos"
+"Indicativo
+Presente
+
+nosotras [morir]";"nosotras morimos"
+"Indicativo
+Presente
+
+vosotros [morir]";"vosotros morís"
+"Indicativo
+Presente
+
+vosotras [morir]";"vosotras morís"
+"Indicativo
+Presente
+
+ellos [morir]";"ellos mueren"
+"Indicativo
+Presente
+
+ellas [morir]";"ellas mueren"
+"Indicativo
+Presente
+
+Ustedes [morir]";"Ustedes mueren"
+"Indicativo
+Presente
+
+yo [mover]";"yo muevo"
+"Indicativo
+Presente
+
+tú [mover]";"tú mueves"
+"Indicativo
+Presente
+
+él [mover]";"él mueve"
+"Indicativo
+Presente
+
+ella [mover]";"ella mueve"
+"Indicativo
+Presente
+
+Usted [mover]";"Usted mueve"
+"Indicativo
+Presente
+
+nosotros [mover]";"nosotros movemos"
+"Indicativo
+Presente
+
+nosotras [mover]";"nosotras movemos"
+"Indicativo
+Presente
+
+vosotros [mover]";"vosotros movéis"
+"Indicativo
+Presente
+
+vosotras [mover]";"vosotras movéis"
+"Indicativo
+Presente
+
+ellos [mover]";"ellos mueven"
+"Indicativo
+Presente
+
+ellas [mover]";"ellas mueven"
+"Indicativo
+Presente
+
+Ustedes [mover]";"Ustedes mueven"
+"Indicativo
+Presente
+
+yo [nacer]";"yo nazco"
+"Indicativo
+Presente
+
+tú [nacer]";"tú naces"
+"Indicativo
+Presente
+
+él [nacer]";"él nace"
+"Indicativo
+Presente
+
+ella [nacer]";"ella nace"
+"Indicativo
+Presente
+
+Usted [nacer]";"Usted nace"
+"Indicativo
+Presente
+
+nosotros [nacer]";"nosotros nacemos"
+"Indicativo
+Presente
+
+nosotras [nacer]";"nosotras nacemos"
+"Indicativo
+Presente
+
+vosotros [nacer]";"vosotros nacéis"
+"Indicativo
+Presente
+
+vosotras [nacer]";"vosotras nacéis"
+"Indicativo
+Presente
+
+ellos [nacer]";"ellos nacen"
+"Indicativo
+Presente
+
+ellas [nacer]";"ellas nacen"
+"Indicativo
+Presente
+
+Ustedes [nacer]";"Ustedes nacen"
+"Indicativo
+Presente
+
+yo [obedecer]";"yo obedezco"
+"Indicativo
+Presente
+
+tú [obedecer]";"tú obedeces"
+"Indicativo
+Presente
+
+él [obedecer]";"él obedece"
+"Indicativo
+Presente
+
+ella [obedecer]";"ella obedece"
+"Indicativo
+Presente
+
+Usted [obedecer]";"Usted obedece"
+"Indicativo
+Presente
+
+nosotros [obedecer]";"nosotros obedecemos"
+"Indicativo
+Presente
+
+nosotras [obedecer]";"nosotras obedecemos"
+"Indicativo
+Presente
+
+vosotros [obedecer]";"vosotros obedecéis"
+"Indicativo
+Presente
+
+vosotras [obedecer]";"vosotras obedecéis"
+"Indicativo
+Presente
+
+ellos [obedecer]";"ellos obedecen"
+"Indicativo
+Presente
+
+ellas [obedecer]";"ellas obedecen"
+"Indicativo
+Presente
+
+Ustedes [obedecer]";"Ustedes obedecen"
+"Indicativo
+Presente
+
+yo [obtener]";"yo obtengo"
+"Indicativo
+Presente
+
+tú [obtener]";"tú obtienes"
+"Indicativo
+Presente
+
+él [obtener]";"él obtiene"
+"Indicativo
+Presente
+
+ella [obtener]";"ella obtiene"
+"Indicativo
+Presente
+
+Usted [obtener]";"Usted obtiene"
+"Indicativo
+Presente
+
+nosotros [obtener]";"nosotros obtenemos"
+"Indicativo
+Presente
+
+nosotras [obtener]";"nosotras obtenemos"
+"Indicativo
+Presente
+
+vosotros [obtener]";"vosotros obtenéis"
+"Indicativo
+Presente
+
+vosotras [obtener]";"vosotras obtenéis"
+"Indicativo
+Presente
+
+ellos [obtener]";"ellos obtienen"
+"Indicativo
+Presente
+
+ellas [obtener]";"ellas obtienen"
+"Indicativo
+Presente
+
+Ustedes [obtener]";"Ustedes obtienen"
+"Indicativo
+Presente
+
+yo [ocurrir]";"yo "
+"Indicativo
+Presente
+
+tú [ocurrir]";"tú "
+"Indicativo
+Presente
+
+él [ocurrir]";"él ocurre"
+"Indicativo
+Presente
+
+ella [ocurrir]";"ella ocurre"
+"Indicativo
+Presente
+
+Usted [ocurrir]";"Usted ocurre"
+"Indicativo
+Presente
+
+nosotros [ocurrir]";"nosotros "
+"Indicativo
+Presente
+
+nosotras [ocurrir]";"nosotras "
+"Indicativo
+Presente
+
+vosotros [ocurrir]";"vosotros "
+"Indicativo
+Presente
+
+vosotras [ocurrir]";"vosotras "
+"Indicativo
+Presente
+
+ellos [ocurrir]";"ellos ocurren"
+"Indicativo
+Presente
+
+ellas [ocurrir]";"ellas ocurren"
+"Indicativo
+Presente
+
+Ustedes [ocurrir]";"Ustedes ocurren"
+"Indicativo
+Presente
+
+yo [ofender]";"yo ofendo"
+"Indicativo
+Presente
+
+tú [ofender]";"tú ofendes"
+"Indicativo
+Presente
+
+él [ofender]";"él ofende"
+"Indicativo
+Presente
+
+ella [ofender]";"ella ofende"
+"Indicativo
+Presente
+
+Usted [ofender]";"Usted ofende"
+"Indicativo
+Presente
+
+nosotros [ofender]";"nosotros ofendemos"
+"Indicativo
+Presente
+
+nosotras [ofender]";"nosotras ofendemos"
+"Indicativo
+Presente
+
+vosotros [ofender]";"vosotros ofendéis"
+"Indicativo
+Presente
+
+vosotras [ofender]";"vosotras ofendéis"
+"Indicativo
+Presente
+
+ellos [ofender]";"ellos ofenden"
+"Indicativo
+Presente
+
+ellas [ofender]";"ellas ofenden"
+"Indicativo
+Presente
+
+Ustedes [ofender]";"Ustedes ofenden"
+"Indicativo
+Presente
+
+yo [ofrecer]";"yo ofrezco"
+"Indicativo
+Presente
+
+tú [ofrecer]";"tú ofreces"
+"Indicativo
+Presente
+
+él [ofrecer]";"él ofrece"
+"Indicativo
+Presente
+
+ella [ofrecer]";"ella ofrece"
+"Indicativo
+Presente
+
+Usted [ofrecer]";"Usted ofrece"
+"Indicativo
+Presente
+
+nosotros [ofrecer]";"nosotros ofrecemos"
+"Indicativo
+Presente
+
+nosotras [ofrecer]";"nosotras ofrecemos"
+"Indicativo
+Presente
+
+vosotros [ofrecer]";"vosotros ofrecéis"
+"Indicativo
+Presente
+
+vosotras [ofrecer]";"vosotras ofrecéis"
+"Indicativo
+Presente
+
+ellos [ofrecer]";"ellos ofrecen"
+"Indicativo
+Presente
+
+ellas [ofrecer]";"ellas ofrecen"
+"Indicativo
+Presente
+
+Ustedes [ofrecer]";"Ustedes ofrecen"
+"Indicativo
+Presente
+
+yo [oler]";"yo huelo"
+"Indicativo
+Presente
+
+tú [oler]";"tú hueles"
+"Indicativo
+Presente
+
+él [oler]";"él huele"
+"Indicativo
+Presente
+
+ella [oler]";"ella huele"
+"Indicativo
+Presente
+
+Usted [oler]";"Usted huele"
+"Indicativo
+Presente
+
+nosotros [oler]";"nosotros olemos"
+"Indicativo
+Presente
+
+nosotras [oler]";"nosotras olemos"
+"Indicativo
+Presente
+
+vosotros [oler]";"vosotros oléis"
+"Indicativo
+Presente
+
+vosotras [oler]";"vosotras oléis"
+"Indicativo
+Presente
+
+ellos [oler]";"ellos huelen"
+"Indicativo
+Presente
+
+ellas [oler]";"ellas huelen"
+"Indicativo
+Presente
+
+Ustedes [oler]";"Ustedes huelen"
+"Indicativo
+Presente
+
+yo [oponer]";"yo opongo"
+"Indicativo
+Presente
+
+tú [oponer]";"tú opones"
+"Indicativo
+Presente
+
+él [oponer]";"él opone"
+"Indicativo
+Presente
+
+ella [oponer]";"ella opone"
+"Indicativo
+Presente
+
+Usted [oponer]";"Usted opone"
+"Indicativo
+Presente
+
+nosotros [oponer]";"nosotros oponemos"
+"Indicativo
+Presente
+
+nosotras [oponer]";"nosotras oponemos"
+"Indicativo
+Presente
+
+vosotros [oponer]";"vosotros oponéis"
+"Indicativo
+Presente
+
+vosotras [oponer]";"vosotras oponéis"
+"Indicativo
+Presente
+
+ellos [oponer]";"ellos oponen"
+"Indicativo
+Presente
+
+ellas [oponer]";"ellas oponen"
+"Indicativo
+Presente
+
+Ustedes [oponer]";"Ustedes oponen"
+"Indicativo
+Presente
+
+yo [padecer]";"yo padezco"
+"Indicativo
+Presente
+
+tú [padecer]";"tú padeces"
+"Indicativo
+Presente
+
+él [padecer]";"él padece"
+"Indicativo
+Presente
+
+ella [padecer]";"ella padece"
+"Indicativo
+Presente
+
+Usted [padecer]";"Usted padece"
+"Indicativo
+Presente
+
+nosotros [padecer]";"nosotros padecemos"
+"Indicativo
+Presente
+
+nosotras [padecer]";"nosotras padecemos"
+"Indicativo
+Presente
+
+vosotros [padecer]";"vosotros padecéis"
+"Indicativo
+Presente
+
+vosotras [padecer]";"vosotras padecéis"
+"Indicativo
+Presente
+
+ellos [padecer]";"ellos padecen"
+"Indicativo
+Presente
+
+ellas [padecer]";"ellas padecen"
+"Indicativo
+Presente
+
+Ustedes [padecer]";"Ustedes padecen"
+"Indicativo
+Presente
+
+yo [parecer]";"yo parezco"
+"Indicativo
+Presente
+
+tú [parecer]";"tú pareces"
+"Indicativo
+Presente
+
+él [parecer]";"él parece"
+"Indicativo
+Presente
+
+ella [parecer]";"ella parece"
+"Indicativo
+Presente
+
+Usted [parecer]";"Usted parece"
+"Indicativo
+Presente
+
+nosotros [parecer]";"nosotros parecemos"
+"Indicativo
+Presente
+
+nosotras [parecer]";"nosotras parecemos"
+"Indicativo
+Presente
+
+vosotros [parecer]";"vosotros parecéis"
+"Indicativo
+Presente
+
+vosotras [parecer]";"vosotras parecéis"
+"Indicativo
+Presente
+
+ellos [parecer]";"ellos parecen"
+"Indicativo
+Presente
+
+ellas [parecer]";"ellas parecen"
+"Indicativo
+Presente
+
+Ustedes [parecer]";"Ustedes parecen"
+"Indicativo
+Presente
+
+yo [pedir]";"yo pido"
+"Indicativo
+Presente
+
+tú [pedir]";"tú pides"
+"Indicativo
+Presente
+
+él [pedir]";"él pide"
+"Indicativo
+Presente
+
+ella [pedir]";"ella pide"
+"Indicativo
+Presente
+
+Usted [pedir]";"Usted pide"
+"Indicativo
+Presente
+
+nosotros [pedir]";"nosotros pedimos"
+"Indicativo
+Presente
+
+nosotras [pedir]";"nosotras pedimos"
+"Indicativo
+Presente
+
+vosotros [pedir]";"vosotros pedís"
+"Indicativo
+Presente
+
+vosotras [pedir]";"vosotras pedís"
+"Indicativo
+Presente
+
+ellos [pedir]";"ellos piden"
+"Indicativo
+Presente
+
+ellas [pedir]";"ellas piden"
+"Indicativo
+Presente
+
+Ustedes [pedir]";"Ustedes piden"
+"Indicativo
+Presente
+
+yo [perder]";"yo pierdo"
+"Indicativo
+Presente
+
+tú [perder]";"tú pierdes"
+"Indicativo
+Presente
+
+él [perder]";"él pierde"
+"Indicativo
+Presente
+
+ella [perder]";"ella pierde"
+"Indicativo
+Presente
+
+Usted [perder]";"Usted pierde"
+"Indicativo
+Presente
+
+nosotros [perder]";"nosotros perdemos"
+"Indicativo
+Presente
+
+nosotras [perder]";"nosotras perdemos"
+"Indicativo
+Presente
+
+vosotros [perder]";"vosotros perdéis"
+"Indicativo
+Presente
+
+vosotras [perder]";"vosotras perdéis"
+"Indicativo
+Presente
+
+ellos [perder]";"ellos pierden"
+"Indicativo
+Presente
+
+ellas [perder]";"ellas pierden"
+"Indicativo
+Presente
+
+Ustedes [perder]";"Ustedes pierden"
+"Indicativo
+Presente
+
+yo [permanecer]";"yo permanezco"
+"Indicativo
+Presente
+
+tú [permanecer]";"tú permaneces"
+"Indicativo
+Presente
+
+él [permanecer]";"él permanece"
+"Indicativo
+Presente
+
+ella [permanecer]";"ella permanece"
+"Indicativo
+Presente
+
+Usted [permanecer]";"Usted permanece"
+"Indicativo
+Presente
+
+nosotros [permanecer]";"nosotros permanecemos"
+"Indicativo
+Presente
+
+nosotras [permanecer]";"nosotras permanecemos"
+"Indicativo
+Presente
+
+vosotros [permanecer]";"vosotros permanecéis"
+"Indicativo
+Presente
+
+vosotras [permanecer]";"vosotras permanecéis"
+"Indicativo
+Presente
+
+ellos [permanecer]";"ellos permanecen"
+"Indicativo
+Presente
+
+ellas [permanecer]";"ellas permanecen"
+"Indicativo
+Presente
+
+Ustedes [permanecer]";"Ustedes permanecen"
+"Indicativo
+Presente
+
+yo [permitir]";"yo permito"
+"Indicativo
+Presente
+
+tú [permitir]";"tú permites"
+"Indicativo
+Presente
+
+él [permitir]";"él permite"
+"Indicativo
+Presente
+
+ella [permitir]";"ella permite"
+"Indicativo
+Presente
+
+Usted [permitir]";"Usted permite"
+"Indicativo
+Presente
+
+nosotros [permitir]";"nosotros permitimos"
+"Indicativo
+Presente
+
+nosotras [permitir]";"nosotras permitimos"
+"Indicativo
+Presente
+
+vosotros [permitir]";"vosotros permitís"
+"Indicativo
+Presente
+
+vosotras [permitir]";"vosotras permitís"
+"Indicativo
+Presente
+
+ellos [permitir]";"ellos permiten"
+"Indicativo
+Presente
+
+ellas [permitir]";"ellas permiten"
+"Indicativo
+Presente
+
+Ustedes [permitir]";"Ustedes permiten"
+"Indicativo
+Presente
+
+yo [perseguir]";"yo persigo"
+"Indicativo
+Presente
+
+tú [perseguir]";"tú persigues"
+"Indicativo
+Presente
+
+él [perseguir]";"él persigue"
+"Indicativo
+Presente
+
+ella [perseguir]";"ella persigue"
+"Indicativo
+Presente
+
+Usted [perseguir]";"Usted persigue"
+"Indicativo
+Presente
+
+nosotros [perseguir]";"nosotros perseguimos"
+"Indicativo
+Presente
+
+nosotras [perseguir]";"nosotras perseguimos"
+"Indicativo
+Presente
+
+vosotros [perseguir]";"vosotros perseguís"
+"Indicativo
+Presente
+
+vosotras [perseguir]";"vosotras perseguís"
+"Indicativo
+Presente
+
+ellos [perseguir]";"ellos persiguen"
+"Indicativo
+Presente
+
+ellas [perseguir]";"ellas persiguen"
+"Indicativo
+Presente
+
+Ustedes [perseguir]";"Ustedes persiguen"
+"Indicativo
+Presente
+
+yo [pertenecer]";"yo pertenezco"
+"Indicativo
+Presente
+
+tú [pertenecer]";"tú perteneces"
+"Indicativo
+Presente
+
+él [pertenecer]";"él pertenece"
+"Indicativo
+Presente
+
+ella [pertenecer]";"ella pertenece"
+"Indicativo
+Presente
+
+Usted [pertenecer]";"Usted pertenece"
+"Indicativo
+Presente
+
+nosotros [pertenecer]";"nosotros pertenecemos"
+"Indicativo
+Presente
+
+nosotras [pertenecer]";"nosotras pertenecemos"
+"Indicativo
+Presente
+
+vosotros [pertenecer]";"vosotros pertenecéis"
+"Indicativo
+Presente
+
+vosotras [pertenecer]";"vosotras pertenecéis"
+"Indicativo
+Presente
+
+ellos [pertenecer]";"ellos pertenecen"
+"Indicativo
+Presente
+
+ellas [pertenecer]";"ellas pertenecen"
+"Indicativo
+Presente
+
+Ustedes [pertenecer]";"Ustedes pertenecen"
+"Indicativo
+Presente
+
+yo [poder]";"yo puedo"
+"Indicativo
+Presente
+
+tú [poder]";"tú puedes"
+"Indicativo
+Presente
+
+él [poder]";"él puede"
+"Indicativo
+Presente
+
+ella [poder]";"ella puede"
+"Indicativo
+Presente
+
+Usted [poder]";"Usted puede"
+"Indicativo
+Presente
+
+nosotros [poder]";"nosotros podemos"
+"Indicativo
+Presente
+
+nosotras [poder]";"nosotras podemos"
+"Indicativo
+Presente
+
+vosotros [poder]";"vosotros podéis"
+"Indicativo
+Presente
+
+vosotras [poder]";"vosotras podéis"
+"Indicativo
+Presente
+
+ellos [poder]";"ellos pueden"
+"Indicativo
+Presente
+
+ellas [poder]";"ellas pueden"
+"Indicativo
+Presente
+
+Ustedes [poder]";"Ustedes pueden"
+"Indicativo
+Presente
+
+yo [poner]";"yo pongo"
+"Indicativo
+Presente
+
+tú [poner]";"tú pones"
+"Indicativo
+Presente
+
+él [poner]";"él pone"
+"Indicativo
+Presente
+
+ella [poner]";"ella pone"
+"Indicativo
+Presente
+
+Usted [poner]";"Usted pone"
+"Indicativo
+Presente
+
+nosotros [poner]";"nosotros ponemos"
+"Indicativo
+Presente
+
+nosotras [poner]";"nosotras ponemos"
+"Indicativo
+Presente
+
+vosotros [poner]";"vosotros ponéis"
+"Indicativo
+Presente
+
+vosotras [poner]";"vosotras ponéis"
+"Indicativo
+Presente
+
+ellos [poner]";"ellos ponen"
+"Indicativo
+Presente
+
+ellas [poner]";"ellas ponen"
+"Indicativo
+Presente
+
+Ustedes [poner]";"Ustedes ponen"
+"Indicativo
+Presente
+
+yo [predecir]";"yo predigo"
+"Indicativo
+Presente
+
+tú [predecir]";"tú predices"
+"Indicativo
+Presente
+
+él [predecir]";"él predice"
+"Indicativo
+Presente
+
+ella [predecir]";"ella predice"
+"Indicativo
+Presente
+
+Usted [predecir]";"Usted predice"
+"Indicativo
+Presente
+
+nosotros [predecir]";"nosotros predecimos"
+"Indicativo
+Presente
+
+nosotras [predecir]";"nosotras predecimos"
+"Indicativo
+Presente
+
+vosotros [predecir]";"vosotros predecís"
+"Indicativo
+Presente
+
+vosotras [predecir]";"vosotras predecís"
+"Indicativo
+Presente
+
+ellos [predecir]";"ellos predicen"
+"Indicativo
+Presente
+
+ellas [predecir]";"ellas predicen"
+"Indicativo
+Presente
+
+Ustedes [predecir]";"Ustedes predicen"
+"Indicativo
+Presente
+
+yo [preferir]";"yo prefiero"
+"Indicativo
+Presente
+
+tú [preferir]";"tú prefieres"
+"Indicativo
+Presente
+
+él [preferir]";"él prefiere"
+"Indicativo
+Presente
+
+ella [preferir]";"ella prefiere"
+"Indicativo
+Presente
+
+Usted [preferir]";"Usted prefiere"
+"Indicativo
+Presente
+
+nosotros [preferir]";"nosotros preferimos"
+"Indicativo
+Presente
+
+nosotras [preferir]";"nosotras preferimos"
+"Indicativo
+Presente
+
+vosotros [preferir]";"vosotros preferís"
+"Indicativo
+Presente
+
+vosotras [preferir]";"vosotras preferís"
+"Indicativo
+Presente
+
+ellos [preferir]";"ellos prefieren"
+"Indicativo
+Presente
+
+ellas [preferir]";"ellas prefieren"
+"Indicativo
+Presente
+
+Ustedes [preferir]";"Ustedes prefieren"
+"Indicativo
+Presente
+
+yo [presentir]";"yo presiento"
+"Indicativo
+Presente
+
+tú [presentir]";"tú presientes"
+"Indicativo
+Presente
+
+él [presentir]";"él presiente"
+"Indicativo
+Presente
+
+ella [presentir]";"ella presiente"
+"Indicativo
+Presente
+
+Usted [presentir]";"Usted presiente"
+"Indicativo
+Presente
+
+nosotros [presentir]";"nosotros presentimos"
+"Indicativo
+Presente
+
+nosotras [presentir]";"nosotras presentimos"
+"Indicativo
+Presente
+
+vosotros [presentir]";"vosotros presentís"
+"Indicativo
+Presente
+
+vosotras [presentir]";"vosotras presentís"
+"Indicativo
+Presente
+
+ellos [presentir]";"ellos presienten"
+"Indicativo
+Presente
+
+ellas [presentir]";"ellas presienten"
+"Indicativo
+Presente
+
+Ustedes [presentir]";"Ustedes presienten"
+"Indicativo
+Presente
+
+yo [prever]";"yo preveo"
+"Indicativo
+Presente
+
+tú [prever]";"tú prevés"
+"Indicativo
+Presente
+
+él [prever]";"él prevé"
+"Indicativo
+Presente
+
+ella [prever]";"ella prevé"
+"Indicativo
+Presente
+
+Usted [prever]";"Usted prevé"
+"Indicativo
+Presente
+
+nosotros [prever]";"nosotros prevemos"
+"Indicativo
+Presente
+
+nosotras [prever]";"nosotras prevemos"
+"Indicativo
+Presente
+
+vosotros [prever]";"vosotros prevéis"
+"Indicativo
+Presente
+
+vosotras [prever]";"vosotras prevéis"
+"Indicativo
+Presente
+
+ellos [prever]";"ellos prevén"
+"Indicativo
+Presente
+
+ellas [prever]";"ellas prevén"
+"Indicativo
+Presente
+
+Ustedes [prever]";"Ustedes prevén"
+"Indicativo
+Presente
+
+yo [producir]";"yo produzco"
+"Indicativo
+Presente
+
+tú [producir]";"tú produces"
+"Indicativo
+Presente
+
+él [producir]";"él produce"
+"Indicativo
+Presente
+
+ella [producir]";"ella produce"
+"Indicativo
+Presente
+
+Usted [producir]";"Usted produce"
+"Indicativo
+Presente
+
+nosotros [producir]";"nosotros producimos"
+"Indicativo
+Presente
+
+nosotras [producir]";"nosotras producimos"
+"Indicativo
+Presente
+
+vosotros [producir]";"vosotros producís"
+"Indicativo
+Presente
+
+vosotras [producir]";"vosotras producís"
+"Indicativo
+Presente
+
+ellos [producir]";"ellos producen"
+"Indicativo
+Presente
+
+ellas [producir]";"ellas producen"
+"Indicativo
+Presente
+
+Ustedes [producir]";"Ustedes producen"
+"Indicativo
+Presente
+
+yo [prohibir]";"yo prohíbo"
+"Indicativo
+Presente
+
+tú [prohibir]";"tú prohíbes"
+"Indicativo
+Presente
+
+él [prohibir]";"él prohíbe"
+"Indicativo
+Presente
+
+ella [prohibir]";"ella prohíbe"
+"Indicativo
+Presente
+
+Usted [prohibir]";"Usted prohíbe"
+"Indicativo
+Presente
+
+nosotros [prohibir]";"nosotros prohibimos"
+"Indicativo
+Presente
+
+nosotras [prohibir]";"nosotras prohibimos"
+"Indicativo
+Presente
+
+vosotros [prohibir]";"vosotros prohibís"
+"Indicativo
+Presente
+
+vosotras [prohibir]";"vosotras prohibís"
+"Indicativo
+Presente
+
+ellos [prohibir]";"ellos prohíben"
+"Indicativo
+Presente
+
+ellas [prohibir]";"ellas prohíben"
+"Indicativo
+Presente
+
+Ustedes [prohibir]";"Ustedes prohíben"
+"Indicativo
+Presente
+
+yo [prometer]";"yo prometo"
+"Indicativo
+Presente
+
+tú [prometer]";"tú prometes"
+"Indicativo
+Presente
+
+él [prometer]";"él promete"
+"Indicativo
+Presente
+
+ella [prometer]";"ella promete"
+"Indicativo
+Presente
+
+Usted [prometer]";"Usted promete"
+"Indicativo
+Presente
+
+nosotros [prometer]";"nosotros prometemos"
+"Indicativo
+Presente
+
+nosotras [prometer]";"nosotras prometemos"
+"Indicativo
+Presente
+
+vosotros [prometer]";"vosotros prometéis"
+"Indicativo
+Presente
+
+vosotras [prometer]";"vosotras prometéis"
+"Indicativo
+Presente
+
+ellos [prometer]";"ellos prometen"
+"Indicativo
+Presente
+
+ellas [prometer]";"ellas prometen"
+"Indicativo
+Presente
+
+Ustedes [prometer]";"Ustedes prometen"
+"Indicativo
+Presente
+
+yo [proponer]";"yo propongo"
+"Indicativo
+Presente
+
+tú [proponer]";"tú propones"
+"Indicativo
+Presente
+
+él [proponer]";"él propone"
+"Indicativo
+Presente
+
+ella [proponer]";"ella propone"
+"Indicativo
+Presente
+
+Usted [proponer]";"Usted propone"
+"Indicativo
+Presente
+
+nosotros [proponer]";"nosotros proponemos"
+"Indicativo
+Presente
+
+nosotras [proponer]";"nosotras proponemos"
+"Indicativo
+Presente
+
+vosotros [proponer]";"vosotros proponéis"
+"Indicativo
+Presente
+
+vosotras [proponer]";"vosotras proponéis"
+"Indicativo
+Presente
+
+ellos [proponer]";"ellos proponen"
+"Indicativo
+Presente
+
+ellas [proponer]";"ellas proponen"
+"Indicativo
+Presente
+
+Ustedes [proponer]";"Ustedes proponen"
+"Indicativo
+Presente
+
+yo [proseguir]";"yo prosigo"
+"Indicativo
+Presente
+
+tú [proseguir]";"tú prosigues"
+"Indicativo
+Presente
+
+él [proseguir]";"él prosigue"
+"Indicativo
+Presente
+
+ella [proseguir]";"ella prosigue"
+"Indicativo
+Presente
+
+Usted [proseguir]";"Usted prosigue"
+"Indicativo
+Presente
+
+nosotros [proseguir]";"nosotros proseguimos"
+"Indicativo
+Presente
+
+nosotras [proseguir]";"nosotras proseguimos"
+"Indicativo
+Presente
+
+vosotros [proseguir]";"vosotros proseguís"
+"Indicativo
+Presente
+
+vosotras [proseguir]";"vosotras proseguís"
+"Indicativo
+Presente
+
+ellos [proseguir]";"ellos prosiguen"
+"Indicativo
+Presente
+
+ellas [proseguir]";"ellas prosiguen"
+"Indicativo
+Presente
+
+Ustedes [proseguir]";"Ustedes prosiguen"
+"Indicativo
+Presente
+
+yo [proteger]";"yo protejo"
+"Indicativo
+Presente
+
+tú [proteger]";"tú proteges"
+"Indicativo
+Presente
+
+él [proteger]";"él protege"
+"Indicativo
+Presente
+
+ella [proteger]";"ella protege"
+"Indicativo
+Presente
+
+Usted [proteger]";"Usted protege"
+"Indicativo
+Presente
+
+nosotros [proteger]";"nosotros protegemos"
+"Indicativo
+Presente
+
+nosotras [proteger]";"nosotras protegemos"
+"Indicativo
+Presente
+
+vosotros [proteger]";"vosotros protegéis"
+"Indicativo
+Presente
+
+vosotras [proteger]";"vosotras protegéis"
+"Indicativo
+Presente
+
+ellos [proteger]";"ellos protegen"
+"Indicativo
+Presente
+
+ellas [proteger]";"ellas protegen"
+"Indicativo
+Presente
+
+Ustedes [proteger]";"Ustedes protegen"
+"Indicativo
+Presente
+
+yo [querer]";"yo quiero"
+"Indicativo
+Presente
+
+tú [querer]";"tú quieres"
+"Indicativo
+Presente
+
+él [querer]";"él quiere"
+"Indicativo
+Presente
+
+ella [querer]";"ella quiere"
+"Indicativo
+Presente
+
+Usted [querer]";"Usted quiere"
+"Indicativo
+Presente
+
+nosotros [querer]";"nosotros queremos"
+"Indicativo
+Presente
+
+nosotras [querer]";"nosotras queremos"
+"Indicativo
+Presente
+
+vosotros [querer]";"vosotros queréis"
+"Indicativo
+Presente
+
+vosotras [querer]";"vosotras queréis"
+"Indicativo
+Presente
+
+ellos [querer]";"ellos quieren"
+"Indicativo
+Presente
+
+ellas [querer]";"ellas quieren"
+"Indicativo
+Presente
+
+Ustedes [querer]";"Ustedes quieren"
+"Indicativo
+Presente
+
+yo [recibir]";"yo recibo"
+"Indicativo
+Presente
+
+tú [recibir]";"tú recibes"
+"Indicativo
+Presente
+
+él [recibir]";"él recibe"
+"Indicativo
+Presente
+
+ella [recibir]";"ella recibe"
+"Indicativo
+Presente
+
+Usted [recibir]";"Usted recibe"
+"Indicativo
+Presente
+
+nosotros [recibir]";"nosotros recibimos"
+"Indicativo
+Presente
+
+nosotras [recibir]";"nosotras recibimos"
+"Indicativo
+Presente
+
+vosotros [recibir]";"vosotros recibís"
+"Indicativo
+Presente
+
+vosotras [recibir]";"vosotras recibís"
+"Indicativo
+Presente
+
+ellos [recibir]";"ellos reciben"
+"Indicativo
+Presente
+
+ellas [recibir]";"ellas reciben"
+"Indicativo
+Presente
+
+Ustedes [recibir]";"Ustedes reciben"
+"Indicativo
+Presente
+
+yo [recoger]";"yo recojo"
+"Indicativo
+Presente
+
+tú [recoger]";"tú recoges"
+"Indicativo
+Presente
+
+él [recoger]";"él recoge"
+"Indicativo
+Presente
+
+ella [recoger]";"ella recoge"
+"Indicativo
+Presente
+
+Usted [recoger]";"Usted recoge"
+"Indicativo
+Presente
+
+nosotros [recoger]";"nosotros recogemos"
+"Indicativo
+Presente
+
+nosotras [recoger]";"nosotras recogemos"
+"Indicativo
+Presente
+
+vosotros [recoger]";"vosotros recogéis"
+"Indicativo
+Presente
+
+vosotras [recoger]";"vosotras recogéis"
+"Indicativo
+Presente
+
+ellos [recoger]";"ellos recogen"
+"Indicativo
+Presente
+
+ellas [recoger]";"ellas recogen"
+"Indicativo
+Presente
+
+Ustedes [recoger]";"Ustedes recogen"
+"Indicativo
+Presente
+
+yo [reconocer]";"yo reconozco"
+"Indicativo
+Presente
+
+tú [reconocer]";"tú reconoces"
+"Indicativo
+Presente
+
+él [reconocer]";"él reconoce"
+"Indicativo
+Presente
+
+ella [reconocer]";"ella reconoce"
+"Indicativo
+Presente
+
+Usted [reconocer]";"Usted reconoce"
+"Indicativo
+Presente
+
+nosotros [reconocer]";"nosotros reconocemos"
+"Indicativo
+Presente
+
+nosotras [reconocer]";"nosotras reconocemos"
+"Indicativo
+Presente
+
+vosotros [reconocer]";"vosotros reconocéis"
+"Indicativo
+Presente
+
+vosotras [reconocer]";"vosotras reconocéis"
+"Indicativo
+Presente
+
+ellos [reconocer]";"ellos reconocen"
+"Indicativo
+Presente
+
+ellas [reconocer]";"ellas reconocen"
+"Indicativo
+Presente
+
+Ustedes [reconocer]";"Ustedes reconocen"
+"Indicativo
+Presente
+
+yo [reducir]";"yo reduzco"
+"Indicativo
+Presente
+
+tú [reducir]";"tú reduces"
+"Indicativo
+Presente
+
+él [reducir]";"él reduce"
+"Indicativo
+Presente
+
+ella [reducir]";"ella reduce"
+"Indicativo
+Presente
+
+Usted [reducir]";"Usted reduce"
+"Indicativo
+Presente
+
+nosotros [reducir]";"nosotros reducimos"
+"Indicativo
+Presente
+
+nosotras [reducir]";"nosotras reducimos"
+"Indicativo
+Presente
+
+vosotros [reducir]";"vosotros reducís"
+"Indicativo
+Presente
+
+vosotras [reducir]";"vosotras reducís"
+"Indicativo
+Presente
+
+ellos [reducir]";"ellos reducen"
+"Indicativo
+Presente
+
+ellas [reducir]";"ellas reducen"
+"Indicativo
+Presente
+
+Ustedes [reducir]";"Ustedes reducen"
+"Indicativo
+Presente
+
+yo [regir]";"yo rijo"
+"Indicativo
+Presente
+
+tú [regir]";"tú riges"
+"Indicativo
+Presente
+
+él [regir]";"él rige"
+"Indicativo
+Presente
+
+ella [regir]";"ella rige"
+"Indicativo
+Presente
+
+Usted [regir]";"Usted rige"
+"Indicativo
+Presente
+
+nosotros [regir]";"nosotros regimos"
+"Indicativo
+Presente
+
+nosotras [regir]";"nosotras regimos"
+"Indicativo
+Presente
+
+vosotros [regir]";"vosotros regís"
+"Indicativo
+Presente
+
+vosotras [regir]";"vosotras regís"
+"Indicativo
+Presente
+
+ellos [regir]";"ellos rigen"
+"Indicativo
+Presente
+
+ellas [regir]";"ellas rigen"
+"Indicativo
+Presente
+
+Ustedes [regir]";"Ustedes rigen"
+"Indicativo
+Presente
+
+yo [renacer]";"yo renazco"
+"Indicativo
+Presente
+
+tú [renacer]";"tú renaces"
+"Indicativo
+Presente
+
+él [renacer]";"él renace"
+"Indicativo
+Presente
+
+ella [renacer]";"ella renace"
+"Indicativo
+Presente
+
+Usted [renacer]";"Usted renace"
+"Indicativo
+Presente
+
+nosotros [renacer]";"nosotros renacemos"
+"Indicativo
+Presente
+
+nosotras [renacer]";"nosotras renacemos"
+"Indicativo
+Presente
+
+vosotros [renacer]";"vosotros renacéis"
+"Indicativo
+Presente
+
+vosotras [renacer]";"vosotras renacéis"
+"Indicativo
+Presente
+
+ellos [renacer]";"ellos renacen"
+"Indicativo
+Presente
+
+ellas [renacer]";"ellas renacen"
+"Indicativo
+Presente
+
+Ustedes [renacer]";"Ustedes renacen"
+"Indicativo
+Presente
+
+yo [reñir]";"yo riño"
+"Indicativo
+Presente
+
+tú [reñir]";"tú riñes"
+"Indicativo
+Presente
+
+él [reñir]";"él riñe"
+"Indicativo
+Presente
+
+ella [reñir]";"ella riñe"
+"Indicativo
+Presente
+
+Usted [reñir]";"Usted riñe"
+"Indicativo
+Presente
+
+nosotros [reñir]";"nosotros reñimos"
+"Indicativo
+Presente
+
+nosotras [reñir]";"nosotras reñimos"
+"Indicativo
+Presente
+
+vosotros [reñir]";"vosotros reñís"
+"Indicativo
+Presente
+
+vosotras [reñir]";"vosotras reñís"
+"Indicativo
+Presente
+
+ellos [reñir]";"ellos riñen"
+"Indicativo
+Presente
+
+ellas [reñir]";"ellas riñen"
+"Indicativo
+Presente
+
+Ustedes [reñir]";"Ustedes riñen"
+"Indicativo
+Presente
+
+yo [repetir]";"yo repito"
+"Indicativo
+Presente
+
+tú [repetir]";"tú repites"
+"Indicativo
+Presente
+
+él [repetir]";"él repite"
+"Indicativo
+Presente
+
+ella [repetir]";"ella repite"
+"Indicativo
+Presente
+
+Usted [repetir]";"Usted repite"
+"Indicativo
+Presente
+
+nosotros [repetir]";"nosotros repetimos"
+"Indicativo
+Presente
+
+nosotras [repetir]";"nosotras repetimos"
+"Indicativo
+Presente
+
+vosotros [repetir]";"vosotros repetís"
+"Indicativo
+Presente
+
+vosotras [repetir]";"vosotras repetís"
+"Indicativo
+Presente
+
+ellos [repetir]";"ellos repiten"
+"Indicativo
+Presente
+
+ellas [repetir]";"ellas repiten"
+"Indicativo
+Presente
+
+Ustedes [repetir]";"Ustedes repiten"
+"Indicativo
+Presente
+
+yo [requerir]";"yo requiero"
+"Indicativo
+Presente
+
+tú [requerir]";"tú requieres"
+"Indicativo
+Presente
+
+él [requerir]";"él requiere"
+"Indicativo
+Presente
+
+ella [requerir]";"ella requiere"
+"Indicativo
+Presente
+
+Usted [requerir]";"Usted requiere"
+"Indicativo
+Presente
+
+nosotros [requerir]";"nosotros requerimos"
+"Indicativo
+Presente
+
+nosotras [requerir]";"nosotras requerimos"
+"Indicativo
+Presente
+
+vosotros [requerir]";"vosotros requerís"
+"Indicativo
+Presente
+
+vosotras [requerir]";"vosotras requerís"
+"Indicativo
+Presente
+
+ellos [requerir]";"ellos requieren"
+"Indicativo
+Presente
+
+ellas [requerir]";"ellas requieren"
+"Indicativo
+Presente
+
+Ustedes [requerir]";"Ustedes requieren"
+"Indicativo
+Presente
+
+yo [resolver]";"yo resuelvo"
+"Indicativo
+Presente
+
+tú [resolver]";"tú resuelves"
+"Indicativo
+Presente
+
+él [resolver]";"él resuelve"
+"Indicativo
+Presente
+
+ella [resolver]";"ella resuelve"
+"Indicativo
+Presente
+
+Usted [resolver]";"Usted resuelve"
+"Indicativo
+Presente
+
+nosotros [resolver]";"nosotros resolvemos"
+"Indicativo
+Presente
+
+nosotras [resolver]";"nosotras resolvemos"
+"Indicativo
+Presente
+
+vosotros [resolver]";"vosotros resolvéis"
+"Indicativo
+Presente
+
+vosotras [resolver]";"vosotras resolvéis"
+"Indicativo
+Presente
+
+ellos [resolver]";"ellos resuelven"
+"Indicativo
+Presente
+
+ellas [resolver]";"ellas resuelven"
+"Indicativo
+Presente
+
+Ustedes [resolver]";"Ustedes resuelven"
+"Indicativo
+Presente
+
+yo [responder]";"yo respondo"
+"Indicativo
+Presente
+
+tú [responder]";"tú respondes"
+"Indicativo
+Presente
+
+él [responder]";"él responde"
+"Indicativo
+Presente
+
+ella [responder]";"ella responde"
+"Indicativo
+Presente
+
+Usted [responder]";"Usted responde"
+"Indicativo
+Presente
+
+nosotros [responder]";"nosotros respondemos"
+"Indicativo
+Presente
+
+nosotras [responder]";"nosotras respondemos"
+"Indicativo
+Presente
+
+vosotros [responder]";"vosotros respondéis"
+"Indicativo
+Presente
+
+vosotras [responder]";"vosotras respondéis"
+"Indicativo
+Presente
+
+ellos [responder]";"ellos responden"
+"Indicativo
+Presente
+
+ellas [responder]";"ellas responden"
+"Indicativo
+Presente
+
+Ustedes [responder]";"Ustedes responden"
+"Indicativo
+Presente
+
+yo [romper]";"yo rompo"
+"Indicativo
+Presente
+
+tú [romper]";"tú rompes"
+"Indicativo
+Presente
+
+él [romper]";"él rompe"
+"Indicativo
+Presente
+
+ella [romper]";"ella rompe"
+"Indicativo
+Presente
+
+Usted [romper]";"Usted rompe"
+"Indicativo
+Presente
+
+nosotros [romper]";"nosotros rompemos"
+"Indicativo
+Presente
+
+nosotras [romper]";"nosotras rompemos"
+"Indicativo
+Presente
+
+vosotros [romper]";"vosotros rompéis"
+"Indicativo
+Presente
+
+vosotras [romper]";"vosotras rompéis"
+"Indicativo
+Presente
+
+ellos [romper]";"ellos rompen"
+"Indicativo
+Presente
+
+ellas [romper]";"ellas rompen"
+"Indicativo
+Presente
+
+Ustedes [romper]";"Ustedes rompen"
+"Indicativo
+Presente
+
+yo [saber]";"yo sé"
+"Indicativo
+Presente
+
+tú [saber]";"tú sabes"
+"Indicativo
+Presente
+
+él [saber]";"él sabe"
+"Indicativo
+Presente
+
+ella [saber]";"ella sabe"
+"Indicativo
+Presente
+
+Usted [saber]";"Usted sabe"
+"Indicativo
+Presente
+
+nosotros [saber]";"nosotros sabemos"
+"Indicativo
+Presente
+
+nosotras [saber]";"nosotras sabemos"
+"Indicativo
+Presente
+
+vosotros [saber]";"vosotros sabéis"
+"Indicativo
+Presente
+
+vosotras [saber]";"vosotras sabéis"
+"Indicativo
+Presente
+
+ellos [saber]";"ellos saben"
+"Indicativo
+Presente
+
+ellas [saber]";"ellas saben"
+"Indicativo
+Presente
+
+Ustedes [saber]";"Ustedes saben"
+"Indicativo
+Presente
+
+yo [sacudir]";"yo sacudo"
+"Indicativo
+Presente
+
+tú [sacudir]";"tú sacudes"
+"Indicativo
+Presente
+
+él [sacudir]";"él sacude"
+"Indicativo
+Presente
+
+ella [sacudir]";"ella sacude"
+"Indicativo
+Presente
+
+Usted [sacudir]";"Usted sacude"
+"Indicativo
+Presente
+
+nosotros [sacudir]";"nosotros sacudimos"
+"Indicativo
+Presente
+
+nosotras [sacudir]";"nosotras sacudimos"
+"Indicativo
+Presente
+
+vosotros [sacudir]";"vosotros sacudís"
+"Indicativo
+Presente
+
+vosotras [sacudir]";"vosotras sacudís"
+"Indicativo
+Presente
+
+ellos [sacudir]";"ellos sacuden"
+"Indicativo
+Presente
+
+ellas [sacudir]";"ellas sacuden"
+"Indicativo
+Presente
+
+Ustedes [sacudir]";"Ustedes sacuden"
+"Indicativo
+Presente
+
+yo [salir]";"yo salgo"
+"Indicativo
+Presente
+
+tú [salir]";"tú sales"
+"Indicativo
+Presente
+
+él [salir]";"él sale"
+"Indicativo
+Presente
+
+ella [salir]";"ella sale"
+"Indicativo
+Presente
+
+Usted [salir]";"Usted sale"
+"Indicativo
+Presente
+
+nosotros [salir]";"nosotros salimos"
+"Indicativo
+Presente
+
+nosotras [salir]";"nosotras salimos"
+"Indicativo
+Presente
+
+vosotros [salir]";"vosotros salís"
+"Indicativo
+Presente
+
+vosotras [salir]";"vosotras salís"
+"Indicativo
+Presente
+
+ellos [salir]";"ellos salen"
+"Indicativo
+Presente
+
+ellas [salir]";"ellas salen"
+"Indicativo
+Presente
+
+Ustedes [salir]";"Ustedes salen"
+"Indicativo
+Presente
+
+yo [satisfacer]";"yo satisfago"
+"Indicativo
+Presente
+
+tú [satisfacer]";"tú satisfaces"
+"Indicativo
+Presente
+
+él [satisfacer]";"él satisface"
+"Indicativo
+Presente
+
+ella [satisfacer]";"ella satisface"
+"Indicativo
+Presente
+
+Usted [satisfacer]";"Usted satisface"
+"Indicativo
+Presente
+
+nosotros [satisfacer]";"nosotros satisfacemos"
+"Indicativo
+Presente
+
+nosotras [satisfacer]";"nosotras satisfacemos"
+"Indicativo
+Presente
+
+vosotros [satisfacer]";"vosotros satisfacéis"
+"Indicativo
+Presente
+
+vosotras [satisfacer]";"vosotras satisfacéis"
+"Indicativo
+Presente
+
+ellos [satisfacer]";"ellos satisfacen"
+"Indicativo
+Presente
+
+ellas [satisfacer]";"ellas satisfacen"
+"Indicativo
+Presente
+
+Ustedes [satisfacer]";"Ustedes satisfacen"
+"Indicativo
+Presente
+
+yo [seguir]";"yo sigo"
+"Indicativo
+Presente
+
+tú [seguir]";"tú sigues"
+"Indicativo
+Presente
+
+él [seguir]";"él sigue"
+"Indicativo
+Presente
+
+ella [seguir]";"ella sigue"
+"Indicativo
+Presente
+
+Usted [seguir]";"Usted sigue"
+"Indicativo
+Presente
+
+nosotros [seguir]";"nosotros seguimos"
+"Indicativo
+Presente
+
+nosotras [seguir]";"nosotras seguimos"
+"Indicativo
+Presente
+
+vosotros [seguir]";"vosotros seguís"
+"Indicativo
+Presente
+
+vosotras [seguir]";"vosotras seguís"
+"Indicativo
+Presente
+
+ellos [seguir]";"ellos siguen"
+"Indicativo
+Presente
+
+ellas [seguir]";"ellas siguen"
+"Indicativo
+Presente
+
+Ustedes [seguir]";"Ustedes siguen"
+"Indicativo
+Presente
+
+yo [sentir]";"yo siento"
+"Indicativo
+Presente
+
+tú [sentir]";"tú sientes"
+"Indicativo
+Presente
+
+él [sentir]";"él siente"
+"Indicativo
+Presente
+
+ella [sentir]";"ella siente"
+"Indicativo
+Presente
+
+Usted [sentir]";"Usted siente"
+"Indicativo
+Presente
+
+nosotros [sentir]";"nosotros sentimos"
+"Indicativo
+Presente
+
+nosotras [sentir]";"nosotras sentimos"
+"Indicativo
+Presente
+
+vosotros [sentir]";"vosotros sentís"
+"Indicativo
+Presente
+
+vosotras [sentir]";"vosotras sentís"
+"Indicativo
+Presente
+
+ellos [sentir]";"ellos sienten"
+"Indicativo
+Presente
+
+ellas [sentir]";"ellas sienten"
+"Indicativo
+Presente
+
+Ustedes [sentir]";"Ustedes sienten"
+"Indicativo
+Presente
+
+yo [ser]";"yo soy"
+"Indicativo
+Presente
+
+tú [ser]";"tú eres"
+"Indicativo
+Presente
+
+él [ser]";"él es"
+"Indicativo
+Presente
+
+ella [ser]";"ella es"
+"Indicativo
+Presente
+
+Usted [ser]";"Usted es"
+"Indicativo
+Presente
+
+nosotros [ser]";"nosotros somos"
+"Indicativo
+Presente
+
+nosotras [ser]";"nosotras somos"
+"Indicativo
+Presente
+
+vosotros [ser]";"vosotros sois"
+"Indicativo
+Presente
+
+vosotras [ser]";"vosotras sois"
+"Indicativo
+Presente
+
+ellos [ser]";"ellos son"
+"Indicativo
+Presente
+
+ellas [ser]";"ellas son"
+"Indicativo
+Presente
+
+Ustedes [ser]";"Ustedes son"
+"Indicativo
+Presente
+
+yo [servir]";"yo sirvo"
+"Indicativo
+Presente
+
+tú [servir]";"tú sirves"
+"Indicativo
+Presente
+
+él [servir]";"él sirve"
+"Indicativo
+Presente
+
+ella [servir]";"ella sirve"
+"Indicativo
+Presente
+
+Usted [servir]";"Usted sirve"
+"Indicativo
+Presente
+
+nosotros [servir]";"nosotros servimos"
+"Indicativo
+Presente
+
+nosotras [servir]";"nosotras servimos"
+"Indicativo
+Presente
+
+vosotros [servir]";"vosotros servís"
+"Indicativo
+Presente
+
+vosotras [servir]";"vosotras servís"
+"Indicativo
+Presente
+
+ellos [servir]";"ellos sirven"
+"Indicativo
+Presente
+
+ellas [servir]";"ellas sirven"
+"Indicativo
+Presente
+
+Ustedes [servir]";"Ustedes sirven"
+"Indicativo
+Presente
+
+yo [sobrevivir]";"yo sobrevivo"
+"Indicativo
+Presente
+
+tú [sobrevivir]";"tú sobrevives"
+"Indicativo
+Presente
+
+él [sobrevivir]";"él sobrevive"
+"Indicativo
+Presente
+
+ella [sobrevivir]";"ella sobrevive"
+"Indicativo
+Presente
+
+Usted [sobrevivir]";"Usted sobrevive"
+"Indicativo
+Presente
+
+nosotros [sobrevivir]";"nosotros sobrevivimos"
+"Indicativo
+Presente
+
+nosotras [sobrevivir]";"nosotras sobrevivimos"
+"Indicativo
+Presente
+
+vosotros [sobrevivir]";"vosotros sobrevivís"
+"Indicativo
+Presente
+
+vosotras [sobrevivir]";"vosotras sobrevivís"
+"Indicativo
+Presente
+
+ellos [sobrevivir]";"ellos sobreviven"
+"Indicativo
+Presente
+
+ellas [sobrevivir]";"ellas sobreviven"
+"Indicativo
+Presente
+
+Ustedes [sobrevivir]";"Ustedes sobreviven"
+"Indicativo
+Presente
+
+yo [soler]";"yo suelo"
+"Indicativo
+Presente
+
+tú [soler]";"tú sueles"
+"Indicativo
+Presente
+
+él [soler]";"él suele"
+"Indicativo
+Presente
+
+ella [soler]";"ella suele"
+"Indicativo
+Presente
+
+Usted [soler]";"Usted suele"
+"Indicativo
+Presente
+
+nosotros [soler]";"nosotros solemos"
+"Indicativo
+Presente
+
+nosotras [soler]";"nosotras solemos"
+"Indicativo
+Presente
+
+vosotros [soler]";"vosotros soléis"
+"Indicativo
+Presente
+
+vosotras [soler]";"vosotras soléis"
+"Indicativo
+Presente
+
+ellos [soler]";"ellos suelen"
+"Indicativo
+Presente
+
+ellas [soler]";"ellas suelen"
+"Indicativo
+Presente
+
+Ustedes [soler]";"Ustedes suelen"
+"Indicativo
+Presente
+
+yo [sorprender]";"yo sorprendo"
+"Indicativo
+Presente
+
+tú [sorprender]";"tú sorprendes"
+"Indicativo
+Presente
+
+él [sorprender]";"él sorprende"
+"Indicativo
+Presente
+
+ella [sorprender]";"ella sorprende"
+"Indicativo
+Presente
+
+Usted [sorprender]";"Usted sorprende"
+"Indicativo
+Presente
+
+nosotros [sorprender]";"nosotros sorprendemos"
+"Indicativo
+Presente
+
+nosotras [sorprender]";"nosotras sorprendemos"
+"Indicativo
+Presente
+
+vosotros [sorprender]";"vosotros sorprendéis"
+"Indicativo
+Presente
+
+vosotras [sorprender]";"vosotras sorprendéis"
+"Indicativo
+Presente
+
+ellos [sorprender]";"ellos sorprenden"
+"Indicativo
+Presente
+
+ellas [sorprender]";"ellas sorprenden"
+"Indicativo
+Presente
+
+Ustedes [sorprender]";"Ustedes sorprenden"
+"Indicativo
+Presente
+
+yo [subir]";"yo subo"
+"Indicativo
+Presente
+
+tú [subir]";"tú subes"
+"Indicativo
+Presente
+
+él [subir]";"él sube"
+"Indicativo
+Presente
+
+ella [subir]";"ella sube"
+"Indicativo
+Presente
+
+Usted [subir]";"Usted sube"
+"Indicativo
+Presente
+
+nosotros [subir]";"nosotros subimos"
+"Indicativo
+Presente
+
+nosotras [subir]";"nosotras subimos"
+"Indicativo
+Presente
+
+vosotros [subir]";"vosotros subís"
+"Indicativo
+Presente
+
+vosotras [subir]";"vosotras subís"
+"Indicativo
+Presente
+
+ellos [subir]";"ellos suben"
+"Indicativo
+Presente
+
+ellas [subir]";"ellas suben"
+"Indicativo
+Presente
+
+Ustedes [subir]";"Ustedes suben"
+"Indicativo
+Presente
+
+yo [suceder]";"yo sucedo"
+"Indicativo
+Presente
+
+tú [suceder]";"tú sucedes"
+"Indicativo
+Presente
+
+él [suceder]";"él sucede"
+"Indicativo
+Presente
+
+ella [suceder]";"ella sucede"
+"Indicativo
+Presente
+
+Usted [suceder]";"Usted sucede"
+"Indicativo
+Presente
+
+nosotros [suceder]";"nosotros sucedemos"
+"Indicativo
+Presente
+
+nosotras [suceder]";"nosotras sucedemos"
+"Indicativo
+Presente
+
+vosotros [suceder]";"vosotros sucedéis"
+"Indicativo
+Presente
+
+vosotras [suceder]";"vosotras sucedéis"
+"Indicativo
+Presente
+
+ellos [suceder]";"ellos suceden"
+"Indicativo
+Presente
+
+ellas [suceder]";"ellas suceden"
+"Indicativo
+Presente
+
+Ustedes [suceder]";"Ustedes suceden"
+"Indicativo
+Presente
+
+yo [sufrir]";"yo sufro"
+"Indicativo
+Presente
+
+tú [sufrir]";"tú sufres"
+"Indicativo
+Presente
+
+él [sufrir]";"él sufre"
+"Indicativo
+Presente
+
+ella [sufrir]";"ella sufre"
+"Indicativo
+Presente
+
+Usted [sufrir]";"Usted sufre"
+"Indicativo
+Presente
+
+nosotros [sufrir]";"nosotros sufrimos"
+"Indicativo
+Presente
+
+nosotras [sufrir]";"nosotras sufrimos"
+"Indicativo
+Presente
+
+vosotros [sufrir]";"vosotros sufrís"
+"Indicativo
+Presente
+
+vosotras [sufrir]";"vosotras sufrís"
+"Indicativo
+Presente
+
+ellos [sufrir]";"ellos sufren"
+"Indicativo
+Presente
+
+ellas [sufrir]";"ellas sufren"
+"Indicativo
+Presente
+
+Ustedes [sufrir]";"Ustedes sufren"
+"Indicativo
+Presente
+
+yo [sugerir]";"yo sugiero"
+"Indicativo
+Presente
+
+tú [sugerir]";"tú sugieres"
+"Indicativo
+Presente
+
+él [sugerir]";"él sugiere"
+"Indicativo
+Presente
+
+ella [sugerir]";"ella sugiere"
+"Indicativo
+Presente
+
+Usted [sugerir]";"Usted sugiere"
+"Indicativo
+Presente
+
+nosotros [sugerir]";"nosotros sugerimos"
+"Indicativo
+Presente
+
+nosotras [sugerir]";"nosotras sugerimos"
+"Indicativo
+Presente
+
+vosotros [sugerir]";"vosotros sugerís"
+"Indicativo
+Presente
+
+vosotras [sugerir]";"vosotras sugerís"
+"Indicativo
+Presente
+
+ellos [sugerir]";"ellos sugieren"
+"Indicativo
+Presente
+
+ellas [sugerir]";"ellas sugieren"
+"Indicativo
+Presente
+
+Ustedes [sugerir]";"Ustedes sugieren"
+"Indicativo
+Presente
+
+yo [suponer]";"yo supongo"
+"Indicativo
+Presente
+
+tú [suponer]";"tú supones"
+"Indicativo
+Presente
+
+él [suponer]";"él supone"
+"Indicativo
+Presente
+
+ella [suponer]";"ella supone"
+"Indicativo
+Presente
+
+Usted [suponer]";"Usted supone"
+"Indicativo
+Presente
+
+nosotros [suponer]";"nosotros suponemos"
+"Indicativo
+Presente
+
+nosotras [suponer]";"nosotras suponemos"
+"Indicativo
+Presente
+
+vosotros [suponer]";"vosotros suponéis"
+"Indicativo
+Presente
+
+vosotras [suponer]";"vosotras suponéis"
+"Indicativo
+Presente
+
+ellos [suponer]";"ellos suponen"
+"Indicativo
+Presente
+
+ellas [suponer]";"ellas suponen"
+"Indicativo
+Presente
+
+Ustedes [suponer]";"Ustedes suponen"
+"Indicativo
+Presente
+
+yo [surgir]";"yo surjo"
+"Indicativo
+Presente
+
+tú [surgir]";"tú surges"
+"Indicativo
+Presente
+
+él [surgir]";"él surge"
+"Indicativo
+Presente
+
+ella [surgir]";"ella surge"
+"Indicativo
+Presente
+
+Usted [surgir]";"Usted surge"
+"Indicativo
+Presente
+
+nosotros [surgir]";"nosotros surgimos"
+"Indicativo
+Presente
+
+nosotras [surgir]";"nosotras surgimos"
+"Indicativo
+Presente
+
+vosotros [surgir]";"vosotros surgís"
+"Indicativo
+Presente
+
+vosotras [surgir]";"vosotras surgís"
+"Indicativo
+Presente
+
+ellos [surgir]";"ellos surgen"
+"Indicativo
+Presente
+
+ellas [surgir]";"ellas surgen"
+"Indicativo
+Presente
+
+Ustedes [surgir]";"Ustedes surgen"
+"Indicativo
+Presente
+
+yo [sustituir]";"yo sustituyo"
+"Indicativo
+Presente
+
+tú [sustituir]";"tú sustituyes"
+"Indicativo
+Presente
+
+él [sustituir]";"él sustituye"
+"Indicativo
+Presente
+
+ella [sustituir]";"ella sustituye"
+"Indicativo
+Presente
+
+Usted [sustituir]";"Usted sustituye"
+"Indicativo
+Presente
+
+nosotros [sustituir]";"nosotros sustituimos"
+"Indicativo
+Presente
+
+nosotras [sustituir]";"nosotras sustituimos"
+"Indicativo
+Presente
+
+vosotros [sustituir]";"vosotros sustituís"
+"Indicativo
+Presente
+
+vosotras [sustituir]";"vosotras sustituís"
+"Indicativo
+Presente
+
+ellos [sustituir]";"ellos sustituyen"
+"Indicativo
+Presente
+
+ellas [sustituir]";"ellas sustituyen"
+"Indicativo
+Presente
+
+Ustedes [sustituir]";"Ustedes sustituyen"
+"Indicativo
+Presente
+
+yo [tañer]";"yo taño"
+"Indicativo
+Presente
+
+tú [tañer]";"tú tañes"
+"Indicativo
+Presente
+
+él [tañer]";"él tañe"
+"Indicativo
+Presente
+
+ella [tañer]";"ella tañe"
+"Indicativo
+Presente
+
+Usted [tañer]";"Usted tañe"
+"Indicativo
+Presente
+
+nosotros [tañer]";"nosotros tañemos"
+"Indicativo
+Presente
+
+nosotras [tañer]";"nosotras tañemos"
+"Indicativo
+Presente
+
+vosotros [tañer]";"vosotros tañéis"
+"Indicativo
+Presente
+
+vosotras [tañer]";"vosotras tañéis"
+"Indicativo
+Presente
+
+ellos [tañer]";"ellos tañen"
+"Indicativo
+Presente
+
+ellas [tañer]";"ellas tañen"
+"Indicativo
+Presente
+
+Ustedes [tañer]";"Ustedes tañen"
+"Indicativo
+Presente
+
+yo [temer]";"yo temo"
+"Indicativo
+Presente
+
+tú [temer]";"tú temes"
+"Indicativo
+Presente
+
+él [temer]";"él teme"
+"Indicativo
+Presente
+
+ella [temer]";"ella teme"
+"Indicativo
+Presente
+
+Usted [temer]";"Usted teme"
+"Indicativo
+Presente
+
+nosotros [temer]";"nosotros tememos"
+"Indicativo
+Presente
+
+nosotras [temer]";"nosotras tememos"
+"Indicativo
+Presente
+
+vosotros [temer]";"vosotros teméis"
+"Indicativo
+Presente
+
+vosotras [temer]";"vosotras teméis"
+"Indicativo
+Presente
+
+ellos [temer]";"ellos temen"
+"Indicativo
+Presente
+
+ellas [temer]";"ellas temen"
+"Indicativo
+Presente
+
+Ustedes [temer]";"Ustedes temen"
+"Indicativo
+Presente
+
+yo [tener]";"yo tengo"
+"Indicativo
+Presente
+
+tú [tener]";"tú tienes"
+"Indicativo
+Presente
+
+él [tener]";"él tiene"
+"Indicativo
+Presente
+
+ella [tener]";"ella tiene"
+"Indicativo
+Presente
+
+Usted [tener]";"Usted tiene"
+"Indicativo
+Presente
+
+nosotros [tener]";"nosotros tenemos"
+"Indicativo
+Presente
+
+nosotras [tener]";"nosotras tenemos"
+"Indicativo
+Presente
+
+vosotros [tener]";"vosotros tenéis"
+"Indicativo
+Presente
+
+vosotras [tener]";"vosotras tenéis"
+"Indicativo
+Presente
+
+ellos [tener]";"ellos tienen"
+"Indicativo
+Presente
+
+ellas [tener]";"ellas tienen"
+"Indicativo
+Presente
+
+Ustedes [tener]";"Ustedes tienen"
+"Indicativo
+Presente
+
+yo [teñir]";"yo tiño"
+"Indicativo
+Presente
+
+tú [teñir]";"tú tiñes"
+"Indicativo
+Presente
+
+él [teñir]";"él tiñe"
+"Indicativo
+Presente
+
+ella [teñir]";"ella tiñe"
+"Indicativo
+Presente
+
+Usted [teñir]";"Usted tiñe"
+"Indicativo
+Presente
+
+nosotros [teñir]";"nosotros teñimos"
+"Indicativo
+Presente
+
+nosotras [teñir]";"nosotras teñimos"
+"Indicativo
+Presente
+
+vosotros [teñir]";"vosotros teñís"
+"Indicativo
+Presente
+
+vosotras [teñir]";"vosotras teñís"
+"Indicativo
+Presente
+
+ellos [teñir]";"ellos tiñen"
+"Indicativo
+Presente
+
+ellas [teñir]";"ellas tiñen"
+"Indicativo
+Presente
+
+Ustedes [teñir]";"Ustedes tiñen"
+"Indicativo
+Presente
+
+yo [torcer]";"yo tuerzo"
+"Indicativo
+Presente
+
+tú [torcer]";"tú tuerces"
+"Indicativo
+Presente
+
+él [torcer]";"él tuerce"
+"Indicativo
+Presente
+
+ella [torcer]";"ella tuerce"
+"Indicativo
+Presente
+
+Usted [torcer]";"Usted tuerce"
+"Indicativo
+Presente
+
+nosotros [torcer]";"nosotros torcemos"
+"Indicativo
+Presente
+
+nosotras [torcer]";"nosotras torcemos"
+"Indicativo
+Presente
+
+vosotros [torcer]";"vosotros torcéis"
+"Indicativo
+Presente
+
+vosotras [torcer]";"vosotras torcéis"
+"Indicativo
+Presente
+
+ellos [torcer]";"ellos tuercen"
+"Indicativo
+Presente
+
+ellas [torcer]";"ellas tuercen"
+"Indicativo
+Presente
+
+Ustedes [torcer]";"Ustedes tuercen"
+"Indicativo
+Presente
+
+yo [toser]";"yo toso"
+"Indicativo
+Presente
+
+tú [toser]";"tú toses"
+"Indicativo
+Presente
+
+él [toser]";"él tose"
+"Indicativo
+Presente
+
+ella [toser]";"ella tose"
+"Indicativo
+Presente
+
+Usted [toser]";"Usted tose"
+"Indicativo
+Presente
+
+nosotros [toser]";"nosotros tosemos"
+"Indicativo
+Presente
+
+nosotras [toser]";"nosotras tosemos"
+"Indicativo
+Presente
+
+vosotros [toser]";"vosotros toséis"
+"Indicativo
+Presente
+
+vosotras [toser]";"vosotras toséis"
+"Indicativo
+Presente
+
+ellos [toser]";"ellos tosen"
+"Indicativo
+Presente
+
+ellas [toser]";"ellas tosen"
+"Indicativo
+Presente
+
+Ustedes [toser]";"Ustedes tosen"
+"Indicativo
+Presente
+
+yo [traducir]";"yo traduzco"
+"Indicativo
+Presente
+
+tú [traducir]";"tú traduces"
+"Indicativo
+Presente
+
+él [traducir]";"él traduce"
+"Indicativo
+Presente
+
+ella [traducir]";"ella traduce"
+"Indicativo
+Presente
+
+Usted [traducir]";"Usted traduce"
+"Indicativo
+Presente
+
+nosotros [traducir]";"nosotros traducimos"
+"Indicativo
+Presente
+
+nosotras [traducir]";"nosotras traducimos"
+"Indicativo
+Presente
+
+vosotros [traducir]";"vosotros traducís"
+"Indicativo
+Presente
+
+vosotras [traducir]";"vosotras traducís"
+"Indicativo
+Presente
+
+ellos [traducir]";"ellos traducen"
+"Indicativo
+Presente
+
+ellas [traducir]";"ellas traducen"
+"Indicativo
+Presente
+
+Ustedes [traducir]";"Ustedes traducen"
+"Indicativo
+Presente
+
+yo [traer]";"yo traigo"
+"Indicativo
+Presente
+
+tú [traer]";"tú traes"
+"Indicativo
+Presente
+
+él [traer]";"él trae"
+"Indicativo
+Presente
+
+ella [traer]";"ella trae"
+"Indicativo
+Presente
+
+Usted [traer]";"Usted trae"
+"Indicativo
+Presente
+
+nosotros [traer]";"nosotros traemos"
+"Indicativo
+Presente
+
+nosotras [traer]";"nosotras traemos"
+"Indicativo
+Presente
+
+vosotros [traer]";"vosotros traéis"
+"Indicativo
+Presente
+
+vosotras [traer]";"vosotras traéis"
+"Indicativo
+Presente
+
+ellos [traer]";"ellos traen"
+"Indicativo
+Presente
+
+ellas [traer]";"ellas traen"
+"Indicativo
+Presente
+
+Ustedes [traer]";"Ustedes traen"
+"Indicativo
+Presente
+
+yo [unir]";"yo uno"
+"Indicativo
+Presente
+
+tú [unir]";"tú unes"
+"Indicativo
+Presente
+
+él [unir]";"él une"
+"Indicativo
+Presente
+
+ella [unir]";"ella une"
+"Indicativo
+Presente
+
+Usted [unir]";"Usted une"
+"Indicativo
+Presente
+
+nosotros [unir]";"nosotros unimos"
+"Indicativo
+Presente
+
+nosotras [unir]";"nosotras unimos"
+"Indicativo
+Presente
+
+vosotros [unir]";"vosotros unís"
+"Indicativo
+Presente
+
+vosotras [unir]";"vosotras unís"
+"Indicativo
+Presente
+
+ellos [unir]";"ellos unen"
+"Indicativo
+Presente
+
+ellas [unir]";"ellas unen"
+"Indicativo
+Presente
+
+Ustedes [unir]";"Ustedes unen"
+"Indicativo
+Presente
+
+yo [valer]";"yo valgo"
+"Indicativo
+Presente
+
+tú [valer]";"tú vales"
+"Indicativo
+Presente
+
+él [valer]";"él vale"
+"Indicativo
+Presente
+
+ella [valer]";"ella vale"
+"Indicativo
+Presente
+
+Usted [valer]";"Usted vale"
+"Indicativo
+Presente
+
+nosotros [valer]";"nosotros valemos"
+"Indicativo
+Presente
+
+nosotras [valer]";"nosotras valemos"
+"Indicativo
+Presente
+
+vosotros [valer]";"vosotros valéis"
+"Indicativo
+Presente
+
+vosotras [valer]";"vosotras valéis"
+"Indicativo
+Presente
+
+ellos [valer]";"ellos valen"
+"Indicativo
+Presente
+
+ellas [valer]";"ellas valen"
+"Indicativo
+Presente
+
+Ustedes [valer]";"Ustedes valen"
+"Indicativo
+Presente
+
+yo [vencer]";"yo venzo"
+"Indicativo
+Presente
+
+tú [vencer]";"tú vences"
+"Indicativo
+Presente
+
+él [vencer]";"él vence"
+"Indicativo
+Presente
+
+ella [vencer]";"ella vence"
+"Indicativo
+Presente
+
+Usted [vencer]";"Usted vence"
+"Indicativo
+Presente
+
+nosotros [vencer]";"nosotros vencemos"
+"Indicativo
+Presente
+
+nosotras [vencer]";"nosotras vencemos"
+"Indicativo
+Presente
+
+vosotros [vencer]";"vosotros vencéis"
+"Indicativo
+Presente
+
+vosotras [vencer]";"vosotras vencéis"
+"Indicativo
+Presente
+
+ellos [vencer]";"ellos vencen"
+"Indicativo
+Presente
+
+ellas [vencer]";"ellas vencen"
+"Indicativo
+Presente
+
+Ustedes [vencer]";"Ustedes vencen"
+"Indicativo
+Presente
+
+yo [vender]";"yo vendo"
+"Indicativo
+Presente
+
+tú [vender]";"tú vendes"
+"Indicativo
+Presente
+
+él [vender]";"él vende"
+"Indicativo
+Presente
+
+ella [vender]";"ella vende"
+"Indicativo
+Presente
+
+Usted [vender]";"Usted vende"
+"Indicativo
+Presente
+
+nosotros [vender]";"nosotros vendemos"
+"Indicativo
+Presente
+
+nosotras [vender]";"nosotras vendemos"
+"Indicativo
+Presente
+
+vosotros [vender]";"vosotros vendéis"
+"Indicativo
+Presente
+
+vosotras [vender]";"vosotras vendéis"
+"Indicativo
+Presente
+
+ellos [vender]";"ellos venden"
+"Indicativo
+Presente
+
+ellas [vender]";"ellas venden"
+"Indicativo
+Presente
+
+Ustedes [vender]";"Ustedes venden"
+"Indicativo
+Presente
+
+yo [venir]";"yo vengo"
+"Indicativo
+Presente
+
+tú [venir]";"tú vienes"
+"Indicativo
+Presente
+
+él [venir]";"él viene"
+"Indicativo
+Presente
+
+ella [venir]";"ella viene"
+"Indicativo
+Presente
+
+Usted [venir]";"Usted viene"
+"Indicativo
+Presente
+
+nosotros [venir]";"nosotros venimos"
+"Indicativo
+Presente
+
+nosotras [venir]";"nosotras venimos"
+"Indicativo
+Presente
+
+vosotros [venir]";"vosotros venís"
+"Indicativo
+Presente
+
+vosotras [venir]";"vosotras venís"
+"Indicativo
+Presente
+
+ellos [venir]";"ellos vienen"
+"Indicativo
+Presente
+
+ellas [venir]";"ellas vienen"
+"Indicativo
+Presente
+
+Ustedes [venir]";"Ustedes vienen"
+"Indicativo
+Presente
+
+yo [ver]";"yo veo"
+"Indicativo
+Presente
+
+tú [ver]";"tú ves"
+"Indicativo
+Presente
+
+él [ver]";"él ve"
+"Indicativo
+Presente
+
+ella [ver]";"ella ve"
+"Indicativo
+Presente
+
+Usted [ver]";"Usted ve"
+"Indicativo
+Presente
+
+nosotros [ver]";"nosotros vemos"
+"Indicativo
+Presente
+
+nosotras [ver]";"nosotras vemos"
+"Indicativo
+Presente
+
+vosotros [ver]";"vosotros veis"
+"Indicativo
+Presente
+
+vosotras [ver]";"vosotras veis"
+"Indicativo
+Presente
+
+ellos [ver]";"ellos ven"
+"Indicativo
+Presente
+
+ellas [ver]";"ellas ven"
+"Indicativo
+Presente
+
+Ustedes [ver]";"Ustedes ven"
+"Indicativo
+Presente
+
+yo [vestir]";"yo visto"
+"Indicativo
+Presente
+
+tú [vestir]";"tú vistes"
+"Indicativo
+Presente
+
+él [vestir]";"él viste"
+"Indicativo
+Presente
+
+ella [vestir]";"ella viste"
+"Indicativo
+Presente
+
+Usted [vestir]";"Usted viste"
+"Indicativo
+Presente
+
+nosotros [vestir]";"nosotros vestimos"
+"Indicativo
+Presente
+
+nosotras [vestir]";"nosotras vestimos"
+"Indicativo
+Presente
+
+vosotros [vestir]";"vosotros vestís"
+"Indicativo
+Presente
+
+vosotras [vestir]";"vosotras vestís"
+"Indicativo
+Presente
+
+ellos [vestir]";"ellos visten"
+"Indicativo
+Presente
+
+ellas [vestir]";"ellas visten"
+"Indicativo
+Presente
+
+Ustedes [vestir]";"Ustedes visten"
+"Indicativo
+Presente
+
+yo [vivir]";"yo vivo"
+"Indicativo
+Presente
+
+tú [vivir]";"tú vives"
+"Indicativo
+Presente
+
+él [vivir]";"él vive"
+"Indicativo
+Presente
+
+ella [vivir]";"ella vive"
+"Indicativo
+Presente
+
+Usted [vivir]";"Usted vive"
+"Indicativo
+Presente
+
+nosotros [vivir]";"nosotros vivimos"
+"Indicativo
+Presente
+
+nosotras [vivir]";"nosotras vivimos"
+"Indicativo
+Presente
+
+vosotros [vivir]";"vosotros vivís"
+"Indicativo
+Presente
+
+vosotras [vivir]";"vosotras vivís"
+"Indicativo
+Presente
+
+ellos [vivir]";"ellos viven"
+"Indicativo
+Presente
+
+ellas [vivir]";"ellas viven"
+"Indicativo
+Presente
+
+Ustedes [vivir]";"Ustedes viven"
+"Indicativo
+Presente
+
+yo [volver]";"yo vuelvo"
+"Indicativo
+Presente
+
+tú [volver]";"tú vuelves"
+"Indicativo
+Presente
+
+él [volver]";"él vuelve"
+"Indicativo
+Presente
+
+ella [volver]";"ella vuelve"
+"Indicativo
+Presente
+
+Usted [volver]";"Usted vuelve"
+"Indicativo
+Presente
+
+nosotros [volver]";"nosotros volvemos"
+"Indicativo
+Presente
+
+nosotras [volver]";"nosotras volvemos"
+"Indicativo
+Presente
+
+vosotros [volver]";"vosotros volvéis"
+"Indicativo
+Presente
+
+vosotras [volver]";"vosotras volvéis"
+"Indicativo
+Presente
+
+ellos [volver]";"ellos vuelven"
+"Indicativo
+Presente
+
+ellas [volver]";"ellas vuelven"
+"Indicativo
+Presente
+
+Ustedes [volver]";"Ustedes vuelven"
+"Indicativo
+Presente
+
+yo [yacer]";"yo yazco"
+"Indicativo
+Presente
+
+tú [yacer]";"tú yaces"
+"Indicativo
+Presente
+
+él [yacer]";"él yace"
+"Indicativo
+Presente
+
+ella [yacer]";"ella yace"
+"Indicativo
+Presente
+
+Usted [yacer]";"Usted yace"
+"Indicativo
+Presente
+
+nosotros [yacer]";"nosotros yacemos"
+"Indicativo
+Presente
+
+nosotras [yacer]";"nosotras yacemos"
+"Indicativo
+Presente
+
+vosotros [yacer]";"vosotros yacéis"
+"Indicativo
+Presente
+
+vosotras [yacer]";"vosotras yacéis"
+"Indicativo
+Presente
+
+ellos [yacer]";"ellos yacen"
+"Indicativo
+Presente
+
+ellas [yacer]";"ellas yacen"
+"Indicativo
+Presente
+
+Ustedes [yacer]";"Ustedes yacen"

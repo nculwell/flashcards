@@ -1,0 +1,9218 @@
+#separator:Semicolon
+#html:false
+"Indicativo
+Pretérito
+
+yo [abrir]";"yo abrí"
+"Indicativo
+Pretérito
+
+tú [abrir]";"tú abriste"
+"Indicativo
+Pretérito
+
+él [abrir]";"él abrió"
+"Indicativo
+Pretérito
+
+ella [abrir]";"ella abrió"
+"Indicativo
+Pretérito
+
+Usted [abrir]";"Usted abrió"
+"Indicativo
+Pretérito
+
+nosotros [abrir]";"nosotros abrimos"
+"Indicativo
+Pretérito
+
+nosotras [abrir]";"nosotras abrimos"
+"Indicativo
+Pretérito
+
+vosotros [abrir]";"vosotros abristeis"
+"Indicativo
+Pretérito
+
+vosotras [abrir]";"vosotras abristeis"
+"Indicativo
+Pretérito
+
+ellos [abrir]";"ellos abrieron"
+"Indicativo
+Pretérito
+
+ellas [abrir]";"ellas abrieron"
+"Indicativo
+Pretérito
+
+Ustedes [abrir]";"Ustedes abrieron"
+"Indicativo
+Pretérito
+
+yo [aburrir]";"yo aburrí"
+"Indicativo
+Pretérito
+
+tú [aburrir]";"tú aburriste"
+"Indicativo
+Pretérito
+
+él [aburrir]";"él aburrió"
+"Indicativo
+Pretérito
+
+ella [aburrir]";"ella aburrió"
+"Indicativo
+Pretérito
+
+Usted [aburrir]";"Usted aburrió"
+"Indicativo
+Pretérito
+
+nosotros [aburrir]";"nosotros aburrimos"
+"Indicativo
+Pretérito
+
+nosotras [aburrir]";"nosotras aburrimos"
+"Indicativo
+Pretérito
+
+vosotros [aburrir]";"vosotros aburristeis"
+"Indicativo
+Pretérito
+
+vosotras [aburrir]";"vosotras aburristeis"
+"Indicativo
+Pretérito
+
+ellos [aburrir]";"ellos aburrieron"
+"Indicativo
+Pretérito
+
+ellas [aburrir]";"ellas aburrieron"
+"Indicativo
+Pretérito
+
+Ustedes [aburrir]";"Ustedes aburrieron"
+"Indicativo
+Pretérito
+
+yo [acontecer]";"yo acontecí"
+"Indicativo
+Pretérito
+
+tú [acontecer]";"tú aconteciste"
+"Indicativo
+Pretérito
+
+él [acontecer]";"él aconteció"
+"Indicativo
+Pretérito
+
+ella [acontecer]";"ella aconteció"
+"Indicativo
+Pretérito
+
+Usted [acontecer]";"Usted aconteció"
+"Indicativo
+Pretérito
+
+nosotros [acontecer]";"nosotros acontecimos"
+"Indicativo
+Pretérito
+
+nosotras [acontecer]";"nosotras acontecimos"
+"Indicativo
+Pretérito
+
+vosotros [acontecer]";"vosotros acontecisteis"
+"Indicativo
+Pretérito
+
+vosotras [acontecer]";"vosotras acontecisteis"
+"Indicativo
+Pretérito
+
+ellos [acontecer]";"ellos acontecieron"
+"Indicativo
+Pretérito
+
+ellas [acontecer]";"ellas acontecieron"
+"Indicativo
+Pretérito
+
+Ustedes [acontecer]";"Ustedes acontecieron"
+"Indicativo
+Pretérito
+
+yo [admitir]";"yo admití"
+"Indicativo
+Pretérito
+
+tú [admitir]";"tú admitiste"
+"Indicativo
+Pretérito
+
+él [admitir]";"él admitió"
+"Indicativo
+Pretérito
+
+ella [admitir]";"ella admitió"
+"Indicativo
+Pretérito
+
+Usted [admitir]";"Usted admitió"
+"Indicativo
+Pretérito
+
+nosotros [admitir]";"nosotros admitimos"
+"Indicativo
+Pretérito
+
+nosotras [admitir]";"nosotras admitimos"
+"Indicativo
+Pretérito
+
+vosotros [admitir]";"vosotros admitisteis"
+"Indicativo
+Pretérito
+
+vosotras [admitir]";"vosotras admitisteis"
+"Indicativo
+Pretérito
+
+ellos [admitir]";"ellos admitieron"
+"Indicativo
+Pretérito
+
+ellas [admitir]";"ellas admitieron"
+"Indicativo
+Pretérito
+
+Ustedes [admitir]";"Ustedes admitieron"
+"Indicativo
+Pretérito
+
+yo [advertir]";"yo advertí"
+"Indicativo
+Pretérito
+
+tú [advertir]";"tú advertiste"
+"Indicativo
+Pretérito
+
+él [advertir]";"él advirtió"
+"Indicativo
+Pretérito
+
+ella [advertir]";"ella advirtió"
+"Indicativo
+Pretérito
+
+Usted [advertir]";"Usted advirtió"
+"Indicativo
+Pretérito
+
+nosotros [advertir]";"nosotros advertimos"
+"Indicativo
+Pretérito
+
+nosotras [advertir]";"nosotras advertimos"
+"Indicativo
+Pretérito
+
+vosotros [advertir]";"vosotros advertisteis"
+"Indicativo
+Pretérito
+
+vosotras [advertir]";"vosotras advertisteis"
+"Indicativo
+Pretérito
+
+ellos [advertir]";"ellos advirtieron"
+"Indicativo
+Pretérito
+
+ellas [advertir]";"ellas advirtieron"
+"Indicativo
+Pretérito
+
+Ustedes [advertir]";"Ustedes advirtieron"
+"Indicativo
+Pretérito
+
+yo [afligir]";"yo afligí"
+"Indicativo
+Pretérito
+
+tú [afligir]";"tú afligiste"
+"Indicativo
+Pretérito
+
+él [afligir]";"él afligió"
+"Indicativo
+Pretérito
+
+ella [afligir]";"ella afligió"
+"Indicativo
+Pretérito
+
+Usted [afligir]";"Usted afligió"
+"Indicativo
+Pretérito
+
+nosotros [afligir]";"nosotros afligimos"
+"Indicativo
+Pretérito
+
+nosotras [afligir]";"nosotras afligimos"
+"Indicativo
+Pretérito
+
+vosotros [afligir]";"vosotros afligisteis"
+"Indicativo
+Pretérito
+
+vosotras [afligir]";"vosotras afligisteis"
+"Indicativo
+Pretérito
+
+ellos [afligir]";"ellos afligieron"
+"Indicativo
+Pretérito
+
+ellas [afligir]";"ellas afligieron"
+"Indicativo
+Pretérito
+
+Ustedes [afligir]";"Ustedes afligieron"
+"Indicativo
+Pretérito
+
+yo [agradecer]";"yo agradecí"
+"Indicativo
+Pretérito
+
+tú [agradecer]";"tú agradeciste"
+"Indicativo
+Pretérito
+
+él [agradecer]";"él agradeció"
+"Indicativo
+Pretérito
+
+ella [agradecer]";"ella agradeció"
+"Indicativo
+Pretérito
+
+Usted [agradecer]";"Usted agradeció"
+"Indicativo
+Pretérito
+
+nosotros [agradecer]";"nosotros agradecimos"
+"Indicativo
+Pretérito
+
+nosotras [agradecer]";"nosotras agradecimos"
+"Indicativo
+Pretérito
+
+vosotros [agradecer]";"vosotros agradecisteis"
+"Indicativo
+Pretérito
+
+vosotras [agradecer]";"vosotras agradecisteis"
+"Indicativo
+Pretérito
+
+ellos [agradecer]";"ellos agradecieron"
+"Indicativo
+Pretérito
+
+ellas [agradecer]";"ellas agradecieron"
+"Indicativo
+Pretérito
+
+Ustedes [agradecer]";"Ustedes agradecieron"
+"Indicativo
+Pretérito
+
+yo [amanecer]";"yo amanecí"
+"Indicativo
+Pretérito
+
+tú [amanecer]";"tú amaneciste"
+"Indicativo
+Pretérito
+
+él [amanecer]";"él amaneció"
+"Indicativo
+Pretérito
+
+ella [amanecer]";"ella amaneció"
+"Indicativo
+Pretérito
+
+Usted [amanecer]";"Usted amaneció"
+"Indicativo
+Pretérito
+
+nosotros [amanecer]";"nosotros amanecimos"
+"Indicativo
+Pretérito
+
+nosotras [amanecer]";"nosotras amanecimos"
+"Indicativo
+Pretérito
+
+vosotros [amanecer]";"vosotros amanecisteis"
+"Indicativo
+Pretérito
+
+vosotras [amanecer]";"vosotras amanecisteis"
+"Indicativo
+Pretérito
+
+ellos [amanecer]";"ellos amanecieron"
+"Indicativo
+Pretérito
+
+ellas [amanecer]";"ellas amanecieron"
+"Indicativo
+Pretérito
+
+Ustedes [amanecer]";"Ustedes amanecieron"
+"Indicativo
+Pretérito
+
+yo [añadir]";"yo añadí"
+"Indicativo
+Pretérito
+
+tú [añadir]";"tú añadiste"
+"Indicativo
+Pretérito
+
+él [añadir]";"él añadió"
+"Indicativo
+Pretérito
+
+ella [añadir]";"ella añadió"
+"Indicativo
+Pretérito
+
+Usted [añadir]";"Usted añadió"
+"Indicativo
+Pretérito
+
+nosotros [añadir]";"nosotros añadimos"
+"Indicativo
+Pretérito
+
+nosotras [añadir]";"nosotras añadimos"
+"Indicativo
+Pretérito
+
+vosotros [añadir]";"vosotros añadisteis"
+"Indicativo
+Pretérito
+
+vosotras [añadir]";"vosotras añadisteis"
+"Indicativo
+Pretérito
+
+ellos [añadir]";"ellos añadieron"
+"Indicativo
+Pretérito
+
+ellas [añadir]";"ellas añadieron"
+"Indicativo
+Pretérito
+
+Ustedes [añadir]";"Ustedes añadieron"
+"Indicativo
+Pretérito
+
+yo [aparecer]";"yo aparecí"
+"Indicativo
+Pretérito
+
+tú [aparecer]";"tú apareciste"
+"Indicativo
+Pretérito
+
+él [aparecer]";"él apareció"
+"Indicativo
+Pretérito
+
+ella [aparecer]";"ella apareció"
+"Indicativo
+Pretérito
+
+Usted [aparecer]";"Usted apareció"
+"Indicativo
+Pretérito
+
+nosotros [aparecer]";"nosotros aparecimos"
+"Indicativo
+Pretérito
+
+nosotras [aparecer]";"nosotras aparecimos"
+"Indicativo
+Pretérito
+
+vosotros [aparecer]";"vosotros aparecisteis"
+"Indicativo
+Pretérito
+
+vosotras [aparecer]";"vosotras aparecisteis"
+"Indicativo
+Pretérito
+
+ellos [aparecer]";"ellos aparecieron"
+"Indicativo
+Pretérito
+
+ellas [aparecer]";"ellas aparecieron"
+"Indicativo
+Pretérito
+
+Ustedes [aparecer]";"Ustedes aparecieron"
+"Indicativo
+Pretérito
+
+yo [aplaudir]";"yo aplaudí"
+"Indicativo
+Pretérito
+
+tú [aplaudir]";"tú aplaudiste"
+"Indicativo
+Pretérito
+
+él [aplaudir]";"él aplaudió"
+"Indicativo
+Pretérito
+
+ella [aplaudir]";"ella aplaudió"
+"Indicativo
+Pretérito
+
+Usted [aplaudir]";"Usted aplaudió"
+"Indicativo
+Pretérito
+
+nosotros [aplaudir]";"nosotros aplaudimos"
+"Indicativo
+Pretérito
+
+nosotras [aplaudir]";"nosotras aplaudimos"
+"Indicativo
+Pretérito
+
+vosotros [aplaudir]";"vosotros aplaudisteis"
+"Indicativo
+Pretérito
+
+vosotras [aplaudir]";"vosotras aplaudisteis"
+"Indicativo
+Pretérito
+
+ellos [aplaudir]";"ellos aplaudieron"
+"Indicativo
+Pretérito
+
+ellas [aplaudir]";"ellas aplaudieron"
+"Indicativo
+Pretérito
+
+Ustedes [aplaudir]";"Ustedes aplaudieron"
+"Indicativo
+Pretérito
+
+yo [aprender]";"yo aprendí"
+"Indicativo
+Pretérito
+
+tú [aprender]";"tú aprendiste"
+"Indicativo
+Pretérito
+
+él [aprender]";"él aprendió"
+"Indicativo
+Pretérito
+
+ella [aprender]";"ella aprendió"
+"Indicativo
+Pretérito
+
+Usted [aprender]";"Usted aprendió"
+"Indicativo
+Pretérito
+
+nosotros [aprender]";"nosotros aprendimos"
+"Indicativo
+Pretérito
+
+nosotras [aprender]";"nosotras aprendimos"
+"Indicativo
+Pretérito
+
+vosotros [aprender]";"vosotros aprendisteis"
+"Indicativo
+Pretérito
+
+vosotras [aprender]";"vosotras aprendisteis"
+"Indicativo
+Pretérito
+
+ellos [aprender]";"ellos aprendieron"
+"Indicativo
+Pretérito
+
+ellas [aprender]";"ellas aprendieron"
+"Indicativo
+Pretérito
+
+Ustedes [aprender]";"Ustedes aprendieron"
+"Indicativo
+Pretérito
+
+yo [asistir]";"yo asistí"
+"Indicativo
+Pretérito
+
+tú [asistir]";"tú asististe"
+"Indicativo
+Pretérito
+
+él [asistir]";"él asistió"
+"Indicativo
+Pretérito
+
+ella [asistir]";"ella asistió"
+"Indicativo
+Pretérito
+
+Usted [asistir]";"Usted asistió"
+"Indicativo
+Pretérito
+
+nosotros [asistir]";"nosotros asistimos"
+"Indicativo
+Pretérito
+
+nosotras [asistir]";"nosotras asistimos"
+"Indicativo
+Pretérito
+
+vosotros [asistir]";"vosotros asististeis"
+"Indicativo
+Pretérito
+
+vosotras [asistir]";"vosotras asististeis"
+"Indicativo
+Pretérito
+
+ellos [asistir]";"ellos asistieron"
+"Indicativo
+Pretérito
+
+ellas [asistir]";"ellas asistieron"
+"Indicativo
+Pretérito
+
+Ustedes [asistir]";"Ustedes asistieron"
+"Indicativo
+Pretérito
+
+yo [atender]";"yo atendí"
+"Indicativo
+Pretérito
+
+tú [atender]";"tú atendiste"
+"Indicativo
+Pretérito
+
+él [atender]";"él atendió"
+"Indicativo
+Pretérito
+
+ella [atender]";"ella atendió"
+"Indicativo
+Pretérito
+
+Usted [atender]";"Usted atendió"
+"Indicativo
+Pretérito
+
+nosotros [atender]";"nosotros atendimos"
+"Indicativo
+Pretérito
+
+nosotras [atender]";"nosotras atendimos"
+"Indicativo
+Pretérito
+
+vosotros [atender]";"vosotros atendisteis"
+"Indicativo
+Pretérito
+
+vosotras [atender]";"vosotras atendisteis"
+"Indicativo
+Pretérito
+
+ellos [atender]";"ellos atendieron"
+"Indicativo
+Pretérito
+
+ellas [atender]";"ellas atendieron"
+"Indicativo
+Pretérito
+
+Ustedes [atender]";"Ustedes atendieron"
+"Indicativo
+Pretérito
+
+yo [atraer]";"yo atraje"
+"Indicativo
+Pretérito
+
+tú [atraer]";"tú atrajiste"
+"Indicativo
+Pretérito
+
+él [atraer]";"él atrajo"
+"Indicativo
+Pretérito
+
+ella [atraer]";"ella atrajo"
+"Indicativo
+Pretérito
+
+Usted [atraer]";"Usted atrajo"
+"Indicativo
+Pretérito
+
+nosotros [atraer]";"nosotros atrajimos"
+"Indicativo
+Pretérito
+
+nosotras [atraer]";"nosotras atrajimos"
+"Indicativo
+Pretérito
+
+vosotros [atraer]";"vosotros atrajisteis"
+"Indicativo
+Pretérito
+
+vosotras [atraer]";"vosotras atrajisteis"
+"Indicativo
+Pretérito
+
+ellos [atraer]";"ellos atrajeron"
+"Indicativo
+Pretérito
+
+ellas [atraer]";"ellas atrajeron"
+"Indicativo
+Pretérito
+
+Ustedes [atraer]";"Ustedes atrajeron"
+"Indicativo
+Pretérito
+
+yo [barrer]";"yo barrí"
+"Indicativo
+Pretérito
+
+tú [barrer]";"tú barriste"
+"Indicativo
+Pretérito
+
+él [barrer]";"él barrió"
+"Indicativo
+Pretérito
+
+ella [barrer]";"ella barrió"
+"Indicativo
+Pretérito
+
+Usted [barrer]";"Usted barrió"
+"Indicativo
+Pretérito
+
+nosotros [barrer]";"nosotros barrimos"
+"Indicativo
+Pretérito
+
+nosotras [barrer]";"nosotras barrimos"
+"Indicativo
+Pretérito
+
+vosotros [barrer]";"vosotros barristeis"
+"Indicativo
+Pretérito
+
+vosotras [barrer]";"vosotras barristeis"
+"Indicativo
+Pretérito
+
+ellos [barrer]";"ellos barrieron"
+"Indicativo
+Pretérito
+
+ellas [barrer]";"ellas barrieron"
+"Indicativo
+Pretérito
+
+Ustedes [barrer]";"Ustedes barrieron"
+"Indicativo
+Pretérito
+
+yo [batir]";"yo batí"
+"Indicativo
+Pretérito
+
+tú [batir]";"tú batiste"
+"Indicativo
+Pretérito
+
+él [batir]";"él batió"
+"Indicativo
+Pretérito
+
+ella [batir]";"ella batió"
+"Indicativo
+Pretérito
+
+Usted [batir]";"Usted batió"
+"Indicativo
+Pretérito
+
+nosotros [batir]";"nosotros batimos"
+"Indicativo
+Pretérito
+
+nosotras [batir]";"nosotras batimos"
+"Indicativo
+Pretérito
+
+vosotros [batir]";"vosotros batisteis"
+"Indicativo
+Pretérito
+
+vosotras [batir]";"vosotras batisteis"
+"Indicativo
+Pretérito
+
+ellos [batir]";"ellos batieron"
+"Indicativo
+Pretérito
+
+ellas [batir]";"ellas batieron"
+"Indicativo
+Pretérito
+
+Ustedes [batir]";"Ustedes batieron"
+"Indicativo
+Pretérito
+
+yo [beber]";"yo bebí"
+"Indicativo
+Pretérito
+
+tú [beber]";"tú bebiste"
+"Indicativo
+Pretérito
+
+él [beber]";"él bebió"
+"Indicativo
+Pretérito
+
+ella [beber]";"ella bebió"
+"Indicativo
+Pretérito
+
+Usted [beber]";"Usted bebió"
+"Indicativo
+Pretérito
+
+nosotros [beber]";"nosotros bebimos"
+"Indicativo
+Pretérito
+
+nosotras [beber]";"nosotras bebimos"
+"Indicativo
+Pretérito
+
+vosotros [beber]";"vosotros bebisteis"
+"Indicativo
+Pretérito
+
+vosotras [beber]";"vosotras bebisteis"
+"Indicativo
+Pretérito
+
+ellos [beber]";"ellos bebieron"
+"Indicativo
+Pretérito
+
+ellas [beber]";"ellas bebieron"
+"Indicativo
+Pretérito
+
+Ustedes [beber]";"Ustedes bebieron"
+"Indicativo
+Pretérito
+
+yo [bendecir]";"yo bendije"
+"Indicativo
+Pretérito
+
+tú [bendecir]";"tú bendijiste"
+"Indicativo
+Pretérito
+
+él [bendecir]";"él bendijo"
+"Indicativo
+Pretérito
+
+ella [bendecir]";"ella bendijo"
+"Indicativo
+Pretérito
+
+Usted [bendecir]";"Usted bendijo"
+"Indicativo
+Pretérito
+
+nosotros [bendecir]";"nosotros bendijimos"
+"Indicativo
+Pretérito
+
+nosotras [bendecir]";"nosotras bendijimos"
+"Indicativo
+Pretérito
+
+vosotros [bendecir]";"vosotros bendijisteis"
+"Indicativo
+Pretérito
+
+vosotras [bendecir]";"vosotras bendijisteis"
+"Indicativo
+Pretérito
+
+ellos [bendecir]";"ellos bendijeron"
+"Indicativo
+Pretérito
+
+ellas [bendecir]";"ellas bendijeron"
+"Indicativo
+Pretérito
+
+Ustedes [bendecir]";"Ustedes bendijeron"
+"Indicativo
+Pretérito
+
+yo [caber]";"yo cupe"
+"Indicativo
+Pretérito
+
+tú [caber]";"tú cupiste"
+"Indicativo
+Pretérito
+
+él [caber]";"él cupo"
+"Indicativo
+Pretérito
+
+ella [caber]";"ella cupo"
+"Indicativo
+Pretérito
+
+Usted [caber]";"Usted cupo"
+"Indicativo
+Pretérito
+
+nosotros [caber]";"nosotros cupimos"
+"Indicativo
+Pretérito
+
+nosotras [caber]";"nosotras cupimos"
+"Indicativo
+Pretérito
+
+vosotros [caber]";"vosotros cupisteis"
+"Indicativo
+Pretérito
+
+vosotras [caber]";"vosotras cupisteis"
+"Indicativo
+Pretérito
+
+ellos [caber]";"ellos cupieron"
+"Indicativo
+Pretérito
+
+ellas [caber]";"ellas cupieron"
+"Indicativo
+Pretérito
+
+Ustedes [caber]";"Ustedes cupieron"
+"Indicativo
+Pretérito
+
+yo [caer]";"yo caí"
+"Indicativo
+Pretérito
+
+tú [caer]";"tú caíste"
+"Indicativo
+Pretérito
+
+él [caer]";"él cayó"
+"Indicativo
+Pretérito
+
+ella [caer]";"ella cayó"
+"Indicativo
+Pretérito
+
+Usted [caer]";"Usted cayó"
+"Indicativo
+Pretérito
+
+nosotros [caer]";"nosotros caímos"
+"Indicativo
+Pretérito
+
+nosotras [caer]";"nosotras caímos"
+"Indicativo
+Pretérito
+
+vosotros [caer]";"vosotros caísteis"
+"Indicativo
+Pretérito
+
+vosotras [caer]";"vosotras caísteis"
+"Indicativo
+Pretérito
+
+ellos [caer]";"ellos cayeron"
+"Indicativo
+Pretérito
+
+ellas [caer]";"ellas cayeron"
+"Indicativo
+Pretérito
+
+Ustedes [caer]";"Ustedes cayeron"
+"Indicativo
+Pretérito
+
+yo [coger]";"yo cogí"
+"Indicativo
+Pretérito
+
+tú [coger]";"tú cogiste"
+"Indicativo
+Pretérito
+
+él [coger]";"él cogió"
+"Indicativo
+Pretérito
+
+ella [coger]";"ella cogió"
+"Indicativo
+Pretérito
+
+Usted [coger]";"Usted cogió"
+"Indicativo
+Pretérito
+
+nosotros [coger]";"nosotros cogimos"
+"Indicativo
+Pretérito
+
+nosotras [coger]";"nosotras cogimos"
+"Indicativo
+Pretérito
+
+vosotros [coger]";"vosotros cogisteis"
+"Indicativo
+Pretérito
+
+vosotras [coger]";"vosotras cogisteis"
+"Indicativo
+Pretérito
+
+ellos [coger]";"ellos cogieron"
+"Indicativo
+Pretérito
+
+ellas [coger]";"ellas cogieron"
+"Indicativo
+Pretérito
+
+Ustedes [coger]";"Ustedes cogieron"
+"Indicativo
+Pretérito
+
+yo [combatir]";"yo combatí"
+"Indicativo
+Pretérito
+
+tú [combatir]";"tú combatiste"
+"Indicativo
+Pretérito
+
+él [combatir]";"él combatió"
+"Indicativo
+Pretérito
+
+ella [combatir]";"ella combatió"
+"Indicativo
+Pretérito
+
+Usted [combatir]";"Usted combatió"
+"Indicativo
+Pretérito
+
+nosotros [combatir]";"nosotros combatimos"
+"Indicativo
+Pretérito
+
+nosotras [combatir]";"nosotras combatimos"
+"Indicativo
+Pretérito
+
+vosotros [combatir]";"vosotros combatisteis"
+"Indicativo
+Pretérito
+
+vosotras [combatir]";"vosotras combatisteis"
+"Indicativo
+Pretérito
+
+ellos [combatir]";"ellos combatieron"
+"Indicativo
+Pretérito
+
+ellas [combatir]";"ellas combatieron"
+"Indicativo
+Pretérito
+
+Ustedes [combatir]";"Ustedes combatieron"
+"Indicativo
+Pretérito
+
+yo [comer]";"yo comí"
+"Indicativo
+Pretérito
+
+tú [comer]";"tú comiste"
+"Indicativo
+Pretérito
+
+él [comer]";"él comió"
+"Indicativo
+Pretérito
+
+ella [comer]";"ella comió"
+"Indicativo
+Pretérito
+
+Usted [comer]";"Usted comió"
+"Indicativo
+Pretérito
+
+nosotros [comer]";"nosotros comimos"
+"Indicativo
+Pretérito
+
+nosotras [comer]";"nosotras comimos"
+"Indicativo
+Pretérito
+
+vosotros [comer]";"vosotros comisteis"
+"Indicativo
+Pretérito
+
+vosotras [comer]";"vosotras comisteis"
+"Indicativo
+Pretérito
+
+ellos [comer]";"ellos comieron"
+"Indicativo
+Pretérito
+
+ellas [comer]";"ellas comieron"
+"Indicativo
+Pretérito
+
+Ustedes [comer]";"Ustedes comieron"
+"Indicativo
+Pretérito
+
+yo [competir]";"yo competí"
+"Indicativo
+Pretérito
+
+tú [competir]";"tú competiste"
+"Indicativo
+Pretérito
+
+él [competir]";"él compitió"
+"Indicativo
+Pretérito
+
+ella [competir]";"ella compitió"
+"Indicativo
+Pretérito
+
+Usted [competir]";"Usted compitió"
+"Indicativo
+Pretérito
+
+nosotros [competir]";"nosotros competimos"
+"Indicativo
+Pretérito
+
+nosotras [competir]";"nosotras competimos"
+"Indicativo
+Pretérito
+
+vosotros [competir]";"vosotros competisteis"
+"Indicativo
+Pretérito
+
+vosotras [competir]";"vosotras competisteis"
+"Indicativo
+Pretérito
+
+ellos [competir]";"ellos compitieron"
+"Indicativo
+Pretérito
+
+ellas [competir]";"ellas compitieron"
+"Indicativo
+Pretérito
+
+Ustedes [competir]";"Ustedes compitieron"
+"Indicativo
+Pretérito
+
+yo [componer]";"yo compuse"
+"Indicativo
+Pretérito
+
+tú [componer]";"tú compusiste"
+"Indicativo
+Pretérito
+
+él [componer]";"él compuso"
+"Indicativo
+Pretérito
+
+ella [componer]";"ella compuso"
+"Indicativo
+Pretérito
+
+Usted [componer]";"Usted compuso"
+"Indicativo
+Pretérito
+
+nosotros [componer]";"nosotros compusimos"
+"Indicativo
+Pretérito
+
+nosotras [componer]";"nosotras compusimos"
+"Indicativo
+Pretérito
+
+vosotros [componer]";"vosotros compusisteis"
+"Indicativo
+Pretérito
+
+vosotras [componer]";"vosotras compusisteis"
+"Indicativo
+Pretérito
+
+ellos [componer]";"ellos compusieron"
+"Indicativo
+Pretérito
+
+ellas [componer]";"ellas compusieron"
+"Indicativo
+Pretérito
+
+Ustedes [componer]";"Ustedes compusieron"
+"Indicativo
+Pretérito
+
+yo [comprender]";"yo comprendí"
+"Indicativo
+Pretérito
+
+tú [comprender]";"tú comprendiste"
+"Indicativo
+Pretérito
+
+él [comprender]";"él comprendió"
+"Indicativo
+Pretérito
+
+ella [comprender]";"ella comprendió"
+"Indicativo
+Pretérito
+
+Usted [comprender]";"Usted comprendió"
+"Indicativo
+Pretérito
+
+nosotros [comprender]";"nosotros comprendimos"
+"Indicativo
+Pretérito
+
+nosotras [comprender]";"nosotras comprendimos"
+"Indicativo
+Pretérito
+
+vosotros [comprender]";"vosotros comprendisteis"
+"Indicativo
+Pretérito
+
+vosotras [comprender]";"vosotras comprendisteis"
+"Indicativo
+Pretérito
+
+ellos [comprender]";"ellos comprendieron"
+"Indicativo
+Pretérito
+
+ellas [comprender]";"ellas comprendieron"
+"Indicativo
+Pretérito
+
+Ustedes [comprender]";"Ustedes comprendieron"
+"Indicativo
+Pretérito
+
+yo [conducir]";"yo conduje"
+"Indicativo
+Pretérito
+
+tú [conducir]";"tú condujiste"
+"Indicativo
+Pretérito
+
+él [conducir]";"él condujo"
+"Indicativo
+Pretérito
+
+ella [conducir]";"ella condujo"
+"Indicativo
+Pretérito
+
+Usted [conducir]";"Usted condujo"
+"Indicativo
+Pretérito
+
+nosotros [conducir]";"nosotros condujimos"
+"Indicativo
+Pretérito
+
+nosotras [conducir]";"nosotras condujimos"
+"Indicativo
+Pretérito
+
+vosotros [conducir]";"vosotros condujisteis"
+"Indicativo
+Pretérito
+
+vosotras [conducir]";"vosotras condujisteis"
+"Indicativo
+Pretérito
+
+ellos [conducir]";"ellos condujeron"
+"Indicativo
+Pretérito
+
+ellas [conducir]";"ellas condujeron"
+"Indicativo
+Pretérito
+
+Ustedes [conducir]";"Ustedes condujeron"
+"Indicativo
+Pretérito
+
+yo [compartir]";"yo compartí"
+"Indicativo
+Pretérito
+
+tú [compartir]";"tú compartiste"
+"Indicativo
+Pretérito
+
+él [compartir]";"él compartió"
+"Indicativo
+Pretérito
+
+ella [compartir]";"ella compartió"
+"Indicativo
+Pretérito
+
+Usted [compartir]";"Usted compartió"
+"Indicativo
+Pretérito
+
+nosotros [compartir]";"nosotros compartimos"
+"Indicativo
+Pretérito
+
+nosotras [compartir]";"nosotras compartimos"
+"Indicativo
+Pretérito
+
+vosotros [compartir]";"vosotros compartisteis"
+"Indicativo
+Pretérito
+
+vosotras [compartir]";"vosotras compartisteis"
+"Indicativo
+Pretérito
+
+ellos [compartir]";"ellos compartieron"
+"Indicativo
+Pretérito
+
+ellas [compartir]";"ellas compartieron"
+"Indicativo
+Pretérito
+
+Ustedes [compartir]";"Ustedes compartieron"
+"Indicativo
+Pretérito
+
+yo [conocer]";"yo conocí"
+"Indicativo
+Pretérito
+
+tú [conocer]";"tú conociste"
+"Indicativo
+Pretérito
+
+él [conocer]";"él conoció"
+"Indicativo
+Pretérito
+
+ella [conocer]";"ella conoció"
+"Indicativo
+Pretérito
+
+Usted [conocer]";"Usted conoció"
+"Indicativo
+Pretérito
+
+nosotros [conocer]";"nosotros conocimos"
+"Indicativo
+Pretérito
+
+nosotras [conocer]";"nosotras conocimos"
+"Indicativo
+Pretérito
+
+vosotros [conocer]";"vosotros conocisteis"
+"Indicativo
+Pretérito
+
+vosotras [conocer]";"vosotras conocisteis"
+"Indicativo
+Pretérito
+
+ellos [conocer]";"ellos conocieron"
+"Indicativo
+Pretérito
+
+ellas [conocer]";"ellas conocieron"
+"Indicativo
+Pretérito
+
+Ustedes [conocer]";"Ustedes conocieron"
+"Indicativo
+Pretérito
+
+yo [conseguir]";"yo conseguí"
+"Indicativo
+Pretérito
+
+tú [conseguir]";"tú conseguiste"
+"Indicativo
+Pretérito
+
+él [conseguir]";"él consiguió"
+"Indicativo
+Pretérito
+
+ella [conseguir]";"ella consiguió"
+"Indicativo
+Pretérito
+
+Usted [conseguir]";"Usted consiguió"
+"Indicativo
+Pretérito
+
+nosotros [conseguir]";"nosotros conseguimos"
+"Indicativo
+Pretérito
+
+nosotras [conseguir]";"nosotras conseguimos"
+"Indicativo
+Pretérito
+
+vosotros [conseguir]";"vosotros conseguisteis"
+"Indicativo
+Pretérito
+
+vosotras [conseguir]";"vosotras conseguisteis"
+"Indicativo
+Pretérito
+
+ellos [conseguir]";"ellos consiguieron"
+"Indicativo
+Pretérito
+
+ellas [conseguir]";"ellas consiguieron"
+"Indicativo
+Pretérito
+
+Ustedes [conseguir]";"Ustedes consiguieron"
+"Indicativo
+Pretérito
+
+yo [consentir]";"yo consentí"
+"Indicativo
+Pretérito
+
+tú [consentir]";"tú consentiste"
+"Indicativo
+Pretérito
+
+él [consentir]";"él consintió"
+"Indicativo
+Pretérito
+
+ella [consentir]";"ella consintió"
+"Indicativo
+Pretérito
+
+Usted [consentir]";"Usted consintió"
+"Indicativo
+Pretérito
+
+nosotros [consentir]";"nosotros consentimos"
+"Indicativo
+Pretérito
+
+nosotras [consentir]";"nosotras consentimos"
+"Indicativo
+Pretérito
+
+vosotros [consentir]";"vosotros consentisteis"
+"Indicativo
+Pretérito
+
+vosotras [consentir]";"vosotras consentisteis"
+"Indicativo
+Pretérito
+
+ellos [consentir]";"ellos consintieron"
+"Indicativo
+Pretérito
+
+ellas [consentir]";"ellas consintieron"
+"Indicativo
+Pretérito
+
+Ustedes [consentir]";"Ustedes consintieron"
+"Indicativo
+Pretérito
+
+yo [consistir]";"yo consistí"
+"Indicativo
+Pretérito
+
+tú [consistir]";"tú consististe"
+"Indicativo
+Pretérito
+
+él [consistir]";"él consistió"
+"Indicativo
+Pretérito
+
+ella [consistir]";"ella consistió"
+"Indicativo
+Pretérito
+
+Usted [consistir]";"Usted consistió"
+"Indicativo
+Pretérito
+
+nosotros [consistir]";"nosotros consistimos"
+"Indicativo
+Pretérito
+
+nosotras [consistir]";"nosotras consistimos"
+"Indicativo
+Pretérito
+
+vosotros [consistir]";"vosotros consististeis"
+"Indicativo
+Pretérito
+
+vosotras [consistir]";"vosotras consististeis"
+"Indicativo
+Pretérito
+
+ellos [consistir]";"ellos consistieron"
+"Indicativo
+Pretérito
+
+ellas [consistir]";"ellas consistieron"
+"Indicativo
+Pretérito
+
+Ustedes [consistir]";"Ustedes consistieron"
+"Indicativo
+Pretérito
+
+yo [constituir]";"yo constituí"
+"Indicativo
+Pretérito
+
+tú [constituir]";"tú constituiste"
+"Indicativo
+Pretérito
+
+él [constituir]";"él constituyó"
+"Indicativo
+Pretérito
+
+ella [constituir]";"ella constituyó"
+"Indicativo
+Pretérito
+
+Usted [constituir]";"Usted constituyó"
+"Indicativo
+Pretérito
+
+nosotros [constituir]";"nosotros constituimos"
+"Indicativo
+Pretérito
+
+nosotras [constituir]";"nosotras constituimos"
+"Indicativo
+Pretérito
+
+vosotros [constituir]";"vosotros constituisteis"
+"Indicativo
+Pretérito
+
+vosotras [constituir]";"vosotras constituisteis"
+"Indicativo
+Pretérito
+
+ellos [constituir]";"ellos constituyeron"
+"Indicativo
+Pretérito
+
+ellas [constituir]";"ellas constituyeron"
+"Indicativo
+Pretérito
+
+Ustedes [constituir]";"Ustedes constituyeron"
+"Indicativo
+Pretérito
+
+yo [construir]";"yo construí"
+"Indicativo
+Pretérito
+
+tú [construir]";"tú construiste"
+"Indicativo
+Pretérito
+
+él [construir]";"él construyó"
+"Indicativo
+Pretérito
+
+ella [construir]";"ella construyó"
+"Indicativo
+Pretérito
+
+Usted [construir]";"Usted construyó"
+"Indicativo
+Pretérito
+
+nosotros [construir]";"nosotros construimos"
+"Indicativo
+Pretérito
+
+nosotras [construir]";"nosotras construimos"
+"Indicativo
+Pretérito
+
+vosotros [construir]";"vosotros construisteis"
+"Indicativo
+Pretérito
+
+vosotras [construir]";"vosotras construisteis"
+"Indicativo
+Pretérito
+
+ellos [construir]";"ellos construyeron"
+"Indicativo
+Pretérito
+
+ellas [construir]";"ellas construyeron"
+"Indicativo
+Pretérito
+
+Ustedes [construir]";"Ustedes construyeron"
+"Indicativo
+Pretérito
+
+yo [consumir]";"yo consumí"
+"Indicativo
+Pretérito
+
+tú [consumir]";"tú consumiste"
+"Indicativo
+Pretérito
+
+él [consumir]";"él consumió"
+"Indicativo
+Pretérito
+
+ella [consumir]";"ella consumió"
+"Indicativo
+Pretérito
+
+Usted [consumir]";"Usted consumió"
+"Indicativo
+Pretérito
+
+nosotros [consumir]";"nosotros consumimos"
+"Indicativo
+Pretérito
+
+nosotras [consumir]";"nosotras consumimos"
+"Indicativo
+Pretérito
+
+vosotros [consumir]";"vosotros consumisteis"
+"Indicativo
+Pretérito
+
+vosotras [consumir]";"vosotras consumisteis"
+"Indicativo
+Pretérito
+
+ellos [consumir]";"ellos consumieron"
+"Indicativo
+Pretérito
+
+ellas [consumir]";"ellas consumieron"
+"Indicativo
+Pretérito
+
+Ustedes [consumir]";"Ustedes consumieron"
+"Indicativo
+Pretérito
+
+yo [contener]";"yo contuve"
+"Indicativo
+Pretérito
+
+tú [contener]";"tú contuviste"
+"Indicativo
+Pretérito
+
+él [contener]";"él contuvo"
+"Indicativo
+Pretérito
+
+ella [contener]";"ella contuvo"
+"Indicativo
+Pretérito
+
+Usted [contener]";"Usted contuvo"
+"Indicativo
+Pretérito
+
+nosotros [contener]";"nosotros contuvimos"
+"Indicativo
+Pretérito
+
+nosotras [contener]";"nosotras contuvimos"
+"Indicativo
+Pretérito
+
+vosotros [contener]";"vosotros contuvisteis"
+"Indicativo
+Pretérito
+
+vosotras [contener]";"vosotras contuvisteis"
+"Indicativo
+Pretérito
+
+ellos [contener]";"ellos contuvieron"
+"Indicativo
+Pretérito
+
+ellas [contener]";"ellas contuvieron"
+"Indicativo
+Pretérito
+
+Ustedes [contener]";"Ustedes contuvieron"
+"Indicativo
+Pretérito
+
+yo [contribuir]";"yo contribuí"
+"Indicativo
+Pretérito
+
+tú [contribuir]";"tú contribuiste"
+"Indicativo
+Pretérito
+
+él [contribuir]";"él contribuyó"
+"Indicativo
+Pretérito
+
+ella [contribuir]";"ella contribuyó"
+"Indicativo
+Pretérito
+
+Usted [contribuir]";"Usted contribuyó"
+"Indicativo
+Pretérito
+
+nosotros [contribuir]";"nosotros contribuimos"
+"Indicativo
+Pretérito
+
+nosotras [contribuir]";"nosotras contribuimos"
+"Indicativo
+Pretérito
+
+vosotros [contribuir]";"vosotros contribuisteis"
+"Indicativo
+Pretérito
+
+vosotras [contribuir]";"vosotras contribuisteis"
+"Indicativo
+Pretérito
+
+ellos [contribuir]";"ellos contribuyeron"
+"Indicativo
+Pretérito
+
+ellas [contribuir]";"ellas contribuyeron"
+"Indicativo
+Pretérito
+
+Ustedes [contribuir]";"Ustedes contribuyeron"
+"Indicativo
+Pretérito
+
+yo [convencer]";"yo convencí"
+"Indicativo
+Pretérito
+
+tú [convencer]";"tú convenciste"
+"Indicativo
+Pretérito
+
+él [convencer]";"él convenció"
+"Indicativo
+Pretérito
+
+ella [convencer]";"ella convenció"
+"Indicativo
+Pretérito
+
+Usted [convencer]";"Usted convenció"
+"Indicativo
+Pretérito
+
+nosotros [convencer]";"nosotros convencimos"
+"Indicativo
+Pretérito
+
+nosotras [convencer]";"nosotras convencimos"
+"Indicativo
+Pretérito
+
+vosotros [convencer]";"vosotros convencisteis"
+"Indicativo
+Pretérito
+
+vosotras [convencer]";"vosotras convencisteis"
+"Indicativo
+Pretérito
+
+ellos [convencer]";"ellos convencieron"
+"Indicativo
+Pretérito
+
+ellas [convencer]";"ellas convencieron"
+"Indicativo
+Pretérito
+
+Ustedes [convencer]";"Ustedes convencieron"
+"Indicativo
+Pretérito
+
+yo [convenir]";"yo convine"
+"Indicativo
+Pretérito
+
+tú [convenir]";"tú conviniste"
+"Indicativo
+Pretérito
+
+él [convenir]";"él convino"
+"Indicativo
+Pretérito
+
+ella [convenir]";"ella convino"
+"Indicativo
+Pretérito
+
+Usted [convenir]";"Usted convino"
+"Indicativo
+Pretérito
+
+nosotros [convenir]";"nosotros convinimos"
+"Indicativo
+Pretérito
+
+nosotras [convenir]";"nosotras convinimos"
+"Indicativo
+Pretérito
+
+vosotros [convenir]";"vosotros convinisteis"
+"Indicativo
+Pretérito
+
+vosotras [convenir]";"vosotras convinisteis"
+"Indicativo
+Pretérito
+
+ellos [convenir]";"ellos convinieron"
+"Indicativo
+Pretérito
+
+ellas [convenir]";"ellas convinieron"
+"Indicativo
+Pretérito
+
+Ustedes [convenir]";"Ustedes convinieron"
+"Indicativo
+Pretérito
+
+yo [convertir]";"yo convertí"
+"Indicativo
+Pretérito
+
+tú [convertir]";"tú convertiste"
+"Indicativo
+Pretérito
+
+él [convertir]";"él convirtió"
+"Indicativo
+Pretérito
+
+ella [convertir]";"ella convirtió"
+"Indicativo
+Pretérito
+
+Usted [convertir]";"Usted convirtió"
+"Indicativo
+Pretérito
+
+nosotros [convertir]";"nosotros convertimos"
+"Indicativo
+Pretérito
+
+nosotras [convertir]";"nosotras convertimos"
+"Indicativo
+Pretérito
+
+vosotros [convertir]";"vosotros convertisteis"
+"Indicativo
+Pretérito
+
+vosotras [convertir]";"vosotras convertisteis"
+"Indicativo
+Pretérito
+
+ellos [convertir]";"ellos convirtieron"
+"Indicativo
+Pretérito
+
+ellas [convertir]";"ellas convirtieron"
+"Indicativo
+Pretérito
+
+Ustedes [convertir]";"Ustedes convirtieron"
+"Indicativo
+Pretérito
+
+yo [corregir]";"yo corregí"
+"Indicativo
+Pretérito
+
+tú [corregir]";"tú corregiste"
+"Indicativo
+Pretérito
+
+él [corregir]";"él corrigió"
+"Indicativo
+Pretérito
+
+ella [corregir]";"ella corrigió"
+"Indicativo
+Pretérito
+
+Usted [corregir]";"Usted corrigió"
+"Indicativo
+Pretérito
+
+nosotros [corregir]";"nosotros corregimos"
+"Indicativo
+Pretérito
+
+nosotras [corregir]";"nosotras corregimos"
+"Indicativo
+Pretérito
+
+vosotros [corregir]";"vosotros corregisteis"
+"Indicativo
+Pretérito
+
+vosotras [corregir]";"vosotras corregisteis"
+"Indicativo
+Pretérito
+
+ellos [corregir]";"ellos corrigieron"
+"Indicativo
+Pretérito
+
+ellas [corregir]";"ellas corrigieron"
+"Indicativo
+Pretérito
+
+Ustedes [corregir]";"Ustedes corrigieron"
+"Indicativo
+Pretérito
+
+yo [correr]";"yo corrí"
+"Indicativo
+Pretérito
+
+tú [correr]";"tú corriste"
+"Indicativo
+Pretérito
+
+él [correr]";"él corrió"
+"Indicativo
+Pretérito
+
+ella [correr]";"ella corrió"
+"Indicativo
+Pretérito
+
+Usted [correr]";"Usted corrió"
+"Indicativo
+Pretérito
+
+nosotros [correr]";"nosotros corrimos"
+"Indicativo
+Pretérito
+
+nosotras [correr]";"nosotras corrimos"
+"Indicativo
+Pretérito
+
+vosotros [correr]";"vosotros corristeis"
+"Indicativo
+Pretérito
+
+vosotras [correr]";"vosotras corristeis"
+"Indicativo
+Pretérito
+
+ellos [correr]";"ellos corrieron"
+"Indicativo
+Pretérito
+
+ellas [correr]";"ellas corrieron"
+"Indicativo
+Pretérito
+
+Ustedes [correr]";"Ustedes corrieron"
+"Indicativo
+Pretérito
+
+yo [coser]";"yo cosí"
+"Indicativo
+Pretérito
+
+tú [coser]";"tú cosiste"
+"Indicativo
+Pretérito
+
+él [coser]";"él cosió"
+"Indicativo
+Pretérito
+
+ella [coser]";"ella cosió"
+"Indicativo
+Pretérito
+
+Usted [coser]";"Usted cosió"
+"Indicativo
+Pretérito
+
+nosotros [coser]";"nosotros cosimos"
+"Indicativo
+Pretérito
+
+nosotras [coser]";"nosotras cosimos"
+"Indicativo
+Pretérito
+
+vosotros [coser]";"vosotros cosisteis"
+"Indicativo
+Pretérito
+
+vosotras [coser]";"vosotras cosisteis"
+"Indicativo
+Pretérito
+
+ellos [coser]";"ellos cosieron"
+"Indicativo
+Pretérito
+
+ellas [coser]";"ellas cosieron"
+"Indicativo
+Pretérito
+
+Ustedes [coser]";"Ustedes cosieron"
+"Indicativo
+Pretérito
+
+yo [crecer]";"yo crecí"
+"Indicativo
+Pretérito
+
+tú [crecer]";"tú creciste"
+"Indicativo
+Pretérito
+
+él [crecer]";"él creció"
+"Indicativo
+Pretérito
+
+ella [crecer]";"ella creció"
+"Indicativo
+Pretérito
+
+Usted [crecer]";"Usted creció"
+"Indicativo
+Pretérito
+
+nosotros [crecer]";"nosotros crecimos"
+"Indicativo
+Pretérito
+
+nosotras [crecer]";"nosotras crecimos"
+"Indicativo
+Pretérito
+
+vosotros [crecer]";"vosotros crecisteis"
+"Indicativo
+Pretérito
+
+vosotras [crecer]";"vosotras crecisteis"
+"Indicativo
+Pretérito
+
+ellos [crecer]";"ellos crecieron"
+"Indicativo
+Pretérito
+
+ellas [crecer]";"ellas crecieron"
+"Indicativo
+Pretérito
+
+Ustedes [crecer]";"Ustedes crecieron"
+"Indicativo
+Pretérito
+
+yo [creer]";"yo creí"
+"Indicativo
+Pretérito
+
+tú [creer]";"tú creíste"
+"Indicativo
+Pretérito
+
+él [creer]";"él creyó"
+"Indicativo
+Pretérito
+
+ella [creer]";"ella creyó"
+"Indicativo
+Pretérito
+
+Usted [creer]";"Usted creyó"
+"Indicativo
+Pretérito
+
+nosotros [creer]";"nosotros creímos"
+"Indicativo
+Pretérito
+
+nosotras [creer]";"nosotras creímos"
+"Indicativo
+Pretérito
+
+vosotros [creer]";"vosotros creísteis"
+"Indicativo
+Pretérito
+
+vosotras [creer]";"vosotras creísteis"
+"Indicativo
+Pretérito
+
+ellos [creer]";"ellos creyeron"
+"Indicativo
+Pretérito
+
+ellas [creer]";"ellas creyeron"
+"Indicativo
+Pretérito
+
+Ustedes [creer]";"Ustedes creyeron"
+"Indicativo
+Pretérito
+
+yo [cubrir]";"yo cubrí"
+"Indicativo
+Pretérito
+
+tú [cubrir]";"tú cubriste"
+"Indicativo
+Pretérito
+
+él [cubrir]";"él cubrió"
+"Indicativo
+Pretérito
+
+ella [cubrir]";"ella cubrió"
+"Indicativo
+Pretérito
+
+Usted [cubrir]";"Usted cubrió"
+"Indicativo
+Pretérito
+
+nosotros [cubrir]";"nosotros cubrimos"
+"Indicativo
+Pretérito
+
+nosotras [cubrir]";"nosotras cubrimos"
+"Indicativo
+Pretérito
+
+vosotros [cubrir]";"vosotros cubristeis"
+"Indicativo
+Pretérito
+
+vosotras [cubrir]";"vosotras cubristeis"
+"Indicativo
+Pretérito
+
+ellos [cubrir]";"ellos cubrieron"
+"Indicativo
+Pretérito
+
+ellas [cubrir]";"ellas cubrieron"
+"Indicativo
+Pretérito
+
+Ustedes [cubrir]";"Ustedes cubrieron"
+"Indicativo
+Pretérito
+
+yo [cumplir]";"yo cumplí"
+"Indicativo
+Pretérito
+
+tú [cumplir]";"tú cumpliste"
+"Indicativo
+Pretérito
+
+él [cumplir]";"él cumplió"
+"Indicativo
+Pretérito
+
+ella [cumplir]";"ella cumplió"
+"Indicativo
+Pretérito
+
+Usted [cumplir]";"Usted cumplió"
+"Indicativo
+Pretérito
+
+nosotros [cumplir]";"nosotros cumplimos"
+"Indicativo
+Pretérito
+
+nosotras [cumplir]";"nosotras cumplimos"
+"Indicativo
+Pretérito
+
+vosotros [cumplir]";"vosotros cumplisteis"
+"Indicativo
+Pretérito
+
+vosotras [cumplir]";"vosotras cumplisteis"
+"Indicativo
+Pretérito
+
+ellos [cumplir]";"ellos cumplieron"
+"Indicativo
+Pretérito
+
+ellas [cumplir]";"ellas cumplieron"
+"Indicativo
+Pretérito
+
+Ustedes [cumplir]";"Ustedes cumplieron"
+"Indicativo
+Pretérito
+
+yo [deber]";"yo debí"
+"Indicativo
+Pretérito
+
+tú [deber]";"tú debiste"
+"Indicativo
+Pretérito
+
+él [deber]";"él debió"
+"Indicativo
+Pretérito
+
+ella [deber]";"ella debió"
+"Indicativo
+Pretérito
+
+Usted [deber]";"Usted debió"
+"Indicativo
+Pretérito
+
+nosotros [deber]";"nosotros debimos"
+"Indicativo
+Pretérito
+
+nosotras [deber]";"nosotras debimos"
+"Indicativo
+Pretérito
+
+vosotros [deber]";"vosotros debisteis"
+"Indicativo
+Pretérito
+
+vosotras [deber]";"vosotras debisteis"
+"Indicativo
+Pretérito
+
+ellos [deber]";"ellos debieron"
+"Indicativo
+Pretérito
+
+ellas [deber]";"ellas debieron"
+"Indicativo
+Pretérito
+
+Ustedes [deber]";"Ustedes debieron"
+"Indicativo
+Pretérito
+
+yo [decidir]";"yo decidí"
+"Indicativo
+Pretérito
+
+tú [decidir]";"tú decidiste"
+"Indicativo
+Pretérito
+
+él [decidir]";"él decidió"
+"Indicativo
+Pretérito
+
+ella [decidir]";"ella decidió"
+"Indicativo
+Pretérito
+
+Usted [decidir]";"Usted decidió"
+"Indicativo
+Pretérito
+
+nosotros [decidir]";"nosotros decidimos"
+"Indicativo
+Pretérito
+
+nosotras [decidir]";"nosotras decidimos"
+"Indicativo
+Pretérito
+
+vosotros [decidir]";"vosotros decidisteis"
+"Indicativo
+Pretérito
+
+vosotras [decidir]";"vosotras decidisteis"
+"Indicativo
+Pretérito
+
+ellos [decidir]";"ellos decidieron"
+"Indicativo
+Pretérito
+
+ellas [decidir]";"ellas decidieron"
+"Indicativo
+Pretérito
+
+Ustedes [decidir]";"Ustedes decidieron"
+"Indicativo
+Pretérito
+
+yo [decir]";"yo dije"
+"Indicativo
+Pretérito
+
+tú [decir]";"tú dijiste"
+"Indicativo
+Pretérito
+
+él [decir]";"él dijo"
+"Indicativo
+Pretérito
+
+ella [decir]";"ella dijo"
+"Indicativo
+Pretérito
+
+Usted [decir]";"Usted dijo"
+"Indicativo
+Pretérito
+
+nosotros [decir]";"nosotros dijimos"
+"Indicativo
+Pretérito
+
+nosotras [decir]";"nosotras dijimos"
+"Indicativo
+Pretérito
+
+vosotros [decir]";"vosotros dijisteis"
+"Indicativo
+Pretérito
+
+vosotras [decir]";"vosotras dijisteis"
+"Indicativo
+Pretérito
+
+ellos [decir]";"ellos dijeron"
+"Indicativo
+Pretérito
+
+ellas [decir]";"ellas dijeron"
+"Indicativo
+Pretérito
+
+Ustedes [decir]";"Ustedes dijeron"
+"Indicativo
+Pretérito
+
+yo [defender]";"yo defendí"
+"Indicativo
+Pretérito
+
+tú [defender]";"tú defendiste"
+"Indicativo
+Pretérito
+
+él [defender]";"él defendió"
+"Indicativo
+Pretérito
+
+ella [defender]";"ella defendió"
+"Indicativo
+Pretérito
+
+Usted [defender]";"Usted defendió"
+"Indicativo
+Pretérito
+
+nosotros [defender]";"nosotros defendimos"
+"Indicativo
+Pretérito
+
+nosotras [defender]";"nosotras defendimos"
+"Indicativo
+Pretérito
+
+vosotros [defender]";"vosotros defendisteis"
+"Indicativo
+Pretérito
+
+vosotras [defender]";"vosotras defendisteis"
+"Indicativo
+Pretérito
+
+ellos [defender]";"ellos defendieron"
+"Indicativo
+Pretérito
+
+ellas [defender]";"ellas defendieron"
+"Indicativo
+Pretérito
+
+Ustedes [defender]";"Ustedes defendieron"
+"Indicativo
+Pretérito
+
+yo [depender]";"yo dependí"
+"Indicativo
+Pretérito
+
+tú [depender]";"tú dependiste"
+"Indicativo
+Pretérito
+
+él [depender]";"él dependió"
+"Indicativo
+Pretérito
+
+ella [depender]";"ella dependió"
+"Indicativo
+Pretérito
+
+Usted [depender]";"Usted dependió"
+"Indicativo
+Pretérito
+
+nosotros [depender]";"nosotros dependimos"
+"Indicativo
+Pretérito
+
+nosotras [depender]";"nosotras dependimos"
+"Indicativo
+Pretérito
+
+vosotros [depender]";"vosotros dependisteis"
+"Indicativo
+Pretérito
+
+vosotras [depender]";"vosotras dependisteis"
+"Indicativo
+Pretérito
+
+ellos [depender]";"ellos dependieron"
+"Indicativo
+Pretérito
+
+ellas [depender]";"ellas dependieron"
+"Indicativo
+Pretérito
+
+Ustedes [depender]";"Ustedes dependieron"
+"Indicativo
+Pretérito
+
+yo [deprimir]";"yo deprimí"
+"Indicativo
+Pretérito
+
+tú [deprimir]";"tú deprimiste"
+"Indicativo
+Pretérito
+
+él [deprimir]";"él deprimió"
+"Indicativo
+Pretérito
+
+ella [deprimir]";"ella deprimió"
+"Indicativo
+Pretérito
+
+Usted [deprimir]";"Usted deprimió"
+"Indicativo
+Pretérito
+
+nosotros [deprimir]";"nosotros deprimimos"
+"Indicativo
+Pretérito
+
+nosotras [deprimir]";"nosotras deprimimos"
+"Indicativo
+Pretérito
+
+vosotros [deprimir]";"vosotros deprimisteis"
+"Indicativo
+Pretérito
+
+vosotras [deprimir]";"vosotras deprimisteis"
+"Indicativo
+Pretérito
+
+ellos [deprimir]";"ellos deprimieron"
+"Indicativo
+Pretérito
+
+ellas [deprimir]";"ellas deprimieron"
+"Indicativo
+Pretérito
+
+Ustedes [deprimir]";"Ustedes deprimieron"
+"Indicativo
+Pretérito
+
+yo [derretir]";"yo derretí"
+"Indicativo
+Pretérito
+
+tú [derretir]";"tú derretiste"
+"Indicativo
+Pretérito
+
+él [derretir]";"él derritió"
+"Indicativo
+Pretérito
+
+ella [derretir]";"ella derritió"
+"Indicativo
+Pretérito
+
+Usted [derretir]";"Usted derritió"
+"Indicativo
+Pretérito
+
+nosotros [derretir]";"nosotros derretimos"
+"Indicativo
+Pretérito
+
+nosotras [derretir]";"nosotras derretimos"
+"Indicativo
+Pretérito
+
+vosotros [derretir]";"vosotros derretisteis"
+"Indicativo
+Pretérito
+
+vosotras [derretir]";"vosotras derretisteis"
+"Indicativo
+Pretérito
+
+ellos [derretir]";"ellos derritieron"
+"Indicativo
+Pretérito
+
+ellas [derretir]";"ellas derritieron"
+"Indicativo
+Pretérito
+
+Ustedes [derretir]";"Ustedes derritieron"
+"Indicativo
+Pretérito
+
+yo [desagradecer]";"yo desagradecí"
+"Indicativo
+Pretérito
+
+tú [desagradecer]";"tú desagradeciste"
+"Indicativo
+Pretérito
+
+él [desagradecer]";"él desagradeció"
+"Indicativo
+Pretérito
+
+ella [desagradecer]";"ella desagradeció"
+"Indicativo
+Pretérito
+
+Usted [desagradecer]";"Usted desagradeció"
+"Indicativo
+Pretérito
+
+nosotros [desagradecer]";"nosotros desagradecimos"
+"Indicativo
+Pretérito
+
+nosotras [desagradecer]";"nosotras desagradecimos"
+"Indicativo
+Pretérito
+
+vosotros [desagradecer]";"vosotros desagradecisteis"
+"Indicativo
+Pretérito
+
+vosotras [desagradecer]";"vosotras desagradecisteis"
+"Indicativo
+Pretérito
+
+ellos [desagradecer]";"ellos desagradecieron"
+"Indicativo
+Pretérito
+
+ellas [desagradecer]";"ellas desagradecieron"
+"Indicativo
+Pretérito
+
+Ustedes [desagradecer]";"Ustedes desagradecieron"
+"Indicativo
+Pretérito
+
+yo [desaparecer]";"yo desaparecí"
+"Indicativo
+Pretérito
+
+tú [desaparecer]";"tú desapareciste"
+"Indicativo
+Pretérito
+
+él [desaparecer]";"él desapareció"
+"Indicativo
+Pretérito
+
+ella [desaparecer]";"ella desapareció"
+"Indicativo
+Pretérito
+
+Usted [desaparecer]";"Usted desapareció"
+"Indicativo
+Pretérito
+
+nosotros [desaparecer]";"nosotros desaparecimos"
+"Indicativo
+Pretérito
+
+nosotras [desaparecer]";"nosotras desaparecimos"
+"Indicativo
+Pretérito
+
+vosotros [desaparecer]";"vosotros desaparecisteis"
+"Indicativo
+Pretérito
+
+vosotras [desaparecer]";"vosotras desaparecisteis"
+"Indicativo
+Pretérito
+
+ellos [desaparecer]";"ellos desaparecieron"
+"Indicativo
+Pretérito
+
+ellas [desaparecer]";"ellas desaparecieron"
+"Indicativo
+Pretérito
+
+Ustedes [desaparecer]";"Ustedes desaparecieron"
+"Indicativo
+Pretérito
+
+yo [descender]";"yo descendí"
+"Indicativo
+Pretérito
+
+tú [descender]";"tú descendiste"
+"Indicativo
+Pretérito
+
+él [descender]";"él descendió"
+"Indicativo
+Pretérito
+
+ella [descender]";"ella descendió"
+"Indicativo
+Pretérito
+
+Usted [descender]";"Usted descendió"
+"Indicativo
+Pretérito
+
+nosotros [descender]";"nosotros descendimos"
+"Indicativo
+Pretérito
+
+nosotras [descender]";"nosotras descendimos"
+"Indicativo
+Pretérito
+
+vosotros [descender]";"vosotros descendisteis"
+"Indicativo
+Pretérito
+
+vosotras [descender]";"vosotras descendisteis"
+"Indicativo
+Pretérito
+
+ellos [descender]";"ellos descendieron"
+"Indicativo
+Pretérito
+
+ellas [descender]";"ellas descendieron"
+"Indicativo
+Pretérito
+
+Ustedes [descender]";"Ustedes descendieron"
+"Indicativo
+Pretérito
+
+yo [describir]";"yo describí"
+"Indicativo
+Pretérito
+
+tú [describir]";"tú describiste"
+"Indicativo
+Pretérito
+
+él [describir]";"él describió"
+"Indicativo
+Pretérito
+
+ella [describir]";"ella describió"
+"Indicativo
+Pretérito
+
+Usted [describir]";"Usted describió"
+"Indicativo
+Pretérito
+
+nosotros [describir]";"nosotros describimos"
+"Indicativo
+Pretérito
+
+nosotras [describir]";"nosotras describimos"
+"Indicativo
+Pretérito
+
+vosotros [describir]";"vosotros describisteis"
+"Indicativo
+Pretérito
+
+vosotras [describir]";"vosotras describisteis"
+"Indicativo
+Pretérito
+
+ellos [describir]";"ellos describieron"
+"Indicativo
+Pretérito
+
+ellas [describir]";"ellas describieron"
+"Indicativo
+Pretérito
+
+Ustedes [describir]";"Ustedes describieron"
+"Indicativo
+Pretérito
+
+yo [descubrir]";"yo descubrí"
+"Indicativo
+Pretérito
+
+tú [descubrir]";"tú descubriste"
+"Indicativo
+Pretérito
+
+él [descubrir]";"él descubrió"
+"Indicativo
+Pretérito
+
+ella [descubrir]";"ella descubrió"
+"Indicativo
+Pretérito
+
+Usted [descubrir]";"Usted descubrió"
+"Indicativo
+Pretérito
+
+nosotros [descubrir]";"nosotros descubrimos"
+"Indicativo
+Pretérito
+
+nosotras [descubrir]";"nosotras descubrimos"
+"Indicativo
+Pretérito
+
+vosotros [descubrir]";"vosotros descubristeis"
+"Indicativo
+Pretérito
+
+vosotras [descubrir]";"vosotras descubristeis"
+"Indicativo
+Pretérito
+
+ellos [descubrir]";"ellos descubrieron"
+"Indicativo
+Pretérito
+
+ellas [descubrir]";"ellas descubrieron"
+"Indicativo
+Pretérito
+
+Ustedes [descubrir]";"Ustedes descubrieron"
+"Indicativo
+Pretérito
+
+yo [deshacer]";"yo deshice"
+"Indicativo
+Pretérito
+
+tú [deshacer]";"tú deshiciste"
+"Indicativo
+Pretérito
+
+él [deshacer]";"él deshizo"
+"Indicativo
+Pretérito
+
+ella [deshacer]";"ella deshizo"
+"Indicativo
+Pretérito
+
+Usted [deshacer]";"Usted deshizo"
+"Indicativo
+Pretérito
+
+nosotros [deshacer]";"nosotros deshicimos"
+"Indicativo
+Pretérito
+
+nosotras [deshacer]";"nosotras deshicimos"
+"Indicativo
+Pretérito
+
+vosotros [deshacer]";"vosotros deshicisteis"
+"Indicativo
+Pretérito
+
+vosotras [deshacer]";"vosotras deshicisteis"
+"Indicativo
+Pretérito
+
+ellos [deshacer]";"ellos deshicieron"
+"Indicativo
+Pretérito
+
+ellas [deshacer]";"ellas deshicieron"
+"Indicativo
+Pretérito
+
+Ustedes [deshacer]";"Ustedes deshicieron"
+"Indicativo
+Pretérito
+
+yo [despedir]";"yo despedí"
+"Indicativo
+Pretérito
+
+tú [despedir]";"tú despediste"
+"Indicativo
+Pretérito
+
+él [despedir]";"él despidió"
+"Indicativo
+Pretérito
+
+ella [despedir]";"ella despidió"
+"Indicativo
+Pretérito
+
+Usted [despedir]";"Usted despidió"
+"Indicativo
+Pretérito
+
+nosotros [despedir]";"nosotros despedimos"
+"Indicativo
+Pretérito
+
+nosotras [despedir]";"nosotras despedimos"
+"Indicativo
+Pretérito
+
+vosotros [despedir]";"vosotros despedisteis"
+"Indicativo
+Pretérito
+
+vosotras [despedir]";"vosotras despedisteis"
+"Indicativo
+Pretérito
+
+ellos [despedir]";"ellos despidieron"
+"Indicativo
+Pretérito
+
+ellas [despedir]";"ellas despidieron"
+"Indicativo
+Pretérito
+
+Ustedes [despedir]";"Ustedes despidieron"
+"Indicativo
+Pretérito
+
+yo [destruir]";"yo destruí"
+"Indicativo
+Pretérito
+
+tú [destruir]";"tú destruiste"
+"Indicativo
+Pretérito
+
+él [destruir]";"él destruyó"
+"Indicativo
+Pretérito
+
+ella [destruir]";"ella destruyó"
+"Indicativo
+Pretérito
+
+Usted [destruir]";"Usted destruyó"
+"Indicativo
+Pretérito
+
+nosotros [destruir]";"nosotros destruimos"
+"Indicativo
+Pretérito
+
+nosotras [destruir]";"nosotras destruimos"
+"Indicativo
+Pretérito
+
+vosotros [destruir]";"vosotros destruisteis"
+"Indicativo
+Pretérito
+
+vosotras [destruir]";"vosotras destruisteis"
+"Indicativo
+Pretérito
+
+ellos [destruir]";"ellos destruyeron"
+"Indicativo
+Pretérito
+
+ellas [destruir]";"ellas destruyeron"
+"Indicativo
+Pretérito
+
+Ustedes [destruir]";"Ustedes destruyeron"
+"Indicativo
+Pretérito
+
+yo [detener]";"yo detuve"
+"Indicativo
+Pretérito
+
+tú [detener]";"tú detuviste"
+"Indicativo
+Pretérito
+
+él [detener]";"él detuvo"
+"Indicativo
+Pretérito
+
+ella [detener]";"ella detuvo"
+"Indicativo
+Pretérito
+
+Usted [detener]";"Usted detuvo"
+"Indicativo
+Pretérito
+
+nosotros [detener]";"nosotros detuvimos"
+"Indicativo
+Pretérito
+
+nosotras [detener]";"nosotras detuvimos"
+"Indicativo
+Pretérito
+
+vosotros [detener]";"vosotros detuvisteis"
+"Indicativo
+Pretérito
+
+vosotras [detener]";"vosotras detuvisteis"
+"Indicativo
+Pretérito
+
+ellos [detener]";"ellos detuvieron"
+"Indicativo
+Pretérito
+
+ellas [detener]";"ellas detuvieron"
+"Indicativo
+Pretérito
+
+Ustedes [detener]";"Ustedes detuvieron"
+"Indicativo
+Pretérito
+
+yo [devolver]";"yo devolví"
+"Indicativo
+Pretérito
+
+tú [devolver]";"tú devolviste"
+"Indicativo
+Pretérito
+
+él [devolver]";"él devolvió"
+"Indicativo
+Pretérito
+
+ella [devolver]";"ella devolvió"
+"Indicativo
+Pretérito
+
+Usted [devolver]";"Usted devolvió"
+"Indicativo
+Pretérito
+
+nosotros [devolver]";"nosotros devolvimos"
+"Indicativo
+Pretérito
+
+nosotras [devolver]";"nosotras devolvimos"
+"Indicativo
+Pretérito
+
+vosotros [devolver]";"vosotros devolvisteis"
+"Indicativo
+Pretérito
+
+vosotras [devolver]";"vosotras devolvisteis"
+"Indicativo
+Pretérito
+
+ellos [devolver]";"ellos devolvieron"
+"Indicativo
+Pretérito
+
+ellas [devolver]";"ellas devolvieron"
+"Indicativo
+Pretérito
+
+Ustedes [devolver]";"Ustedes devolvieron"
+"Indicativo
+Pretérito
+
+yo [dirigir]";"yo dirigí"
+"Indicativo
+Pretérito
+
+tú [dirigir]";"tú dirigiste"
+"Indicativo
+Pretérito
+
+él [dirigir]";"él dirigió"
+"Indicativo
+Pretérito
+
+ella [dirigir]";"ella dirigió"
+"Indicativo
+Pretérito
+
+Usted [dirigir]";"Usted dirigió"
+"Indicativo
+Pretérito
+
+nosotros [dirigir]";"nosotros dirigimos"
+"Indicativo
+Pretérito
+
+nosotras [dirigir]";"nosotras dirigimos"
+"Indicativo
+Pretérito
+
+vosotros [dirigir]";"vosotros dirigisteis"
+"Indicativo
+Pretérito
+
+vosotras [dirigir]";"vosotras dirigisteis"
+"Indicativo
+Pretérito
+
+ellos [dirigir]";"ellos dirigieron"
+"Indicativo
+Pretérito
+
+ellas [dirigir]";"ellas dirigieron"
+"Indicativo
+Pretérito
+
+Ustedes [dirigir]";"Ustedes dirigieron"
+"Indicativo
+Pretérito
+
+yo [disminuir]";"yo disminuí"
+"Indicativo
+Pretérito
+
+tú [disminuir]";"tú disminuiste"
+"Indicativo
+Pretérito
+
+él [disminuir]";"él disminuyó"
+"Indicativo
+Pretérito
+
+ella [disminuir]";"ella disminuyó"
+"Indicativo
+Pretérito
+
+Usted [disminuir]";"Usted disminuyó"
+"Indicativo
+Pretérito
+
+nosotros [disminuir]";"nosotros disminuimos"
+"Indicativo
+Pretérito
+
+nosotras [disminuir]";"nosotras disminuimos"
+"Indicativo
+Pretérito
+
+vosotros [disminuir]";"vosotros disminuisteis"
+"Indicativo
+Pretérito
+
+vosotras [disminuir]";"vosotras disminuisteis"
+"Indicativo
+Pretérito
+
+ellos [disminuir]";"ellos disminuyeron"
+"Indicativo
+Pretérito
+
+ellas [disminuir]";"ellas disminuyeron"
+"Indicativo
+Pretérito
+
+Ustedes [disminuir]";"Ustedes disminuyeron"
+"Indicativo
+Pretérito
+
+yo [distinguir]";"yo distinguí"
+"Indicativo
+Pretérito
+
+tú [distinguir]";"tú distinguiste"
+"Indicativo
+Pretérito
+
+él [distinguir]";"él distinguió"
+"Indicativo
+Pretérito
+
+ella [distinguir]";"ella distinguió"
+"Indicativo
+Pretérito
+
+Usted [distinguir]";"Usted distinguió"
+"Indicativo
+Pretérito
+
+nosotros [distinguir]";"nosotros distinguimos"
+"Indicativo
+Pretérito
+
+nosotras [distinguir]";"nosotras distinguimos"
+"Indicativo
+Pretérito
+
+vosotros [distinguir]";"vosotros distinguisteis"
+"Indicativo
+Pretérito
+
+vosotras [distinguir]";"vosotras distinguisteis"
+"Indicativo
+Pretérito
+
+ellos [distinguir]";"ellos distinguieron"
+"Indicativo
+Pretérito
+
+ellas [distinguir]";"ellas distinguieron"
+"Indicativo
+Pretérito
+
+Ustedes [distinguir]";"Ustedes distinguieron"
+"Indicativo
+Pretérito
+
+yo [distribuir]";"yo distribuí"
+"Indicativo
+Pretérito
+
+tú [distribuir]";"tú distribuiste"
+"Indicativo
+Pretérito
+
+él [distribuir]";"él distribuyó"
+"Indicativo
+Pretérito
+
+ella [distribuir]";"ella distribuyó"
+"Indicativo
+Pretérito
+
+Usted [distribuir]";"Usted distribuyó"
+"Indicativo
+Pretérito
+
+nosotros [distribuir]";"nosotros distribuimos"
+"Indicativo
+Pretérito
+
+nosotras [distribuir]";"nosotras distribuimos"
+"Indicativo
+Pretérito
+
+vosotros [distribuir]";"vosotros distribuisteis"
+"Indicativo
+Pretérito
+
+vosotras [distribuir]";"vosotras distribuisteis"
+"Indicativo
+Pretérito
+
+ellos [distribuir]";"ellos distribuyeron"
+"Indicativo
+Pretérito
+
+ellas [distribuir]";"ellas distribuyeron"
+"Indicativo
+Pretérito
+
+Ustedes [distribuir]";"Ustedes distribuyeron"
+"Indicativo
+Pretérito
+
+yo [divertir]";"yo divertí"
+"Indicativo
+Pretérito
+
+tú [divertir]";"tú divertiste"
+"Indicativo
+Pretérito
+
+él [divertir]";"él divirtió"
+"Indicativo
+Pretérito
+
+ella [divertir]";"ella divirtió"
+"Indicativo
+Pretérito
+
+Usted [divertir]";"Usted divirtió"
+"Indicativo
+Pretérito
+
+nosotros [divertir]";"nosotros divertimos"
+"Indicativo
+Pretérito
+
+nosotras [divertir]";"nosotras divertimos"
+"Indicativo
+Pretérito
+
+vosotros [divertir]";"vosotros divertisteis"
+"Indicativo
+Pretérito
+
+vosotras [divertir]";"vosotras divertisteis"
+"Indicativo
+Pretérito
+
+ellos [divertir]";"ellos divirtieron"
+"Indicativo
+Pretérito
+
+ellas [divertir]";"ellas divirtieron"
+"Indicativo
+Pretérito
+
+Ustedes [divertir]";"Ustedes divirtieron"
+"Indicativo
+Pretérito
+
+yo [doler]";"yo "
+"Indicativo
+Pretérito
+
+tú [doler]";"tú "
+"Indicativo
+Pretérito
+
+él [doler]";"él dolió"
+"Indicativo
+Pretérito
+
+ella [doler]";"ella dolió"
+"Indicativo
+Pretérito
+
+Usted [doler]";"Usted dolió"
+"Indicativo
+Pretérito
+
+nosotros [doler]";"nosotros "
+"Indicativo
+Pretérito
+
+nosotras [doler]";"nosotras "
+"Indicativo
+Pretérito
+
+vosotros [doler]";"vosotros "
+"Indicativo
+Pretérito
+
+vosotras [doler]";"vosotras "
+"Indicativo
+Pretérito
+
+ellos [doler]";"ellos dolieron"
+"Indicativo
+Pretérito
+
+ellas [doler]";"ellas dolieron"
+"Indicativo
+Pretérito
+
+Ustedes [doler]";"Ustedes dolieron"
+"Indicativo
+Pretérito
+
+yo [dormir]";"yo dormí"
+"Indicativo
+Pretérito
+
+tú [dormir]";"tú dormiste"
+"Indicativo
+Pretérito
+
+él [dormir]";"él durmió"
+"Indicativo
+Pretérito
+
+ella [dormir]";"ella durmió"
+"Indicativo
+Pretérito
+
+Usted [dormir]";"Usted durmió"
+"Indicativo
+Pretérito
+
+nosotros [dormir]";"nosotros dormimos"
+"Indicativo
+Pretérito
+
+nosotras [dormir]";"nosotras dormimos"
+"Indicativo
+Pretérito
+
+vosotros [dormir]";"vosotros dormisteis"
+"Indicativo
+Pretérito
+
+vosotras [dormir]";"vosotras dormisteis"
+"Indicativo
+Pretérito
+
+ellos [dormir]";"ellos durmieron"
+"Indicativo
+Pretérito
+
+ellas [dormir]";"ellas durmieron"
+"Indicativo
+Pretérito
+
+Ustedes [dormir]";"Ustedes durmieron"
+"Indicativo
+Pretérito
+
+yo [ejercer]";"yo ejercí"
+"Indicativo
+Pretérito
+
+tú [ejercer]";"tú ejerciste"
+"Indicativo
+Pretérito
+
+él [ejercer]";"él ejerció"
+"Indicativo
+Pretérito
+
+ella [ejercer]";"ella ejerció"
+"Indicativo
+Pretérito
+
+Usted [ejercer]";"Usted ejerció"
+"Indicativo
+Pretérito
+
+nosotros [ejercer]";"nosotros ejercimos"
+"Indicativo
+Pretérito
+
+nosotras [ejercer]";"nosotras ejercimos"
+"Indicativo
+Pretérito
+
+vosotros [ejercer]";"vosotros ejercisteis"
+"Indicativo
+Pretérito
+
+vosotras [ejercer]";"vosotras ejercisteis"
+"Indicativo
+Pretérito
+
+ellos [ejercer]";"ellos ejercieron"
+"Indicativo
+Pretérito
+
+ellas [ejercer]";"ellas ejercieron"
+"Indicativo
+Pretérito
+
+Ustedes [ejercer]";"Ustedes ejercieron"
+"Indicativo
+Pretérito
+
+yo [elegir]";"yo elegí"
+"Indicativo
+Pretérito
+
+tú [elegir]";"tú elegiste"
+"Indicativo
+Pretérito
+
+él [elegir]";"él eligió"
+"Indicativo
+Pretérito
+
+ella [elegir]";"ella eligió"
+"Indicativo
+Pretérito
+
+Usted [elegir]";"Usted eligió"
+"Indicativo
+Pretérito
+
+nosotros [elegir]";"nosotros elegimos"
+"Indicativo
+Pretérito
+
+nosotras [elegir]";"nosotras elegimos"
+"Indicativo
+Pretérito
+
+vosotros [elegir]";"vosotros elegisteis"
+"Indicativo
+Pretérito
+
+vosotras [elegir]";"vosotras elegisteis"
+"Indicativo
+Pretérito
+
+ellos [elegir]";"ellos eligieron"
+"Indicativo
+Pretérito
+
+ellas [elegir]";"ellas eligieron"
+"Indicativo
+Pretérito
+
+Ustedes [elegir]";"Ustedes eligieron"
+"Indicativo
+Pretérito
+
+yo [encender]";"yo encendí"
+"Indicativo
+Pretérito
+
+tú [encender]";"tú encendiste"
+"Indicativo
+Pretérito
+
+él [encender]";"él encendió"
+"Indicativo
+Pretérito
+
+ella [encender]";"ella encendió"
+"Indicativo
+Pretérito
+
+Usted [encender]";"Usted encendió"
+"Indicativo
+Pretérito
+
+nosotros [encender]";"nosotros encendimos"
+"Indicativo
+Pretérito
+
+nosotras [encender]";"nosotras encendimos"
+"Indicativo
+Pretérito
+
+vosotros [encender]";"vosotros encendisteis"
+"Indicativo
+Pretérito
+
+vosotras [encender]";"vosotras encendisteis"
+"Indicativo
+Pretérito
+
+ellos [encender]";"ellos encendieron"
+"Indicativo
+Pretérito
+
+ellas [encender]";"ellas encendieron"
+"Indicativo
+Pretérito
+
+Ustedes [encender]";"Ustedes encendieron"
+"Indicativo
+Pretérito
+
+yo [enflaquecer]";"yo enflaquecí"
+"Indicativo
+Pretérito
+
+tú [enflaquecer]";"tú enflaqueciste"
+"Indicativo
+Pretérito
+
+él [enflaquecer]";"él enflaqueció"
+"Indicativo
+Pretérito
+
+ella [enflaquecer]";"ella enflaqueció"
+"Indicativo
+Pretérito
+
+Usted [enflaquecer]";"Usted enflaqueció"
+"Indicativo
+Pretérito
+
+nosotros [enflaquecer]";"nosotros enflaquecimos"
+"Indicativo
+Pretérito
+
+nosotras [enflaquecer]";"nosotras enflaquecimos"
+"Indicativo
+Pretérito
+
+vosotros [enflaquecer]";"vosotros enflaquecisteis"
+"Indicativo
+Pretérito
+
+vosotras [enflaquecer]";"vosotras enflaquecisteis"
+"Indicativo
+Pretérito
+
+ellos [enflaquecer]";"ellos enflaquecieron"
+"Indicativo
+Pretérito
+
+ellas [enflaquecer]";"ellas enflaquecieron"
+"Indicativo
+Pretérito
+
+Ustedes [enflaquecer]";"Ustedes enflaquecieron"
+"Indicativo
+Pretérito
+
+yo [enriquecer]";"yo enriquecí"
+"Indicativo
+Pretérito
+
+tú [enriquecer]";"tú enriqueciste"
+"Indicativo
+Pretérito
+
+él [enriquecer]";"él enriqueció"
+"Indicativo
+Pretérito
+
+ella [enriquecer]";"ella enriqueció"
+"Indicativo
+Pretérito
+
+Usted [enriquecer]";"Usted enriqueció"
+"Indicativo
+Pretérito
+
+nosotros [enriquecer]";"nosotros enriquecimos"
+"Indicativo
+Pretérito
+
+nosotras [enriquecer]";"nosotras enriquecimos"
+"Indicativo
+Pretérito
+
+vosotros [enriquecer]";"vosotros enriquecisteis"
+"Indicativo
+Pretérito
+
+vosotras [enriquecer]";"vosotras enriquecisteis"
+"Indicativo
+Pretérito
+
+ellos [enriquecer]";"ellos enriquecieron"
+"Indicativo
+Pretérito
+
+ellas [enriquecer]";"ellas enriquecieron"
+"Indicativo
+Pretérito
+
+Ustedes [enriquecer]";"Ustedes enriquecieron"
+"Indicativo
+Pretérito
+
+yo [entender]";"yo entendí"
+"Indicativo
+Pretérito
+
+tú [entender]";"tú entendiste"
+"Indicativo
+Pretérito
+
+él [entender]";"él entendió"
+"Indicativo
+Pretérito
+
+ella [entender]";"ella entendió"
+"Indicativo
+Pretérito
+
+Usted [entender]";"Usted entendió"
+"Indicativo
+Pretérito
+
+nosotros [entender]";"nosotros entendimos"
+"Indicativo
+Pretérito
+
+nosotras [entender]";"nosotras entendimos"
+"Indicativo
+Pretérito
+
+vosotros [entender]";"vosotros entendisteis"
+"Indicativo
+Pretérito
+
+vosotras [entender]";"vosotras entendisteis"
+"Indicativo
+Pretérito
+
+ellos [entender]";"ellos entendieron"
+"Indicativo
+Pretérito
+
+ellas [entender]";"ellas entendieron"
+"Indicativo
+Pretérito
+
+Ustedes [entender]";"Ustedes entendieron"
+"Indicativo
+Pretérito
+
+yo [entretener]";"yo entretuve"
+"Indicativo
+Pretérito
+
+tú [entretener]";"tú entretuviste"
+"Indicativo
+Pretérito
+
+él [entretener]";"él entretuvo"
+"Indicativo
+Pretérito
+
+ella [entretener]";"ella entretuvo"
+"Indicativo
+Pretérito
+
+Usted [entretener]";"Usted entretuvo"
+"Indicativo
+Pretérito
+
+nosotros [entretener]";"nosotros entretuvimos"
+"Indicativo
+Pretérito
+
+nosotras [entretener]";"nosotras entretuvimos"
+"Indicativo
+Pretérito
+
+vosotros [entretener]";"vosotros entretuvisteis"
+"Indicativo
+Pretérito
+
+vosotras [entretener]";"vosotras entretuvisteis"
+"Indicativo
+Pretérito
+
+ellos [entretener]";"ellos entretuvieron"
+"Indicativo
+Pretérito
+
+ellas [entretener]";"ellas entretuvieron"
+"Indicativo
+Pretérito
+
+Ustedes [entretener]";"Ustedes entretuvieron"
+"Indicativo
+Pretérito
+
+yo [envejecer]";"yo envejecí"
+"Indicativo
+Pretérito
+
+tú [envejecer]";"tú envejeciste"
+"Indicativo
+Pretérito
+
+él [envejecer]";"él envejeció"
+"Indicativo
+Pretérito
+
+ella [envejecer]";"ella envejeció"
+"Indicativo
+Pretérito
+
+Usted [envejecer]";"Usted envejeció"
+"Indicativo
+Pretérito
+
+nosotros [envejecer]";"nosotros envejecimos"
+"Indicativo
+Pretérito
+
+nosotras [envejecer]";"nosotras envejecimos"
+"Indicativo
+Pretérito
+
+vosotros [envejecer]";"vosotros envejecisteis"
+"Indicativo
+Pretérito
+
+vosotras [envejecer]";"vosotras envejecisteis"
+"Indicativo
+Pretérito
+
+ellos [envejecer]";"ellos envejecieron"
+"Indicativo
+Pretérito
+
+ellas [envejecer]";"ellas envejecieron"
+"Indicativo
+Pretérito
+
+Ustedes [envejecer]";"Ustedes envejecieron"
+"Indicativo
+Pretérito
+
+yo [escoger]";"yo escogí"
+"Indicativo
+Pretérito
+
+tú [escoger]";"tú escogiste"
+"Indicativo
+Pretérito
+
+él [escoger]";"él escogió"
+"Indicativo
+Pretérito
+
+ella [escoger]";"ella escogió"
+"Indicativo
+Pretérito
+
+Usted [escoger]";"Usted escogió"
+"Indicativo
+Pretérito
+
+nosotros [escoger]";"nosotros escogimos"
+"Indicativo
+Pretérito
+
+nosotras [escoger]";"nosotras escogimos"
+"Indicativo
+Pretérito
+
+vosotros [escoger]";"vosotros escogisteis"
+"Indicativo
+Pretérito
+
+vosotras [escoger]";"vosotras escogisteis"
+"Indicativo
+Pretérito
+
+ellos [escoger]";"ellos escogieron"
+"Indicativo
+Pretérito
+
+ellas [escoger]";"ellas escogieron"
+"Indicativo
+Pretérito
+
+Ustedes [escoger]";"Ustedes escogieron"
+"Indicativo
+Pretérito
+
+yo [esconder]";"yo escondí"
+"Indicativo
+Pretérito
+
+tú [esconder]";"tú escondiste"
+"Indicativo
+Pretérito
+
+él [esconder]";"él escondió"
+"Indicativo
+Pretérito
+
+ella [esconder]";"ella escondió"
+"Indicativo
+Pretérito
+
+Usted [esconder]";"Usted escondió"
+"Indicativo
+Pretérito
+
+nosotros [esconder]";"nosotros escondimos"
+"Indicativo
+Pretérito
+
+nosotras [esconder]";"nosotras escondimos"
+"Indicativo
+Pretérito
+
+vosotros [esconder]";"vosotros escondisteis"
+"Indicativo
+Pretérito
+
+vosotras [esconder]";"vosotras escondisteis"
+"Indicativo
+Pretérito
+
+ellos [esconder]";"ellos escondieron"
+"Indicativo
+Pretérito
+
+ellas [esconder]";"ellas escondieron"
+"Indicativo
+Pretérito
+
+Ustedes [esconder]";"Ustedes escondieron"
+"Indicativo
+Pretérito
+
+yo [escribir]";"yo escribí"
+"Indicativo
+Pretérito
+
+tú [escribir]";"tú escribiste"
+"Indicativo
+Pretérito
+
+él [escribir]";"él escribió"
+"Indicativo
+Pretérito
+
+ella [escribir]";"ella escribió"
+"Indicativo
+Pretérito
+
+Usted [escribir]";"Usted escribió"
+"Indicativo
+Pretérito
+
+nosotros [escribir]";"nosotros escribimos"
+"Indicativo
+Pretérito
+
+nosotras [escribir]";"nosotras escribimos"
+"Indicativo
+Pretérito
+
+vosotros [escribir]";"vosotros escribisteis"
+"Indicativo
+Pretérito
+
+vosotras [escribir]";"vosotras escribisteis"
+"Indicativo
+Pretérito
+
+ellos [escribir]";"ellos escribieron"
+"Indicativo
+Pretérito
+
+ellas [escribir]";"ellas escribieron"
+"Indicativo
+Pretérito
+
+Ustedes [escribir]";"Ustedes escribieron"
+"Indicativo
+Pretérito
+
+yo [establecer]";"yo establecí"
+"Indicativo
+Pretérito
+
+tú [establecer]";"tú estableciste"
+"Indicativo
+Pretérito
+
+él [establecer]";"él estableció"
+"Indicativo
+Pretérito
+
+ella [establecer]";"ella estableció"
+"Indicativo
+Pretérito
+
+Usted [establecer]";"Usted estableció"
+"Indicativo
+Pretérito
+
+nosotros [establecer]";"nosotros establecimos"
+"Indicativo
+Pretérito
+
+nosotras [establecer]";"nosotras establecimos"
+"Indicativo
+Pretérito
+
+vosotros [establecer]";"vosotros establecisteis"
+"Indicativo
+Pretérito
+
+vosotras [establecer]";"vosotras establecisteis"
+"Indicativo
+Pretérito
+
+ellos [establecer]";"ellos establecieron"
+"Indicativo
+Pretérito
+
+ellas [establecer]";"ellas establecieron"
+"Indicativo
+Pretérito
+
+Ustedes [establecer]";"Ustedes establecieron"
+"Indicativo
+Pretérito
+
+yo [exhibir]";"yo exhibí"
+"Indicativo
+Pretérito
+
+tú [exhibir]";"tú exhibiste"
+"Indicativo
+Pretérito
+
+él [exhibir]";"él exhibió"
+"Indicativo
+Pretérito
+
+ella [exhibir]";"ella exhibió"
+"Indicativo
+Pretérito
+
+Usted [exhibir]";"Usted exhibió"
+"Indicativo
+Pretérito
+
+nosotros [exhibir]";"nosotros exhibimos"
+"Indicativo
+Pretérito
+
+nosotras [exhibir]";"nosotras exhibimos"
+"Indicativo
+Pretérito
+
+vosotros [exhibir]";"vosotros exhibisteis"
+"Indicativo
+Pretérito
+
+vosotras [exhibir]";"vosotras exhibisteis"
+"Indicativo
+Pretérito
+
+ellos [exhibir]";"ellos exhibieron"
+"Indicativo
+Pretérito
+
+ellas [exhibir]";"ellas exhibieron"
+"Indicativo
+Pretérito
+
+Ustedes [exhibir]";"Ustedes exhibieron"
+"Indicativo
+Pretérito
+
+yo [exigir]";"yo exigí"
+"Indicativo
+Pretérito
+
+tú [exigir]";"tú exigiste"
+"Indicativo
+Pretérito
+
+él [exigir]";"él exigió"
+"Indicativo
+Pretérito
+
+ella [exigir]";"ella exigió"
+"Indicativo
+Pretérito
+
+Usted [exigir]";"Usted exigió"
+"Indicativo
+Pretérito
+
+nosotros [exigir]";"nosotros exigimos"
+"Indicativo
+Pretérito
+
+nosotras [exigir]";"nosotras exigimos"
+"Indicativo
+Pretérito
+
+vosotros [exigir]";"vosotros exigisteis"
+"Indicativo
+Pretérito
+
+vosotras [exigir]";"vosotras exigisteis"
+"Indicativo
+Pretérito
+
+ellos [exigir]";"ellos exigieron"
+"Indicativo
+Pretérito
+
+ellas [exigir]";"ellas exigieron"
+"Indicativo
+Pretérito
+
+Ustedes [exigir]";"Ustedes exigieron"
+"Indicativo
+Pretérito
+
+yo [exponer]";"yo expuse"
+"Indicativo
+Pretérito
+
+tú [exponer]";"tú expusiste"
+"Indicativo
+Pretérito
+
+él [exponer]";"él expuso"
+"Indicativo
+Pretérito
+
+ella [exponer]";"ella expuso"
+"Indicativo
+Pretérito
+
+Usted [exponer]";"Usted expuso"
+"Indicativo
+Pretérito
+
+nosotros [exponer]";"nosotros expusimos"
+"Indicativo
+Pretérito
+
+nosotras [exponer]";"nosotras expusimos"
+"Indicativo
+Pretérito
+
+vosotros [exponer]";"vosotros expusisteis"
+"Indicativo
+Pretérito
+
+vosotras [exponer]";"vosotras expusisteis"
+"Indicativo
+Pretérito
+
+ellos [exponer]";"ellos expusieron"
+"Indicativo
+Pretérito
+
+ellas [exponer]";"ellas expusieron"
+"Indicativo
+Pretérito
+
+Ustedes [exponer]";"Ustedes expusieron"
+"Indicativo
+Pretérito
+
+yo [extender]";"yo extendí"
+"Indicativo
+Pretérito
+
+tú [extender]";"tú extendiste"
+"Indicativo
+Pretérito
+
+él [extender]";"él extendió"
+"Indicativo
+Pretérito
+
+ella [extender]";"ella extendió"
+"Indicativo
+Pretérito
+
+Usted [extender]";"Usted extendió"
+"Indicativo
+Pretérito
+
+nosotros [extender]";"nosotros extendimos"
+"Indicativo
+Pretérito
+
+nosotras [extender]";"nosotras extendimos"
+"Indicativo
+Pretérito
+
+vosotros [extender]";"vosotros extendisteis"
+"Indicativo
+Pretérito
+
+vosotras [extender]";"vosotras extendisteis"
+"Indicativo
+Pretérito
+
+ellos [extender]";"ellos extendieron"
+"Indicativo
+Pretérito
+
+ellas [extender]";"ellas extendieron"
+"Indicativo
+Pretérito
+
+Ustedes [extender]";"Ustedes extendieron"
+"Indicativo
+Pretérito
+
+yo [extinguir]";"yo extinguí"
+"Indicativo
+Pretérito
+
+tú [extinguir]";"tú extinguiste"
+"Indicativo
+Pretérito
+
+él [extinguir]";"él extinguió"
+"Indicativo
+Pretérito
+
+ella [extinguir]";"ella extinguió"
+"Indicativo
+Pretérito
+
+Usted [extinguir]";"Usted extinguió"
+"Indicativo
+Pretérito
+
+nosotros [extinguir]";"nosotros extinguimos"
+"Indicativo
+Pretérito
+
+nosotras [extinguir]";"nosotras extinguimos"
+"Indicativo
+Pretérito
+
+vosotros [extinguir]";"vosotros extinguisteis"
+"Indicativo
+Pretérito
+
+vosotras [extinguir]";"vosotras extinguisteis"
+"Indicativo
+Pretérito
+
+ellos [extinguir]";"ellos extinguieron"
+"Indicativo
+Pretérito
+
+ellas [extinguir]";"ellas extinguieron"
+"Indicativo
+Pretérito
+
+Ustedes [extinguir]";"Ustedes extinguieron"
+"Indicativo
+Pretérito
+
+yo [fingir]";"yo fingí"
+"Indicativo
+Pretérito
+
+tú [fingir]";"tú fingiste"
+"Indicativo
+Pretérito
+
+él [fingir]";"él fingió"
+"Indicativo
+Pretérito
+
+ella [fingir]";"ella fingió"
+"Indicativo
+Pretérito
+
+Usted [fingir]";"Usted fingió"
+"Indicativo
+Pretérito
+
+nosotros [fingir]";"nosotros fingimos"
+"Indicativo
+Pretérito
+
+nosotras [fingir]";"nosotras fingimos"
+"Indicativo
+Pretérito
+
+vosotros [fingir]";"vosotros fingisteis"
+"Indicativo
+Pretérito
+
+vosotras [fingir]";"vosotras fingisteis"
+"Indicativo
+Pretérito
+
+ellos [fingir]";"ellos fingieron"
+"Indicativo
+Pretérito
+
+ellas [fingir]";"ellas fingieron"
+"Indicativo
+Pretérito
+
+Ustedes [fingir]";"Ustedes fingieron"
+"Indicativo
+Pretérito
+
+yo [florecer]";"yo florecí"
+"Indicativo
+Pretérito
+
+tú [florecer]";"tú floreciste"
+"Indicativo
+Pretérito
+
+él [florecer]";"él floreció"
+"Indicativo
+Pretérito
+
+ella [florecer]";"ella floreció"
+"Indicativo
+Pretérito
+
+Usted [florecer]";"Usted floreció"
+"Indicativo
+Pretérito
+
+nosotros [florecer]";"nosotros florecimos"
+"Indicativo
+Pretérito
+
+nosotras [florecer]";"nosotras florecimos"
+"Indicativo
+Pretérito
+
+vosotros [florecer]";"vosotros florecisteis"
+"Indicativo
+Pretérito
+
+vosotras [florecer]";"vosotras florecisteis"
+"Indicativo
+Pretérito
+
+ellos [florecer]";"ellos florecieron"
+"Indicativo
+Pretérito
+
+ellas [florecer]";"ellas florecieron"
+"Indicativo
+Pretérito
+
+Ustedes [florecer]";"Ustedes florecieron"
+"Indicativo
+Pretérito
+
+yo [fortalecer]";"yo fortalecí"
+"Indicativo
+Pretérito
+
+tú [fortalecer]";"tú fortaleciste"
+"Indicativo
+Pretérito
+
+él [fortalecer]";"él fortaleció"
+"Indicativo
+Pretérito
+
+ella [fortalecer]";"ella fortaleció"
+"Indicativo
+Pretérito
+
+Usted [fortalecer]";"Usted fortaleció"
+"Indicativo
+Pretérito
+
+nosotros [fortalecer]";"nosotros fortalecimos"
+"Indicativo
+Pretérito
+
+nosotras [fortalecer]";"nosotras fortalecimos"
+"Indicativo
+Pretérito
+
+vosotros [fortalecer]";"vosotros fortalecisteis"
+"Indicativo
+Pretérito
+
+vosotras [fortalecer]";"vosotras fortalecisteis"
+"Indicativo
+Pretérito
+
+ellos [fortalecer]";"ellos fortalecieron"
+"Indicativo
+Pretérito
+
+ellas [fortalecer]";"ellas fortalecieron"
+"Indicativo
+Pretérito
+
+Ustedes [fortalecer]";"Ustedes fortalecieron"
+"Indicativo
+Pretérito
+
+yo [gruñir]";"yo gruñí"
+"Indicativo
+Pretérito
+
+tú [gruñir]";"tú gruñiste"
+"Indicativo
+Pretérito
+
+él [gruñir]";"él gruñó"
+"Indicativo
+Pretérito
+
+ella [gruñir]";"ella gruñó"
+"Indicativo
+Pretérito
+
+Usted [gruñir]";"Usted gruñó"
+"Indicativo
+Pretérito
+
+nosotros [gruñir]";"nosotros gruñimos"
+"Indicativo
+Pretérito
+
+nosotras [gruñir]";"nosotras gruñimos"
+"Indicativo
+Pretérito
+
+vosotros [gruñir]";"vosotros gruñisteis"
+"Indicativo
+Pretérito
+
+vosotras [gruñir]";"vosotras gruñisteis"
+"Indicativo
+Pretérito
+
+ellos [gruñir]";"ellos gruñeron"
+"Indicativo
+Pretérito
+
+ellas [gruñir]";"ellas gruñeron"
+"Indicativo
+Pretérito
+
+Ustedes [gruñir]";"Ustedes gruñeron"
+"Indicativo
+Pretérito
+
+yo [hacer]";"yo hice"
+"Indicativo
+Pretérito
+
+tú [hacer]";"tú hiciste"
+"Indicativo
+Pretérito
+
+él [hacer]";"él hizo"
+"Indicativo
+Pretérito
+
+ella [hacer]";"ella hizo"
+"Indicativo
+Pretérito
+
+Usted [hacer]";"Usted hizo"
+"Indicativo
+Pretérito
+
+nosotros [hacer]";"nosotros hicimos"
+"Indicativo
+Pretérito
+
+nosotras [hacer]";"nosotras hicimos"
+"Indicativo
+Pretérito
+
+vosotros [hacer]";"vosotros hicisteis"
+"Indicativo
+Pretérito
+
+vosotras [hacer]";"vosotras hicisteis"
+"Indicativo
+Pretérito
+
+ellos [hacer]";"ellos hicieron"
+"Indicativo
+Pretérito
+
+ellas [hacer]";"ellas hicieron"
+"Indicativo
+Pretérito
+
+Ustedes [hacer]";"Ustedes hicieron"
+"Indicativo
+Pretérito
+
+yo [herir]";"yo herí"
+"Indicativo
+Pretérito
+
+tú [herir]";"tú heriste"
+"Indicativo
+Pretérito
+
+él [herir]";"él hirió"
+"Indicativo
+Pretérito
+
+ella [herir]";"ella hirió"
+"Indicativo
+Pretérito
+
+Usted [herir]";"Usted hirió"
+"Indicativo
+Pretérito
+
+nosotros [herir]";"nosotros herimos"
+"Indicativo
+Pretérito
+
+nosotras [herir]";"nosotras herimos"
+"Indicativo
+Pretérito
+
+vosotros [herir]";"vosotros heristeis"
+"Indicativo
+Pretérito
+
+vosotras [herir]";"vosotras heristeis"
+"Indicativo
+Pretérito
+
+ellos [herir]";"ellos hirieron"
+"Indicativo
+Pretérito
+
+ellas [herir]";"ellas hirieron"
+"Indicativo
+Pretérito
+
+Ustedes [herir]";"Ustedes hirieron"
+"Indicativo
+Pretérito
+
+yo [hervir]";"yo herví"
+"Indicativo
+Pretérito
+
+tú [hervir]";"tú herviste"
+"Indicativo
+Pretérito
+
+él [hervir]";"él hirvió"
+"Indicativo
+Pretérito
+
+ella [hervir]";"ella hirvió"
+"Indicativo
+Pretérito
+
+Usted [hervir]";"Usted hirvió"
+"Indicativo
+Pretérito
+
+nosotros [hervir]";"nosotros hervimos"
+"Indicativo
+Pretérito
+
+nosotras [hervir]";"nosotras hervimos"
+"Indicativo
+Pretérito
+
+vosotros [hervir]";"vosotros hervisteis"
+"Indicativo
+Pretérito
+
+vosotras [hervir]";"vosotras hervisteis"
+"Indicativo
+Pretérito
+
+ellos [hervir]";"ellos hirvieron"
+"Indicativo
+Pretérito
+
+ellas [hervir]";"ellas hirvieron"
+"Indicativo
+Pretérito
+
+Ustedes [hervir]";"Ustedes hirvieron"
+"Indicativo
+Pretérito
+
+yo [huir]";"yo huí"
+"Indicativo
+Pretérito
+
+tú [huir]";"tú huiste"
+"Indicativo
+Pretérito
+
+él [huir]";"él huyó"
+"Indicativo
+Pretérito
+
+ella [huir]";"ella huyó"
+"Indicativo
+Pretérito
+
+Usted [huir]";"Usted huyó"
+"Indicativo
+Pretérito
+
+nosotros [huir]";"nosotros huimos"
+"Indicativo
+Pretérito
+
+nosotras [huir]";"nosotras huimos"
+"Indicativo
+Pretérito
+
+vosotros [huir]";"vosotros huisteis"
+"Indicativo
+Pretérito
+
+vosotras [huir]";"vosotras huisteis"
+"Indicativo
+Pretérito
+
+ellos [huir]";"ellos huyeron"
+"Indicativo
+Pretérito
+
+ellas [huir]";"ellas huyeron"
+"Indicativo
+Pretérito
+
+Ustedes [huir]";"Ustedes huyeron"
+"Indicativo
+Pretérito
+
+yo [imprimir]";"yo imprimí"
+"Indicativo
+Pretérito
+
+tú [imprimir]";"tú imprimiste"
+"Indicativo
+Pretérito
+
+él [imprimir]";"él imprimió"
+"Indicativo
+Pretérito
+
+ella [imprimir]";"ella imprimió"
+"Indicativo
+Pretérito
+
+Usted [imprimir]";"Usted imprimió"
+"Indicativo
+Pretérito
+
+nosotros [imprimir]";"nosotros imprimimos"
+"Indicativo
+Pretérito
+
+nosotras [imprimir]";"nosotras imprimimos"
+"Indicativo
+Pretérito
+
+vosotros [imprimir]";"vosotros imprimisteis"
+"Indicativo
+Pretérito
+
+vosotras [imprimir]";"vosotras imprimisteis"
+"Indicativo
+Pretérito
+
+ellos [imprimir]";"ellos imprimieron"
+"Indicativo
+Pretérito
+
+ellas [imprimir]";"ellas imprimieron"
+"Indicativo
+Pretérito
+
+Ustedes [imprimir]";"Ustedes imprimieron"
+"Indicativo
+Pretérito
+
+yo [incluir]";"yo incluí"
+"Indicativo
+Pretérito
+
+tú [incluir]";"tú incluiste"
+"Indicativo
+Pretérito
+
+él [incluir]";"él incluyó"
+"Indicativo
+Pretérito
+
+ella [incluir]";"ella incluyó"
+"Indicativo
+Pretérito
+
+Usted [incluir]";"Usted incluyó"
+"Indicativo
+Pretérito
+
+nosotros [incluir]";"nosotros incluimos"
+"Indicativo
+Pretérito
+
+nosotras [incluir]";"nosotras incluimos"
+"Indicativo
+Pretérito
+
+vosotros [incluir]";"vosotros incluisteis"
+"Indicativo
+Pretérito
+
+vosotras [incluir]";"vosotras incluisteis"
+"Indicativo
+Pretérito
+
+ellos [incluir]";"ellos incluyeron"
+"Indicativo
+Pretérito
+
+ellas [incluir]";"ellas incluyeron"
+"Indicativo
+Pretérito
+
+Ustedes [incluir]";"Ustedes incluyeron"
+"Indicativo
+Pretérito
+
+yo [inducir]";"yo induje"
+"Indicativo
+Pretérito
+
+tú [inducir]";"tú indujiste"
+"Indicativo
+Pretérito
+
+él [inducir]";"él indujo"
+"Indicativo
+Pretérito
+
+ella [inducir]";"ella indujo"
+"Indicativo
+Pretérito
+
+Usted [inducir]";"Usted indujo"
+"Indicativo
+Pretérito
+
+nosotros [inducir]";"nosotros indujimos"
+"Indicativo
+Pretérito
+
+nosotras [inducir]";"nosotras indujimos"
+"Indicativo
+Pretérito
+
+vosotros [inducir]";"vosotros indujisteis"
+"Indicativo
+Pretérito
+
+vosotras [inducir]";"vosotras indujisteis"
+"Indicativo
+Pretérito
+
+ellos [inducir]";"ellos indujeron"
+"Indicativo
+Pretérito
+
+ellas [inducir]";"ellas indujeron"
+"Indicativo
+Pretérito
+
+Ustedes [inducir]";"Ustedes indujeron"
+"Indicativo
+Pretérito
+
+yo [influir]";"yo influí"
+"Indicativo
+Pretérito
+
+tú [influir]";"tú influiste"
+"Indicativo
+Pretérito
+
+él [influir]";"él influyó"
+"Indicativo
+Pretérito
+
+ella [influir]";"ella influyó"
+"Indicativo
+Pretérito
+
+Usted [influir]";"Usted influyó"
+"Indicativo
+Pretérito
+
+nosotros [influir]";"nosotros influimos"
+"Indicativo
+Pretérito
+
+nosotras [influir]";"nosotras influimos"
+"Indicativo
+Pretérito
+
+vosotros [influir]";"vosotros influisteis"
+"Indicativo
+Pretérito
+
+vosotras [influir]";"vosotras influisteis"
+"Indicativo
+Pretérito
+
+ellos [influir]";"ellos influyeron"
+"Indicativo
+Pretérito
+
+ellas [influir]";"ellas influyeron"
+"Indicativo
+Pretérito
+
+Ustedes [influir]";"Ustedes influyeron"
+"Indicativo
+Pretérito
+
+yo [insistir]";"yo insistí"
+"Indicativo
+Pretérito
+
+tú [insistir]";"tú insististe"
+"Indicativo
+Pretérito
+
+él [insistir]";"él insistió"
+"Indicativo
+Pretérito
+
+ella [insistir]";"ella insistió"
+"Indicativo
+Pretérito
+
+Usted [insistir]";"Usted insistió"
+"Indicativo
+Pretérito
+
+nosotros [insistir]";"nosotros insistimos"
+"Indicativo
+Pretérito
+
+nosotras [insistir]";"nosotras insistimos"
+"Indicativo
+Pretérito
+
+vosotros [insistir]";"vosotros insististeis"
+"Indicativo
+Pretérito
+
+vosotras [insistir]";"vosotras insististeis"
+"Indicativo
+Pretérito
+
+ellos [insistir]";"ellos insistieron"
+"Indicativo
+Pretérito
+
+ellas [insistir]";"ellas insistieron"
+"Indicativo
+Pretérito
+
+Ustedes [insistir]";"Ustedes insistieron"
+"Indicativo
+Pretérito
+
+yo [introducir]";"yo introduje"
+"Indicativo
+Pretérito
+
+tú [introducir]";"tú introdujiste"
+"Indicativo
+Pretérito
+
+él [introducir]";"él introdujo"
+"Indicativo
+Pretérito
+
+ella [introducir]";"ella introdujo"
+"Indicativo
+Pretérito
+
+Usted [introducir]";"Usted introdujo"
+"Indicativo
+Pretérito
+
+nosotros [introducir]";"nosotros introdujimos"
+"Indicativo
+Pretérito
+
+nosotras [introducir]";"nosotras introdujimos"
+"Indicativo
+Pretérito
+
+vosotros [introducir]";"vosotros introdujisteis"
+"Indicativo
+Pretérito
+
+vosotras [introducir]";"vosotras introdujisteis"
+"Indicativo
+Pretérito
+
+ellos [introducir]";"ellos introdujeron"
+"Indicativo
+Pretérito
+
+ellas [introducir]";"ellas introdujeron"
+"Indicativo
+Pretérito
+
+Ustedes [introducir]";"Ustedes introdujeron"
+"Indicativo
+Pretérito
+
+yo [invadir]";"yo invadí"
+"Indicativo
+Pretérito
+
+tú [invadir]";"tú invadiste"
+"Indicativo
+Pretérito
+
+él [invadir]";"él invadió"
+"Indicativo
+Pretérito
+
+ella [invadir]";"ella invadió"
+"Indicativo
+Pretérito
+
+Usted [invadir]";"Usted invadió"
+"Indicativo
+Pretérito
+
+nosotros [invadir]";"nosotros invadimos"
+"Indicativo
+Pretérito
+
+nosotras [invadir]";"nosotras invadimos"
+"Indicativo
+Pretérito
+
+vosotros [invadir]";"vosotros invadisteis"
+"Indicativo
+Pretérito
+
+vosotras [invadir]";"vosotras invadisteis"
+"Indicativo
+Pretérito
+
+ellos [invadir]";"ellos invadieron"
+"Indicativo
+Pretérito
+
+ellas [invadir]";"ellas invadieron"
+"Indicativo
+Pretérito
+
+Ustedes [invadir]";"Ustedes invadieron"
+"Indicativo
+Pretérito
+
+yo [invertir]";"yo invertí"
+"Indicativo
+Pretérito
+
+tú [invertir]";"tú invertiste"
+"Indicativo
+Pretérito
+
+él [invertir]";"él invirtió"
+"Indicativo
+Pretérito
+
+ella [invertir]";"ella invirtió"
+"Indicativo
+Pretérito
+
+Usted [invertir]";"Usted invirtió"
+"Indicativo
+Pretérito
+
+nosotros [invertir]";"nosotros invertimos"
+"Indicativo
+Pretérito
+
+nosotras [invertir]";"nosotras invertimos"
+"Indicativo
+Pretérito
+
+vosotros [invertir]";"vosotros invertisteis"
+"Indicativo
+Pretérito
+
+vosotras [invertir]";"vosotras invertisteis"
+"Indicativo
+Pretérito
+
+ellos [invertir]";"ellos invirtieron"
+"Indicativo
+Pretérito
+
+ellas [invertir]";"ellas invirtieron"
+"Indicativo
+Pretérito
+
+Ustedes [invertir]";"Ustedes invirtieron"
+"Indicativo
+Pretérito
+
+yo [ir]";"yo fui"
+"Indicativo
+Pretérito
+
+tú [ir]";"tú fuiste"
+"Indicativo
+Pretérito
+
+él [ir]";"él fue"
+"Indicativo
+Pretérito
+
+ella [ir]";"ella fue"
+"Indicativo
+Pretérito
+
+Usted [ir]";"Usted fue"
+"Indicativo
+Pretérito
+
+nosotros [ir]";"nosotros fuimos"
+"Indicativo
+Pretérito
+
+nosotras [ir]";"nosotras fuimos"
+"Indicativo
+Pretérito
+
+vosotros [ir]";"vosotros fuisteis"
+"Indicativo
+Pretérito
+
+vosotras [ir]";"vosotras fuisteis"
+"Indicativo
+Pretérito
+
+ellos [ir]";"ellos fueron"
+"Indicativo
+Pretérito
+
+ellas [ir]";"ellas fueron"
+"Indicativo
+Pretérito
+
+Ustedes [ir]";"Ustedes fueron"
+"Indicativo
+Pretérito
+
+yo [leer]";"yo leí"
+"Indicativo
+Pretérito
+
+tú [leer]";"tú leíste"
+"Indicativo
+Pretérito
+
+él [leer]";"él leyó"
+"Indicativo
+Pretérito
+
+ella [leer]";"ella leyó"
+"Indicativo
+Pretérito
+
+Usted [leer]";"Usted leyó"
+"Indicativo
+Pretérito
+
+nosotros [leer]";"nosotros leímos"
+"Indicativo
+Pretérito
+
+nosotras [leer]";"nosotras leímos"
+"Indicativo
+Pretérito
+
+vosotros [leer]";"vosotros leísteis"
+"Indicativo
+Pretérito
+
+vosotras [leer]";"vosotras leísteis"
+"Indicativo
+Pretérito
+
+ellos [leer]";"ellos leyeron"
+"Indicativo
+Pretérito
+
+ellas [leer]";"ellas leyeron"
+"Indicativo
+Pretérito
+
+Ustedes [leer]";"Ustedes leyeron"
+"Indicativo
+Pretérito
+
+yo [llover]";"yo "
+"Indicativo
+Pretérito
+
+tú [llover]";"tú "
+"Indicativo
+Pretérito
+
+él [llover]";"él llovió"
+"Indicativo
+Pretérito
+
+ella [llover]";"ella llovió"
+"Indicativo
+Pretérito
+
+Usted [llover]";"Usted llovió"
+"Indicativo
+Pretérito
+
+nosotros [llover]";"nosotros "
+"Indicativo
+Pretérito
+
+nosotras [llover]";"nosotras "
+"Indicativo
+Pretérito
+
+vosotros [llover]";"vosotros "
+"Indicativo
+Pretérito
+
+vosotras [llover]";"vosotras "
+"Indicativo
+Pretérito
+
+ellos [llover]";"ellos "
+"Indicativo
+Pretérito
+
+ellas [llover]";"ellas "
+"Indicativo
+Pretérito
+
+Ustedes [llover]";"Ustedes "
+"Indicativo
+Pretérito
+
+yo [mantener]";"yo mantuve"
+"Indicativo
+Pretérito
+
+tú [mantener]";"tú mantuviste"
+"Indicativo
+Pretérito
+
+él [mantener]";"él mantuvo"
+"Indicativo
+Pretérito
+
+ella [mantener]";"ella mantuvo"
+"Indicativo
+Pretérito
+
+Usted [mantener]";"Usted mantuvo"
+"Indicativo
+Pretérito
+
+nosotros [mantener]";"nosotros mantuvimos"
+"Indicativo
+Pretérito
+
+nosotras [mantener]";"nosotras mantuvimos"
+"Indicativo
+Pretérito
+
+vosotros [mantener]";"vosotros mantuvisteis"
+"Indicativo
+Pretérito
+
+vosotras [mantener]";"vosotras mantuvisteis"
+"Indicativo
+Pretérito
+
+ellos [mantener]";"ellos mantuvieron"
+"Indicativo
+Pretérito
+
+ellas [mantener]";"ellas mantuvieron"
+"Indicativo
+Pretérito
+
+Ustedes [mantener]";"Ustedes mantuvieron"
+"Indicativo
+Pretérito
+
+yo [medir]";"yo medí"
+"Indicativo
+Pretérito
+
+tú [medir]";"tú mediste"
+"Indicativo
+Pretérito
+
+él [medir]";"él midió"
+"Indicativo
+Pretérito
+
+ella [medir]";"ella midió"
+"Indicativo
+Pretérito
+
+Usted [medir]";"Usted midió"
+"Indicativo
+Pretérito
+
+nosotros [medir]";"nosotros medimos"
+"Indicativo
+Pretérito
+
+nosotras [medir]";"nosotras medimos"
+"Indicativo
+Pretérito
+
+vosotros [medir]";"vosotros medisteis"
+"Indicativo
+Pretérito
+
+vosotras [medir]";"vosotras medisteis"
+"Indicativo
+Pretérito
+
+ellos [medir]";"ellos midieron"
+"Indicativo
+Pretérito
+
+ellas [medir]";"ellas midieron"
+"Indicativo
+Pretérito
+
+Ustedes [medir]";"Ustedes midieron"
+"Indicativo
+Pretérito
+
+yo [mentir]";"yo mentí"
+"Indicativo
+Pretérito
+
+tú [mentir]";"tú mentiste"
+"Indicativo
+Pretérito
+
+él [mentir]";"él mintió"
+"Indicativo
+Pretérito
+
+ella [mentir]";"ella mintió"
+"Indicativo
+Pretérito
+
+Usted [mentir]";"Usted mintió"
+"Indicativo
+Pretérito
+
+nosotros [mentir]";"nosotros mentimos"
+"Indicativo
+Pretérito
+
+nosotras [mentir]";"nosotras mentimos"
+"Indicativo
+Pretérito
+
+vosotros [mentir]";"vosotros mentisteis"
+"Indicativo
+Pretérito
+
+vosotras [mentir]";"vosotras mentisteis"
+"Indicativo
+Pretérito
+
+ellos [mentir]";"ellos mintieron"
+"Indicativo
+Pretérito
+
+ellas [mentir]";"ellas mintieron"
+"Indicativo
+Pretérito
+
+Ustedes [mentir]";"Ustedes mintieron"
+"Indicativo
+Pretérito
+
+yo [merecer]";"yo merecí"
+"Indicativo
+Pretérito
+
+tú [merecer]";"tú mereciste"
+"Indicativo
+Pretérito
+
+él [merecer]";"él mereció"
+"Indicativo
+Pretérito
+
+ella [merecer]";"ella mereció"
+"Indicativo
+Pretérito
+
+Usted [merecer]";"Usted mereció"
+"Indicativo
+Pretérito
+
+nosotros [merecer]";"nosotros merecimos"
+"Indicativo
+Pretérito
+
+nosotras [merecer]";"nosotras merecimos"
+"Indicativo
+Pretérito
+
+vosotros [merecer]";"vosotros merecisteis"
+"Indicativo
+Pretérito
+
+vosotras [merecer]";"vosotras merecisteis"
+"Indicativo
+Pretérito
+
+ellos [merecer]";"ellos merecieron"
+"Indicativo
+Pretérito
+
+ellas [merecer]";"ellas merecieron"
+"Indicativo
+Pretérito
+
+Ustedes [merecer]";"Ustedes merecieron"
+"Indicativo
+Pretérito
+
+yo [meter]";"yo metí"
+"Indicativo
+Pretérito
+
+tú [meter]";"tú metiste"
+"Indicativo
+Pretérito
+
+él [meter]";"él metió"
+"Indicativo
+Pretérito
+
+ella [meter]";"ella metió"
+"Indicativo
+Pretérito
+
+Usted [meter]";"Usted metió"
+"Indicativo
+Pretérito
+
+nosotros [meter]";"nosotros metimos"
+"Indicativo
+Pretérito
+
+nosotras [meter]";"nosotras metimos"
+"Indicativo
+Pretérito
+
+vosotros [meter]";"vosotros metisteis"
+"Indicativo
+Pretérito
+
+vosotras [meter]";"vosotras metisteis"
+"Indicativo
+Pretérito
+
+ellos [meter]";"ellos metieron"
+"Indicativo
+Pretérito
+
+ellas [meter]";"ellas metieron"
+"Indicativo
+Pretérito
+
+Ustedes [meter]";"Ustedes metieron"
+"Indicativo
+Pretérito
+
+yo [morir]";"yo morí"
+"Indicativo
+Pretérito
+
+tú [morir]";"tú moriste"
+"Indicativo
+Pretérito
+
+él [morir]";"él murió"
+"Indicativo
+Pretérito
+
+ella [morir]";"ella murió"
+"Indicativo
+Pretérito
+
+Usted [morir]";"Usted murió"
+"Indicativo
+Pretérito
+
+nosotros [morir]";"nosotros morimos"
+"Indicativo
+Pretérito
+
+nosotras [morir]";"nosotras morimos"
+"Indicativo
+Pretérito
+
+vosotros [morir]";"vosotros moristeis"
+"Indicativo
+Pretérito
+
+vosotras [morir]";"vosotras moristeis"
+"Indicativo
+Pretérito
+
+ellos [morir]";"ellos murieron"
+"Indicativo
+Pretérito
+
+ellas [morir]";"ellas murieron"
+"Indicativo
+Pretérito
+
+Ustedes [morir]";"Ustedes murieron"
+"Indicativo
+Pretérito
+
+yo [mover]";"yo moví"
+"Indicativo
+Pretérito
+
+tú [mover]";"tú moviste"
+"Indicativo
+Pretérito
+
+él [mover]";"él movió"
+"Indicativo
+Pretérito
+
+ella [mover]";"ella movió"
+"Indicativo
+Pretérito
+
+Usted [mover]";"Usted movió"
+"Indicativo
+Pretérito
+
+nosotros [mover]";"nosotros movimos"
+"Indicativo
+Pretérito
+
+nosotras [mover]";"nosotras movimos"
+"Indicativo
+Pretérito
+
+vosotros [mover]";"vosotros movisteis"
+"Indicativo
+Pretérito
+
+vosotras [mover]";"vosotras movisteis"
+"Indicativo
+Pretérito
+
+ellos [mover]";"ellos movieron"
+"Indicativo
+Pretérito
+
+ellas [mover]";"ellas movieron"
+"Indicativo
+Pretérito
+
+Ustedes [mover]";"Ustedes movieron"
+"Indicativo
+Pretérito
+
+yo [nacer]";"yo nací"
+"Indicativo
+Pretérito
+
+tú [nacer]";"tú naciste"
+"Indicativo
+Pretérito
+
+él [nacer]";"él nació"
+"Indicativo
+Pretérito
+
+ella [nacer]";"ella nació"
+"Indicativo
+Pretérito
+
+Usted [nacer]";"Usted nació"
+"Indicativo
+Pretérito
+
+nosotros [nacer]";"nosotros nacimos"
+"Indicativo
+Pretérito
+
+nosotras [nacer]";"nosotras nacimos"
+"Indicativo
+Pretérito
+
+vosotros [nacer]";"vosotros nacisteis"
+"Indicativo
+Pretérito
+
+vosotras [nacer]";"vosotras nacisteis"
+"Indicativo
+Pretérito
+
+ellos [nacer]";"ellos nacieron"
+"Indicativo
+Pretérito
+
+ellas [nacer]";"ellas nacieron"
+"Indicativo
+Pretérito
+
+Ustedes [nacer]";"Ustedes nacieron"
+"Indicativo
+Pretérito
+
+yo [obedecer]";"yo obedecí"
+"Indicativo
+Pretérito
+
+tú [obedecer]";"tú obedeciste"
+"Indicativo
+Pretérito
+
+él [obedecer]";"él obedeció"
+"Indicativo
+Pretérito
+
+ella [obedecer]";"ella obedeció"
+"Indicativo
+Pretérito
+
+Usted [obedecer]";"Usted obedeció"
+"Indicativo
+Pretérito
+
+nosotros [obedecer]";"nosotros obedecimos"
+"Indicativo
+Pretérito
+
+nosotras [obedecer]";"nosotras obedecimos"
+"Indicativo
+Pretérito
+
+vosotros [obedecer]";"vosotros obedecisteis"
+"Indicativo
+Pretérito
+
+vosotras [obedecer]";"vosotras obedecisteis"
+"Indicativo
+Pretérito
+
+ellos [obedecer]";"ellos obedecieron"
+"Indicativo
+Pretérito
+
+ellas [obedecer]";"ellas obedecieron"
+"Indicativo
+Pretérito
+
+Ustedes [obedecer]";"Ustedes obedecieron"
+"Indicativo
+Pretérito
+
+yo [obtener]";"yo obtuve"
+"Indicativo
+Pretérito
+
+tú [obtener]";"tú obtuviste"
+"Indicativo
+Pretérito
+
+él [obtener]";"él obtuvo"
+"Indicativo
+Pretérito
+
+ella [obtener]";"ella obtuvo"
+"Indicativo
+Pretérito
+
+Usted [obtener]";"Usted obtuvo"
+"Indicativo
+Pretérito
+
+nosotros [obtener]";"nosotros obtuvimos"
+"Indicativo
+Pretérito
+
+nosotras [obtener]";"nosotras obtuvimos"
+"Indicativo
+Pretérito
+
+vosotros [obtener]";"vosotros obtuvisteis"
+"Indicativo
+Pretérito
+
+vosotras [obtener]";"vosotras obtuvisteis"
+"Indicativo
+Pretérito
+
+ellos [obtener]";"ellos obtuvieron"
+"Indicativo
+Pretérito
+
+ellas [obtener]";"ellas obtuvieron"
+"Indicativo
+Pretérito
+
+Ustedes [obtener]";"Ustedes obtuvieron"
+"Indicativo
+Pretérito
+
+yo [ocurrir]";"yo "
+"Indicativo
+Pretérito
+
+tú [ocurrir]";"tú "
+"Indicativo
+Pretérito
+
+él [ocurrir]";"él ocurrió"
+"Indicativo
+Pretérito
+
+ella [ocurrir]";"ella ocurrió"
+"Indicativo
+Pretérito
+
+Usted [ocurrir]";"Usted ocurrió"
+"Indicativo
+Pretérito
+
+nosotros [ocurrir]";"nosotros "
+"Indicativo
+Pretérito
+
+nosotras [ocurrir]";"nosotras "
+"Indicativo
+Pretérito
+
+vosotros [ocurrir]";"vosotros "
+"Indicativo
+Pretérito
+
+vosotras [ocurrir]";"vosotras "
+"Indicativo
+Pretérito
+
+ellos [ocurrir]";"ellos ocurrieron"
+"Indicativo
+Pretérito
+
+ellas [ocurrir]";"ellas ocurrieron"
+"Indicativo
+Pretérito
+
+Ustedes [ocurrir]";"Ustedes ocurrieron"
+"Indicativo
+Pretérito
+
+yo [ofender]";"yo ofendí"
+"Indicativo
+Pretérito
+
+tú [ofender]";"tú ofendiste"
+"Indicativo
+Pretérito
+
+él [ofender]";"él ofendió"
+"Indicativo
+Pretérito
+
+ella [ofender]";"ella ofendió"
+"Indicativo
+Pretérito
+
+Usted [ofender]";"Usted ofendió"
+"Indicativo
+Pretérito
+
+nosotros [ofender]";"nosotros ofendimos"
+"Indicativo
+Pretérito
+
+nosotras [ofender]";"nosotras ofendimos"
+"Indicativo
+Pretérito
+
+vosotros [ofender]";"vosotros ofendisteis"
+"Indicativo
+Pretérito
+
+vosotras [ofender]";"vosotras ofendisteis"
+"Indicativo
+Pretérito
+
+ellos [ofender]";"ellos ofendieron"
+"Indicativo
+Pretérito
+
+ellas [ofender]";"ellas ofendieron"
+"Indicativo
+Pretérito
+
+Ustedes [ofender]";"Ustedes ofendieron"
+"Indicativo
+Pretérito
+
+yo [ofrecer]";"yo ofrecí"
+"Indicativo
+Pretérito
+
+tú [ofrecer]";"tú ofreciste"
+"Indicativo
+Pretérito
+
+él [ofrecer]";"él ofreció"
+"Indicativo
+Pretérito
+
+ella [ofrecer]";"ella ofreció"
+"Indicativo
+Pretérito
+
+Usted [ofrecer]";"Usted ofreció"
+"Indicativo
+Pretérito
+
+nosotros [ofrecer]";"nosotros ofrecimos"
+"Indicativo
+Pretérito
+
+nosotras [ofrecer]";"nosotras ofrecimos"
+"Indicativo
+Pretérito
+
+vosotros [ofrecer]";"vosotros ofrecisteis"
+"Indicativo
+Pretérito
+
+vosotras [ofrecer]";"vosotras ofrecisteis"
+"Indicativo
+Pretérito
+
+ellos [ofrecer]";"ellos ofrecieron"
+"Indicativo
+Pretérito
+
+ellas [ofrecer]";"ellas ofrecieron"
+"Indicativo
+Pretérito
+
+Ustedes [ofrecer]";"Ustedes ofrecieron"
+"Indicativo
+Pretérito
+
+yo [oler]";"yo olí"
+"Indicativo
+Pretérito
+
+tú [oler]";"tú oliste"
+"Indicativo
+Pretérito
+
+él [oler]";"él olió"
+"Indicativo
+Pretérito
+
+ella [oler]";"ella olió"
+"Indicativo
+Pretérito
+
+Usted [oler]";"Usted olió"
+"Indicativo
+Pretérito
+
+nosotros [oler]";"nosotros olimos"
+"Indicativo
+Pretérito
+
+nosotras [oler]";"nosotras olimos"
+"Indicativo
+Pretérito
+
+vosotros [oler]";"vosotros olisteis"
+"Indicativo
+Pretérito
+
+vosotras [oler]";"vosotras olisteis"
+"Indicativo
+Pretérito
+
+ellos [oler]";"ellos olieron"
+"Indicativo
+Pretérito
+
+ellas [oler]";"ellas olieron"
+"Indicativo
+Pretérito
+
+Ustedes [oler]";"Ustedes olieron"
+"Indicativo
+Pretérito
+
+yo [oponer]";"yo opuse"
+"Indicativo
+Pretérito
+
+tú [oponer]";"tú opusiste"
+"Indicativo
+Pretérito
+
+él [oponer]";"él opuso"
+"Indicativo
+Pretérito
+
+ella [oponer]";"ella opuso"
+"Indicativo
+Pretérito
+
+Usted [oponer]";"Usted opuso"
+"Indicativo
+Pretérito
+
+nosotros [oponer]";"nosotros opusimos"
+"Indicativo
+Pretérito
+
+nosotras [oponer]";"nosotras opusimos"
+"Indicativo
+Pretérito
+
+vosotros [oponer]";"vosotros opusisteis"
+"Indicativo
+Pretérito
+
+vosotras [oponer]";"vosotras opusisteis"
+"Indicativo
+Pretérito
+
+ellos [oponer]";"ellos opusieron"
+"Indicativo
+Pretérito
+
+ellas [oponer]";"ellas opusieron"
+"Indicativo
+Pretérito
+
+Ustedes [oponer]";"Ustedes opusieron"
+"Indicativo
+Pretérito
+
+yo [padecer]";"yo padecí"
+"Indicativo
+Pretérito
+
+tú [padecer]";"tú padeciste"
+"Indicativo
+Pretérito
+
+él [padecer]";"él padeció"
+"Indicativo
+Pretérito
+
+ella [padecer]";"ella padeció"
+"Indicativo
+Pretérito
+
+Usted [padecer]";"Usted padeció"
+"Indicativo
+Pretérito
+
+nosotros [padecer]";"nosotros padecimos"
+"Indicativo
+Pretérito
+
+nosotras [padecer]";"nosotras padecimos"
+"Indicativo
+Pretérito
+
+vosotros [padecer]";"vosotros padecisteis"
+"Indicativo
+Pretérito
+
+vosotras [padecer]";"vosotras padecisteis"
+"Indicativo
+Pretérito
+
+ellos [padecer]";"ellos padecieron"
+"Indicativo
+Pretérito
+
+ellas [padecer]";"ellas padecieron"
+"Indicativo
+Pretérito
+
+Ustedes [padecer]";"Ustedes padecieron"
+"Indicativo
+Pretérito
+
+yo [parecer]";"yo parecí"
+"Indicativo
+Pretérito
+
+tú [parecer]";"tú pareciste"
+"Indicativo
+Pretérito
+
+él [parecer]";"él pareció"
+"Indicativo
+Pretérito
+
+ella [parecer]";"ella pareció"
+"Indicativo
+Pretérito
+
+Usted [parecer]";"Usted pareció"
+"Indicativo
+Pretérito
+
+nosotros [parecer]";"nosotros parecimos"
+"Indicativo
+Pretérito
+
+nosotras [parecer]";"nosotras parecimos"
+"Indicativo
+Pretérito
+
+vosotros [parecer]";"vosotros parecisteis"
+"Indicativo
+Pretérito
+
+vosotras [parecer]";"vosotras parecisteis"
+"Indicativo
+Pretérito
+
+ellos [parecer]";"ellos parecieron"
+"Indicativo
+Pretérito
+
+ellas [parecer]";"ellas parecieron"
+"Indicativo
+Pretérito
+
+Ustedes [parecer]";"Ustedes parecieron"
+"Indicativo
+Pretérito
+
+yo [pedir]";"yo pedí"
+"Indicativo
+Pretérito
+
+tú [pedir]";"tú pediste"
+"Indicativo
+Pretérito
+
+él [pedir]";"él pidió"
+"Indicativo
+Pretérito
+
+ella [pedir]";"ella pidió"
+"Indicativo
+Pretérito
+
+Usted [pedir]";"Usted pidió"
+"Indicativo
+Pretérito
+
+nosotros [pedir]";"nosotros pedimos"
+"Indicativo
+Pretérito
+
+nosotras [pedir]";"nosotras pedimos"
+"Indicativo
+Pretérito
+
+vosotros [pedir]";"vosotros pedisteis"
+"Indicativo
+Pretérito
+
+vosotras [pedir]";"vosotras pedisteis"
+"Indicativo
+Pretérito
+
+ellos [pedir]";"ellos pidieron"
+"Indicativo
+Pretérito
+
+ellas [pedir]";"ellas pidieron"
+"Indicativo
+Pretérito
+
+Ustedes [pedir]";"Ustedes pidieron"
+"Indicativo
+Pretérito
+
+yo [perder]";"yo perdí"
+"Indicativo
+Pretérito
+
+tú [perder]";"tú perdiste"
+"Indicativo
+Pretérito
+
+él [perder]";"él perdió"
+"Indicativo
+Pretérito
+
+ella [perder]";"ella perdió"
+"Indicativo
+Pretérito
+
+Usted [perder]";"Usted perdió"
+"Indicativo
+Pretérito
+
+nosotros [perder]";"nosotros perdimos"
+"Indicativo
+Pretérito
+
+nosotras [perder]";"nosotras perdimos"
+"Indicativo
+Pretérito
+
+vosotros [perder]";"vosotros perdisteis"
+"Indicativo
+Pretérito
+
+vosotras [perder]";"vosotras perdisteis"
+"Indicativo
+Pretérito
+
+ellos [perder]";"ellos perdieron"
+"Indicativo
+Pretérito
+
+ellas [perder]";"ellas perdieron"
+"Indicativo
+Pretérito
+
+Ustedes [perder]";"Ustedes perdieron"
+"Indicativo
+Pretérito
+
+yo [permanecer]";"yo permanecí"
+"Indicativo
+Pretérito
+
+tú [permanecer]";"tú permaneciste"
+"Indicativo
+Pretérito
+
+él [permanecer]";"él permaneció"
+"Indicativo
+Pretérito
+
+ella [permanecer]";"ella permaneció"
+"Indicativo
+Pretérito
+
+Usted [permanecer]";"Usted permaneció"
+"Indicativo
+Pretérito
+
+nosotros [permanecer]";"nosotros permanecimos"
+"Indicativo
+Pretérito
+
+nosotras [permanecer]";"nosotras permanecimos"
+"Indicativo
+Pretérito
+
+vosotros [permanecer]";"vosotros permanecisteis"
+"Indicativo
+Pretérito
+
+vosotras [permanecer]";"vosotras permanecisteis"
+"Indicativo
+Pretérito
+
+ellos [permanecer]";"ellos permanecieron"
+"Indicativo
+Pretérito
+
+ellas [permanecer]";"ellas permanecieron"
+"Indicativo
+Pretérito
+
+Ustedes [permanecer]";"Ustedes permanecieron"
+"Indicativo
+Pretérito
+
+yo [permitir]";"yo permití"
+"Indicativo
+Pretérito
+
+tú [permitir]";"tú permitiste"
+"Indicativo
+Pretérito
+
+él [permitir]";"él permitió"
+"Indicativo
+Pretérito
+
+ella [permitir]";"ella permitió"
+"Indicativo
+Pretérito
+
+Usted [permitir]";"Usted permitió"
+"Indicativo
+Pretérito
+
+nosotros [permitir]";"nosotros permitimos"
+"Indicativo
+Pretérito
+
+nosotras [permitir]";"nosotras permitimos"
+"Indicativo
+Pretérito
+
+vosotros [permitir]";"vosotros permitisteis"
+"Indicativo
+Pretérito
+
+vosotras [permitir]";"vosotras permitisteis"
+"Indicativo
+Pretérito
+
+ellos [permitir]";"ellos permitieron"
+"Indicativo
+Pretérito
+
+ellas [permitir]";"ellas permitieron"
+"Indicativo
+Pretérito
+
+Ustedes [permitir]";"Ustedes permitieron"
+"Indicativo
+Pretérito
+
+yo [perseguir]";"yo perseguí"
+"Indicativo
+Pretérito
+
+tú [perseguir]";"tú perseguiste"
+"Indicativo
+Pretérito
+
+él [perseguir]";"él persiguió"
+"Indicativo
+Pretérito
+
+ella [perseguir]";"ella persiguió"
+"Indicativo
+Pretérito
+
+Usted [perseguir]";"Usted persiguió"
+"Indicativo
+Pretérito
+
+nosotros [perseguir]";"nosotros perseguimos"
+"Indicativo
+Pretérito
+
+nosotras [perseguir]";"nosotras perseguimos"
+"Indicativo
+Pretérito
+
+vosotros [perseguir]";"vosotros perseguisteis"
+"Indicativo
+Pretérito
+
+vosotras [perseguir]";"vosotras perseguisteis"
+"Indicativo
+Pretérito
+
+ellos [perseguir]";"ellos persiguieron"
+"Indicativo
+Pretérito
+
+ellas [perseguir]";"ellas persiguieron"
+"Indicativo
+Pretérito
+
+Ustedes [perseguir]";"Ustedes persiguieron"
+"Indicativo
+Pretérito
+
+yo [pertenecer]";"yo pertenecí"
+"Indicativo
+Pretérito
+
+tú [pertenecer]";"tú perteneciste"
+"Indicativo
+Pretérito
+
+él [pertenecer]";"él perteneció"
+"Indicativo
+Pretérito
+
+ella [pertenecer]";"ella perteneció"
+"Indicativo
+Pretérito
+
+Usted [pertenecer]";"Usted perteneció"
+"Indicativo
+Pretérito
+
+nosotros [pertenecer]";"nosotros pertenecimos"
+"Indicativo
+Pretérito
+
+nosotras [pertenecer]";"nosotras pertenecimos"
+"Indicativo
+Pretérito
+
+vosotros [pertenecer]";"vosotros pertenecisteis"
+"Indicativo
+Pretérito
+
+vosotras [pertenecer]";"vosotras pertenecisteis"
+"Indicativo
+Pretérito
+
+ellos [pertenecer]";"ellos pertenecieron"
+"Indicativo
+Pretérito
+
+ellas [pertenecer]";"ellas pertenecieron"
+"Indicativo
+Pretérito
+
+Ustedes [pertenecer]";"Ustedes pertenecieron"
+"Indicativo
+Pretérito
+
+yo [poder]";"yo pude"
+"Indicativo
+Pretérito
+
+tú [poder]";"tú pudiste"
+"Indicativo
+Pretérito
+
+él [poder]";"él pudo"
+"Indicativo
+Pretérito
+
+ella [poder]";"ella pudo"
+"Indicativo
+Pretérito
+
+Usted [poder]";"Usted pudo"
+"Indicativo
+Pretérito
+
+nosotros [poder]";"nosotros pudimos"
+"Indicativo
+Pretérito
+
+nosotras [poder]";"nosotras pudimos"
+"Indicativo
+Pretérito
+
+vosotros [poder]";"vosotros pudisteis"
+"Indicativo
+Pretérito
+
+vosotras [poder]";"vosotras pudisteis"
+"Indicativo
+Pretérito
+
+ellos [poder]";"ellos pudieron"
+"Indicativo
+Pretérito
+
+ellas [poder]";"ellas pudieron"
+"Indicativo
+Pretérito
+
+Ustedes [poder]";"Ustedes pudieron"
+"Indicativo
+Pretérito
+
+yo [poner]";"yo puse"
+"Indicativo
+Pretérito
+
+tú [poner]";"tú pusiste"
+"Indicativo
+Pretérito
+
+él [poner]";"él puso"
+"Indicativo
+Pretérito
+
+ella [poner]";"ella puso"
+"Indicativo
+Pretérito
+
+Usted [poner]";"Usted puso"
+"Indicativo
+Pretérito
+
+nosotros [poner]";"nosotros pusimos"
+"Indicativo
+Pretérito
+
+nosotras [poner]";"nosotras pusimos"
+"Indicativo
+Pretérito
+
+vosotros [poner]";"vosotros pusisteis"
+"Indicativo
+Pretérito
+
+vosotras [poner]";"vosotras pusisteis"
+"Indicativo
+Pretérito
+
+ellos [poner]";"ellos pusieron"
+"Indicativo
+Pretérito
+
+ellas [poner]";"ellas pusieron"
+"Indicativo
+Pretérito
+
+Ustedes [poner]";"Ustedes pusieron"
+"Indicativo
+Pretérito
+
+yo [predecir]";"yo predije"
+"Indicativo
+Pretérito
+
+tú [predecir]";"tú predijiste"
+"Indicativo
+Pretérito
+
+él [predecir]";"él predijo"
+"Indicativo
+Pretérito
+
+ella [predecir]";"ella predijo"
+"Indicativo
+Pretérito
+
+Usted [predecir]";"Usted predijo"
+"Indicativo
+Pretérito
+
+nosotros [predecir]";"nosotros predijimos"
+"Indicativo
+Pretérito
+
+nosotras [predecir]";"nosotras predijimos"
+"Indicativo
+Pretérito
+
+vosotros [predecir]";"vosotros predijisteis"
+"Indicativo
+Pretérito
+
+vosotras [predecir]";"vosotras predijisteis"
+"Indicativo
+Pretérito
+
+ellos [predecir]";"ellos predijeron"
+"Indicativo
+Pretérito
+
+ellas [predecir]";"ellas predijeron"
+"Indicativo
+Pretérito
+
+Ustedes [predecir]";"Ustedes predijeron"
+"Indicativo
+Pretérito
+
+yo [preferir]";"yo preferí"
+"Indicativo
+Pretérito
+
+tú [preferir]";"tú preferiste"
+"Indicativo
+Pretérito
+
+él [preferir]";"él prefirió"
+"Indicativo
+Pretérito
+
+ella [preferir]";"ella prefirió"
+"Indicativo
+Pretérito
+
+Usted [preferir]";"Usted prefirió"
+"Indicativo
+Pretérito
+
+nosotros [preferir]";"nosotros preferimos"
+"Indicativo
+Pretérito
+
+nosotras [preferir]";"nosotras preferimos"
+"Indicativo
+Pretérito
+
+vosotros [preferir]";"vosotros preferisteis"
+"Indicativo
+Pretérito
+
+vosotras [preferir]";"vosotras preferisteis"
+"Indicativo
+Pretérito
+
+ellos [preferir]";"ellos prefirieron"
+"Indicativo
+Pretérito
+
+ellas [preferir]";"ellas prefirieron"
+"Indicativo
+Pretérito
+
+Ustedes [preferir]";"Ustedes prefirieron"
+"Indicativo
+Pretérito
+
+yo [presentir]";"yo presentí"
+"Indicativo
+Pretérito
+
+tú [presentir]";"tú presentiste"
+"Indicativo
+Pretérito
+
+él [presentir]";"él presintió"
+"Indicativo
+Pretérito
+
+ella [presentir]";"ella presintió"
+"Indicativo
+Pretérito
+
+Usted [presentir]";"Usted presintió"
+"Indicativo
+Pretérito
+
+nosotros [presentir]";"nosotros presentimos"
+"Indicativo
+Pretérito
+
+nosotras [presentir]";"nosotras presentimos"
+"Indicativo
+Pretérito
+
+vosotros [presentir]";"vosotros presentisteis"
+"Indicativo
+Pretérito
+
+vosotras [presentir]";"vosotras presentisteis"
+"Indicativo
+Pretérito
+
+ellos [presentir]";"ellos presintieron"
+"Indicativo
+Pretérito
+
+ellas [presentir]";"ellas presintieron"
+"Indicativo
+Pretérito
+
+Ustedes [presentir]";"Ustedes presintieron"
+"Indicativo
+Pretérito
+
+yo [prever]";"yo preví"
+"Indicativo
+Pretérito
+
+tú [prever]";"tú previste"
+"Indicativo
+Pretérito
+
+él [prever]";"él previó"
+"Indicativo
+Pretérito
+
+ella [prever]";"ella previó"
+"Indicativo
+Pretérito
+
+Usted [prever]";"Usted previó"
+"Indicativo
+Pretérito
+
+nosotros [prever]";"nosotros previmos"
+"Indicativo
+Pretérito
+
+nosotras [prever]";"nosotras previmos"
+"Indicativo
+Pretérito
+
+vosotros [prever]";"vosotros previsteis"
+"Indicativo
+Pretérito
+
+vosotras [prever]";"vosotras previsteis"
+"Indicativo
+Pretérito
+
+ellos [prever]";"ellos previeron"
+"Indicativo
+Pretérito
+
+ellas [prever]";"ellas previeron"
+"Indicativo
+Pretérito
+
+Ustedes [prever]";"Ustedes previeron"
+"Indicativo
+Pretérito
+
+yo [producir]";"yo produje"
+"Indicativo
+Pretérito
+
+tú [producir]";"tú produjiste"
+"Indicativo
+Pretérito
+
+él [producir]";"él produjo"
+"Indicativo
+Pretérito
+
+ella [producir]";"ella produjo"
+"Indicativo
+Pretérito
+
+Usted [producir]";"Usted produjo"
+"Indicativo
+Pretérito
+
+nosotros [producir]";"nosotros produjimos"
+"Indicativo
+Pretérito
+
+nosotras [producir]";"nosotras produjimos"
+"Indicativo
+Pretérito
+
+vosotros [producir]";"vosotros produjisteis"
+"Indicativo
+Pretérito
+
+vosotras [producir]";"vosotras produjisteis"
+"Indicativo
+Pretérito
+
+ellos [producir]";"ellos produjeron"
+"Indicativo
+Pretérito
+
+ellas [producir]";"ellas produjeron"
+"Indicativo
+Pretérito
+
+Ustedes [producir]";"Ustedes produjeron"
+"Indicativo
+Pretérito
+
+yo [prohibir]";"yo prohibí"
+"Indicativo
+Pretérito
+
+tú [prohibir]";"tú prohibiste"
+"Indicativo
+Pretérito
+
+él [prohibir]";"él prohibió"
+"Indicativo
+Pretérito
+
+ella [prohibir]";"ella prohibió"
+"Indicativo
+Pretérito
+
+Usted [prohibir]";"Usted prohibió"
+"Indicativo
+Pretérito
+
+nosotros [prohibir]";"nosotros prohibimos"
+"Indicativo
+Pretérito
+
+nosotras [prohibir]";"nosotras prohibimos"
+"Indicativo
+Pretérito
+
+vosotros [prohibir]";"vosotros prohibisteis"
+"Indicativo
+Pretérito
+
+vosotras [prohibir]";"vosotras prohibisteis"
+"Indicativo
+Pretérito
+
+ellos [prohibir]";"ellos prohibieron"
+"Indicativo
+Pretérito
+
+ellas [prohibir]";"ellas prohibieron"
+"Indicativo
+Pretérito
+
+Ustedes [prohibir]";"Ustedes prohibieron"
+"Indicativo
+Pretérito
+
+yo [prometer]";"yo prometí"
+"Indicativo
+Pretérito
+
+tú [prometer]";"tú prometiste"
+"Indicativo
+Pretérito
+
+él [prometer]";"él prometió"
+"Indicativo
+Pretérito
+
+ella [prometer]";"ella prometió"
+"Indicativo
+Pretérito
+
+Usted [prometer]";"Usted prometió"
+"Indicativo
+Pretérito
+
+nosotros [prometer]";"nosotros prometimos"
+"Indicativo
+Pretérito
+
+nosotras [prometer]";"nosotras prometimos"
+"Indicativo
+Pretérito
+
+vosotros [prometer]";"vosotros prometisteis"
+"Indicativo
+Pretérito
+
+vosotras [prometer]";"vosotras prometisteis"
+"Indicativo
+Pretérito
+
+ellos [prometer]";"ellos prometieron"
+"Indicativo
+Pretérito
+
+ellas [prometer]";"ellas prometieron"
+"Indicativo
+Pretérito
+
+Ustedes [prometer]";"Ustedes prometieron"
+"Indicativo
+Pretérito
+
+yo [proponer]";"yo propuse"
+"Indicativo
+Pretérito
+
+tú [proponer]";"tú propusiste"
+"Indicativo
+Pretérito
+
+él [proponer]";"él propuso"
+"Indicativo
+Pretérito
+
+ella [proponer]";"ella propuso"
+"Indicativo
+Pretérito
+
+Usted [proponer]";"Usted propuso"
+"Indicativo
+Pretérito
+
+nosotros [proponer]";"nosotros propusimos"
+"Indicativo
+Pretérito
+
+nosotras [proponer]";"nosotras propusimos"
+"Indicativo
+Pretérito
+
+vosotros [proponer]";"vosotros propusisteis"
+"Indicativo
+Pretérito
+
+vosotras [proponer]";"vosotras propusisteis"
+"Indicativo
+Pretérito
+
+ellos [proponer]";"ellos propusieron"
+"Indicativo
+Pretérito
+
+ellas [proponer]";"ellas propusieron"
+"Indicativo
+Pretérito
+
+Ustedes [proponer]";"Ustedes propusieron"
+"Indicativo
+Pretérito
+
+yo [proseguir]";"yo proseguí"
+"Indicativo
+Pretérito
+
+tú [proseguir]";"tú proseguiste"
+"Indicativo
+Pretérito
+
+él [proseguir]";"él prosiguió"
+"Indicativo
+Pretérito
+
+ella [proseguir]";"ella prosiguió"
+"Indicativo
+Pretérito
+
+Usted [proseguir]";"Usted prosiguió"
+"Indicativo
+Pretérito
+
+nosotros [proseguir]";"nosotros proseguimos"
+"Indicativo
+Pretérito
+
+nosotras [proseguir]";"nosotras proseguimos"
+"Indicativo
+Pretérito
+
+vosotros [proseguir]";"vosotros proseguisteis"
+"Indicativo
+Pretérito
+
+vosotras [proseguir]";"vosotras proseguisteis"
+"Indicativo
+Pretérito
+
+ellos [proseguir]";"ellos prosiguieron"
+"Indicativo
+Pretérito
+
+ellas [proseguir]";"ellas prosiguieron"
+"Indicativo
+Pretérito
+
+Ustedes [proseguir]";"Ustedes prosiguieron"
+"Indicativo
+Pretérito
+
+yo [proteger]";"yo protegí"
+"Indicativo
+Pretérito
+
+tú [proteger]";"tú protegiste"
+"Indicativo
+Pretérito
+
+él [proteger]";"él protegió"
+"Indicativo
+Pretérito
+
+ella [proteger]";"ella protegió"
+"Indicativo
+Pretérito
+
+Usted [proteger]";"Usted protegió"
+"Indicativo
+Pretérito
+
+nosotros [proteger]";"nosotros protegimos"
+"Indicativo
+Pretérito
+
+nosotras [proteger]";"nosotras protegimos"
+"Indicativo
+Pretérito
+
+vosotros [proteger]";"vosotros protegisteis"
+"Indicativo
+Pretérito
+
+vosotras [proteger]";"vosotras protegisteis"
+"Indicativo
+Pretérito
+
+ellos [proteger]";"ellos protegieron"
+"Indicativo
+Pretérito
+
+ellas [proteger]";"ellas protegieron"
+"Indicativo
+Pretérito
+
+Ustedes [proteger]";"Ustedes protegieron"
+"Indicativo
+Pretérito
+
+yo [querer]";"yo quise"
+"Indicativo
+Pretérito
+
+tú [querer]";"tú quisiste"
+"Indicativo
+Pretérito
+
+él [querer]";"él quiso"
+"Indicativo
+Pretérito
+
+ella [querer]";"ella quiso"
+"Indicativo
+Pretérito
+
+Usted [querer]";"Usted quiso"
+"Indicativo
+Pretérito
+
+nosotros [querer]";"nosotros quisimos"
+"Indicativo
+Pretérito
+
+nosotras [querer]";"nosotras quisimos"
+"Indicativo
+Pretérito
+
+vosotros [querer]";"vosotros quisisteis"
+"Indicativo
+Pretérito
+
+vosotras [querer]";"vosotras quisisteis"
+"Indicativo
+Pretérito
+
+ellos [querer]";"ellos quisieron"
+"Indicativo
+Pretérito
+
+ellas [querer]";"ellas quisieron"
+"Indicativo
+Pretérito
+
+Ustedes [querer]";"Ustedes quisieron"
+"Indicativo
+Pretérito
+
+yo [recibir]";"yo recibí"
+"Indicativo
+Pretérito
+
+tú [recibir]";"tú recibiste"
+"Indicativo
+Pretérito
+
+él [recibir]";"él recibió"
+"Indicativo
+Pretérito
+
+ella [recibir]";"ella recibió"
+"Indicativo
+Pretérito
+
+Usted [recibir]";"Usted recibió"
+"Indicativo
+Pretérito
+
+nosotros [recibir]";"nosotros recibimos"
+"Indicativo
+Pretérito
+
+nosotras [recibir]";"nosotras recibimos"
+"Indicativo
+Pretérito
+
+vosotros [recibir]";"vosotros recibisteis"
+"Indicativo
+Pretérito
+
+vosotras [recibir]";"vosotras recibisteis"
+"Indicativo
+Pretérito
+
+ellos [recibir]";"ellos recibieron"
+"Indicativo
+Pretérito
+
+ellas [recibir]";"ellas recibieron"
+"Indicativo
+Pretérito
+
+Ustedes [recibir]";"Ustedes recibieron"
+"Indicativo
+Pretérito
+
+yo [recoger]";"yo recogí"
+"Indicativo
+Pretérito
+
+tú [recoger]";"tú recogiste"
+"Indicativo
+Pretérito
+
+él [recoger]";"él recogió"
+"Indicativo
+Pretérito
+
+ella [recoger]";"ella recogió"
+"Indicativo
+Pretérito
+
+Usted [recoger]";"Usted recogió"
+"Indicativo
+Pretérito
+
+nosotros [recoger]";"nosotros recogimos"
+"Indicativo
+Pretérito
+
+nosotras [recoger]";"nosotras recogimos"
+"Indicativo
+Pretérito
+
+vosotros [recoger]";"vosotros recogisteis"
+"Indicativo
+Pretérito
+
+vosotras [recoger]";"vosotras recogisteis"
+"Indicativo
+Pretérito
+
+ellos [recoger]";"ellos recogieron"
+"Indicativo
+Pretérito
+
+ellas [recoger]";"ellas recogieron"
+"Indicativo
+Pretérito
+
+Ustedes [recoger]";"Ustedes recogieron"
+"Indicativo
+Pretérito
+
+yo [reconocer]";"yo reconocí"
+"Indicativo
+Pretérito
+
+tú [reconocer]";"tú reconociste"
+"Indicativo
+Pretérito
+
+él [reconocer]";"él reconoció"
+"Indicativo
+Pretérito
+
+ella [reconocer]";"ella reconoció"
+"Indicativo
+Pretérito
+
+Usted [reconocer]";"Usted reconoció"
+"Indicativo
+Pretérito
+
+nosotros [reconocer]";"nosotros reconocimos"
+"Indicativo
+Pretérito
+
+nosotras [reconocer]";"nosotras reconocimos"
+"Indicativo
+Pretérito
+
+vosotros [reconocer]";"vosotros reconocisteis"
+"Indicativo
+Pretérito
+
+vosotras [reconocer]";"vosotras reconocisteis"
+"Indicativo
+Pretérito
+
+ellos [reconocer]";"ellos reconocieron"
+"Indicativo
+Pretérito
+
+ellas [reconocer]";"ellas reconocieron"
+"Indicativo
+Pretérito
+
+Ustedes [reconocer]";"Ustedes reconocieron"
+"Indicativo
+Pretérito
+
+yo [reducir]";"yo reduje"
+"Indicativo
+Pretérito
+
+tú [reducir]";"tú redujiste"
+"Indicativo
+Pretérito
+
+él [reducir]";"él redujo"
+"Indicativo
+Pretérito
+
+ella [reducir]";"ella redujo"
+"Indicativo
+Pretérito
+
+Usted [reducir]";"Usted redujo"
+"Indicativo
+Pretérito
+
+nosotros [reducir]";"nosotros redujimos"
+"Indicativo
+Pretérito
+
+nosotras [reducir]";"nosotras redujimos"
+"Indicativo
+Pretérito
+
+vosotros [reducir]";"vosotros redujisteis"
+"Indicativo
+Pretérito
+
+vosotras [reducir]";"vosotras redujisteis"
+"Indicativo
+Pretérito
+
+ellos [reducir]";"ellos redujeron"
+"Indicativo
+Pretérito
+
+ellas [reducir]";"ellas redujeron"
+"Indicativo
+Pretérito
+
+Ustedes [reducir]";"Ustedes redujeron"
+"Indicativo
+Pretérito
+
+yo [regir]";"yo regí"
+"Indicativo
+Pretérito
+
+tú [regir]";"tú registe"
+"Indicativo
+Pretérito
+
+él [regir]";"él rigió"
+"Indicativo
+Pretérito
+
+ella [regir]";"ella rigió"
+"Indicativo
+Pretérito
+
+Usted [regir]";"Usted rigió"
+"Indicativo
+Pretérito
+
+nosotros [regir]";"nosotros regimos"
+"Indicativo
+Pretérito
+
+nosotras [regir]";"nosotras regimos"
+"Indicativo
+Pretérito
+
+vosotros [regir]";"vosotros registeis"
+"Indicativo
+Pretérito
+
+vosotras [regir]";"vosotras registeis"
+"Indicativo
+Pretérito
+
+ellos [regir]";"ellos rigieron"
+"Indicativo
+Pretérito
+
+ellas [regir]";"ellas rigieron"
+"Indicativo
+Pretérito
+
+Ustedes [regir]";"Ustedes rigieron"
+"Indicativo
+Pretérito
+
+yo [renacer]";"yo renací"
+"Indicativo
+Pretérito
+
+tú [renacer]";"tú renaciste"
+"Indicativo
+Pretérito
+
+él [renacer]";"él renació"
+"Indicativo
+Pretérito
+
+ella [renacer]";"ella renació"
+"Indicativo
+Pretérito
+
+Usted [renacer]";"Usted renació"
+"Indicativo
+Pretérito
+
+nosotros [renacer]";"nosotros renacimos"
+"Indicativo
+Pretérito
+
+nosotras [renacer]";"nosotras renacimos"
+"Indicativo
+Pretérito
+
+vosotros [renacer]";"vosotros renacisteis"
+"Indicativo
+Pretérito
+
+vosotras [renacer]";"vosotras renacisteis"
+"Indicativo
+Pretérito
+
+ellos [renacer]";"ellos renacieron"
+"Indicativo
+Pretérito
+
+ellas [renacer]";"ellas renacieron"
+"Indicativo
+Pretérito
+
+Ustedes [renacer]";"Ustedes renacieron"
+"Indicativo
+Pretérito
+
+yo [reñir]";"yo reñí"
+"Indicativo
+Pretérito
+
+tú [reñir]";"tú reñiste"
+"Indicativo
+Pretérito
+
+él [reñir]";"él riñó"
+"Indicativo
+Pretérito
+
+ella [reñir]";"ella riñó"
+"Indicativo
+Pretérito
+
+Usted [reñir]";"Usted riñó"
+"Indicativo
+Pretérito
+
+nosotros [reñir]";"nosotros reñimos"
+"Indicativo
+Pretérito
+
+nosotras [reñir]";"nosotras reñimos"
+"Indicativo
+Pretérito
+
+vosotros [reñir]";"vosotros reñisteis"
+"Indicativo
+Pretérito
+
+vosotras [reñir]";"vosotras reñisteis"
+"Indicativo
+Pretérito
+
+ellos [reñir]";"ellos riñeron"
+"Indicativo
+Pretérito
+
+ellas [reñir]";"ellas riñeron"
+"Indicativo
+Pretérito
+
+Ustedes [reñir]";"Ustedes riñeron"
+"Indicativo
+Pretérito
+
+yo [repetir]";"yo repetí"
+"Indicativo
+Pretérito
+
+tú [repetir]";"tú repetiste"
+"Indicativo
+Pretérito
+
+él [repetir]";"él repitió"
+"Indicativo
+Pretérito
+
+ella [repetir]";"ella repitió"
+"Indicativo
+Pretérito
+
+Usted [repetir]";"Usted repitió"
+"Indicativo
+Pretérito
+
+nosotros [repetir]";"nosotros repetimos"
+"Indicativo
+Pretérito
+
+nosotras [repetir]";"nosotras repetimos"
+"Indicativo
+Pretérito
+
+vosotros [repetir]";"vosotros repetisteis"
+"Indicativo
+Pretérito
+
+vosotras [repetir]";"vosotras repetisteis"
+"Indicativo
+Pretérito
+
+ellos [repetir]";"ellos repitieron"
+"Indicativo
+Pretérito
+
+ellas [repetir]";"ellas repitieron"
+"Indicativo
+Pretérito
+
+Ustedes [repetir]";"Ustedes repitieron"
+"Indicativo
+Pretérito
+
+yo [requerir]";"yo requerí"
+"Indicativo
+Pretérito
+
+tú [requerir]";"tú requeriste"
+"Indicativo
+Pretérito
+
+él [requerir]";"él requirió"
+"Indicativo
+Pretérito
+
+ella [requerir]";"ella requirió"
+"Indicativo
+Pretérito
+
+Usted [requerir]";"Usted requirió"
+"Indicativo
+Pretérito
+
+nosotros [requerir]";"nosotros requerimos"
+"Indicativo
+Pretérito
+
+nosotras [requerir]";"nosotras requerimos"
+"Indicativo
+Pretérito
+
+vosotros [requerir]";"vosotros requeristeis"
+"Indicativo
+Pretérito
+
+vosotras [requerir]";"vosotras requeristeis"
+"Indicativo
+Pretérito
+
+ellos [requerir]";"ellos requirieron"
+"Indicativo
+Pretérito
+
+ellas [requerir]";"ellas requirieron"
+"Indicativo
+Pretérito
+
+Ustedes [requerir]";"Ustedes requirieron"
+"Indicativo
+Pretérito
+
+yo [resolver]";"yo resolví"
+"Indicativo
+Pretérito
+
+tú [resolver]";"tú resolviste"
+"Indicativo
+Pretérito
+
+él [resolver]";"él resolvió"
+"Indicativo
+Pretérito
+
+ella [resolver]";"ella resolvió"
+"Indicativo
+Pretérito
+
+Usted [resolver]";"Usted resolvió"
+"Indicativo
+Pretérito
+
+nosotros [resolver]";"nosotros resolvimos"
+"Indicativo
+Pretérito
+
+nosotras [resolver]";"nosotras resolvimos"
+"Indicativo
+Pretérito
+
+vosotros [resolver]";"vosotros resolvisteis"
+"Indicativo
+Pretérito
+
+vosotras [resolver]";"vosotras resolvisteis"
+"Indicativo
+Pretérito
+
+ellos [resolver]";"ellos resolvieron"
+"Indicativo
+Pretérito
+
+ellas [resolver]";"ellas resolvieron"
+"Indicativo
+Pretérito
+
+Ustedes [resolver]";"Ustedes resolvieron"
+"Indicativo
+Pretérito
+
+yo [responder]";"yo respondí"
+"Indicativo
+Pretérito
+
+tú [responder]";"tú respondiste"
+"Indicativo
+Pretérito
+
+él [responder]";"él respondió"
+"Indicativo
+Pretérito
+
+ella [responder]";"ella respondió"
+"Indicativo
+Pretérito
+
+Usted [responder]";"Usted respondió"
+"Indicativo
+Pretérito
+
+nosotros [responder]";"nosotros respondimos"
+"Indicativo
+Pretérito
+
+nosotras [responder]";"nosotras respondimos"
+"Indicativo
+Pretérito
+
+vosotros [responder]";"vosotros respondisteis"
+"Indicativo
+Pretérito
+
+vosotras [responder]";"vosotras respondisteis"
+"Indicativo
+Pretérito
+
+ellos [responder]";"ellos respondieron"
+"Indicativo
+Pretérito
+
+ellas [responder]";"ellas respondieron"
+"Indicativo
+Pretérito
+
+Ustedes [responder]";"Ustedes respondieron"
+"Indicativo
+Pretérito
+
+yo [romper]";"yo rompí"
+"Indicativo
+Pretérito
+
+tú [romper]";"tú rompiste"
+"Indicativo
+Pretérito
+
+él [romper]";"él rompió"
+"Indicativo
+Pretérito
+
+ella [romper]";"ella rompió"
+"Indicativo
+Pretérito
+
+Usted [romper]";"Usted rompió"
+"Indicativo
+Pretérito
+
+nosotros [romper]";"nosotros rompimos"
+"Indicativo
+Pretérito
+
+nosotras [romper]";"nosotras rompimos"
+"Indicativo
+Pretérito
+
+vosotros [romper]";"vosotros rompisteis"
+"Indicativo
+Pretérito
+
+vosotras [romper]";"vosotras rompisteis"
+"Indicativo
+Pretérito
+
+ellos [romper]";"ellos rompieron"
+"Indicativo
+Pretérito
+
+ellas [romper]";"ellas rompieron"
+"Indicativo
+Pretérito
+
+Ustedes [romper]";"Ustedes rompieron"
+"Indicativo
+Pretérito
+
+yo [saber]";"yo supe"
+"Indicativo
+Pretérito
+
+tú [saber]";"tú supiste"
+"Indicativo
+Pretérito
+
+él [saber]";"él supo"
+"Indicativo
+Pretérito
+
+ella [saber]";"ella supo"
+"Indicativo
+Pretérito
+
+Usted [saber]";"Usted supo"
+"Indicativo
+Pretérito
+
+nosotros [saber]";"nosotros supimos"
+"Indicativo
+Pretérito
+
+nosotras [saber]";"nosotras supimos"
+"Indicativo
+Pretérito
+
+vosotros [saber]";"vosotros supisteis"
+"Indicativo
+Pretérito
+
+vosotras [saber]";"vosotras supisteis"
+"Indicativo
+Pretérito
+
+ellos [saber]";"ellos supieron"
+"Indicativo
+Pretérito
+
+ellas [saber]";"ellas supieron"
+"Indicativo
+Pretérito
+
+Ustedes [saber]";"Ustedes supieron"
+"Indicativo
+Pretérito
+
+yo [sacudir]";"yo sacudí"
+"Indicativo
+Pretérito
+
+tú [sacudir]";"tú sacudiste"
+"Indicativo
+Pretérito
+
+él [sacudir]";"él sacudió"
+"Indicativo
+Pretérito
+
+ella [sacudir]";"ella sacudió"
+"Indicativo
+Pretérito
+
+Usted [sacudir]";"Usted sacudió"
+"Indicativo
+Pretérito
+
+nosotros [sacudir]";"nosotros sacudimos"
+"Indicativo
+Pretérito
+
+nosotras [sacudir]";"nosotras sacudimos"
+"Indicativo
+Pretérito
+
+vosotros [sacudir]";"vosotros sacudisteis"
+"Indicativo
+Pretérito
+
+vosotras [sacudir]";"vosotras sacudisteis"
+"Indicativo
+Pretérito
+
+ellos [sacudir]";"ellos sacudieron"
+"Indicativo
+Pretérito
+
+ellas [sacudir]";"ellas sacudieron"
+"Indicativo
+Pretérito
+
+Ustedes [sacudir]";"Ustedes sacudieron"
+"Indicativo
+Pretérito
+
+yo [salir]";"yo salí"
+"Indicativo
+Pretérito
+
+tú [salir]";"tú saliste"
+"Indicativo
+Pretérito
+
+él [salir]";"él salió"
+"Indicativo
+Pretérito
+
+ella [salir]";"ella salió"
+"Indicativo
+Pretérito
+
+Usted [salir]";"Usted salió"
+"Indicativo
+Pretérito
+
+nosotros [salir]";"nosotros salimos"
+"Indicativo
+Pretérito
+
+nosotras [salir]";"nosotras salimos"
+"Indicativo
+Pretérito
+
+vosotros [salir]";"vosotros salisteis"
+"Indicativo
+Pretérito
+
+vosotras [salir]";"vosotras salisteis"
+"Indicativo
+Pretérito
+
+ellos [salir]";"ellos salieron"
+"Indicativo
+Pretérito
+
+ellas [salir]";"ellas salieron"
+"Indicativo
+Pretérito
+
+Ustedes [salir]";"Ustedes salieron"
+"Indicativo
+Pretérito
+
+yo [sugerir]";"yo sugerí"
+"Indicativo
+Pretérito
+
+tú [sugerir]";"tú sugeriste"
+"Indicativo
+Pretérito
+
+él [sugerir]";"él sugirió"
+"Indicativo
+Pretérito
+
+ella [sugerir]";"ella sugirió"
+"Indicativo
+Pretérito
+
+Usted [sugerir]";"Usted sugirió"
+"Indicativo
+Pretérito
+
+nosotros [sugerir]";"nosotros sugerimos"
+"Indicativo
+Pretérito
+
+nosotras [sugerir]";"nosotras sugerimos"
+"Indicativo
+Pretérito
+
+vosotros [sugerir]";"vosotros sugeristeis"
+"Indicativo
+Pretérito
+
+vosotras [sugerir]";"vosotras sugeristeis"
+"Indicativo
+Pretérito
+
+ellos [sugerir]";"ellos sugirieron"
+"Indicativo
+Pretérito
+
+ellas [sugerir]";"ellas sugirieron"
+"Indicativo
+Pretérito
+
+Ustedes [sugerir]";"Ustedes sugirieron"
+"Indicativo
+Pretérito
+
+yo [satisfacer]";"yo satisfice"
+"Indicativo
+Pretérito
+
+tú [satisfacer]";"tú satisficiste"
+"Indicativo
+Pretérito
+
+él [satisfacer]";"él satisfizo"
+"Indicativo
+Pretérito
+
+ella [satisfacer]";"ella satisfizo"
+"Indicativo
+Pretérito
+
+Usted [satisfacer]";"Usted satisfizo"
+"Indicativo
+Pretérito
+
+nosotros [satisfacer]";"nosotros satisficimos"
+"Indicativo
+Pretérito
+
+nosotras [satisfacer]";"nosotras satisficimos"
+"Indicativo
+Pretérito
+
+vosotros [satisfacer]";"vosotros satisficisteis"
+"Indicativo
+Pretérito
+
+vosotras [satisfacer]";"vosotras satisficisteis"
+"Indicativo
+Pretérito
+
+ellos [satisfacer]";"ellos satisficieron"
+"Indicativo
+Pretérito
+
+ellas [satisfacer]";"ellas satisficieron"
+"Indicativo
+Pretérito
+
+Ustedes [satisfacer]";"Ustedes satisficieron"
+"Indicativo
+Pretérito
+
+yo [seguir]";"yo seguí"
+"Indicativo
+Pretérito
+
+tú [seguir]";"tú seguiste"
+"Indicativo
+Pretérito
+
+él [seguir]";"él siguió"
+"Indicativo
+Pretérito
+
+ella [seguir]";"ella siguió"
+"Indicativo
+Pretérito
+
+Usted [seguir]";"Usted siguió"
+"Indicativo
+Pretérito
+
+nosotros [seguir]";"nosotros seguimos"
+"Indicativo
+Pretérito
+
+nosotras [seguir]";"nosotras seguimos"
+"Indicativo
+Pretérito
+
+vosotros [seguir]";"vosotros seguisteis"
+"Indicativo
+Pretérito
+
+vosotras [seguir]";"vosotras seguisteis"
+"Indicativo
+Pretérito
+
+ellos [seguir]";"ellos siguieron"
+"Indicativo
+Pretérito
+
+ellas [seguir]";"ellas siguieron"
+"Indicativo
+Pretérito
+
+Ustedes [seguir]";"Ustedes siguieron"
+"Indicativo
+Pretérito
+
+yo [sentir]";"yo sentí"
+"Indicativo
+Pretérito
+
+tú [sentir]";"tú sentiste"
+"Indicativo
+Pretérito
+
+él [sentir]";"él sintió"
+"Indicativo
+Pretérito
+
+ella [sentir]";"ella sintió"
+"Indicativo
+Pretérito
+
+Usted [sentir]";"Usted sintió"
+"Indicativo
+Pretérito
+
+nosotros [sentir]";"nosotros sentimos"
+"Indicativo
+Pretérito
+
+nosotras [sentir]";"nosotras sentimos"
+"Indicativo
+Pretérito
+
+vosotros [sentir]";"vosotros sentisteis"
+"Indicativo
+Pretérito
+
+vosotras [sentir]";"vosotras sentisteis"
+"Indicativo
+Pretérito
+
+ellos [sentir]";"ellos sintieron"
+"Indicativo
+Pretérito
+
+ellas [sentir]";"ellas sintieron"
+"Indicativo
+Pretérito
+
+Ustedes [sentir]";"Ustedes sintieron"
+"Indicativo
+Pretérito
+
+yo [ser]";"yo fui"
+"Indicativo
+Pretérito
+
+tú [ser]";"tú fuiste"
+"Indicativo
+Pretérito
+
+él [ser]";"él fue"
+"Indicativo
+Pretérito
+
+ella [ser]";"ella fue"
+"Indicativo
+Pretérito
+
+Usted [ser]";"Usted fue"
+"Indicativo
+Pretérito
+
+nosotros [ser]";"nosotros fuimos"
+"Indicativo
+Pretérito
+
+nosotras [ser]";"nosotras fuimos"
+"Indicativo
+Pretérito
+
+vosotros [ser]";"vosotros fuisteis"
+"Indicativo
+Pretérito
+
+vosotras [ser]";"vosotras fuisteis"
+"Indicativo
+Pretérito
+
+ellos [ser]";"ellos fueron"
+"Indicativo
+Pretérito
+
+ellas [ser]";"ellas fueron"
+"Indicativo
+Pretérito
+
+Ustedes [ser]";"Ustedes fueron"
+"Indicativo
+Pretérito
+
+yo [servir]";"yo serví"
+"Indicativo
+Pretérito
+
+tú [servir]";"tú serviste"
+"Indicativo
+Pretérito
+
+él [servir]";"él sirvió"
+"Indicativo
+Pretérito
+
+ella [servir]";"ella sirvió"
+"Indicativo
+Pretérito
+
+Usted [servir]";"Usted sirvió"
+"Indicativo
+Pretérito
+
+nosotros [servir]";"nosotros servimos"
+"Indicativo
+Pretérito
+
+nosotras [servir]";"nosotras servimos"
+"Indicativo
+Pretérito
+
+vosotros [servir]";"vosotros servisteis"
+"Indicativo
+Pretérito
+
+vosotras [servir]";"vosotras servisteis"
+"Indicativo
+Pretérito
+
+ellos [servir]";"ellos sirvieron"
+"Indicativo
+Pretérito
+
+ellas [servir]";"ellas sirvieron"
+"Indicativo
+Pretérito
+
+Ustedes [servir]";"Ustedes sirvieron"
+"Indicativo
+Pretérito
+
+yo [sobrevivir]";"yo sobreviví"
+"Indicativo
+Pretérito
+
+tú [sobrevivir]";"tú sobreviviste"
+"Indicativo
+Pretérito
+
+él [sobrevivir]";"él sobrevivió"
+"Indicativo
+Pretérito
+
+ella [sobrevivir]";"ella sobrevivió"
+"Indicativo
+Pretérito
+
+Usted [sobrevivir]";"Usted sobrevivió"
+"Indicativo
+Pretérito
+
+nosotros [sobrevivir]";"nosotros sobrevivimos"
+"Indicativo
+Pretérito
+
+nosotras [sobrevivir]";"nosotras sobrevivimos"
+"Indicativo
+Pretérito
+
+vosotros [sobrevivir]";"vosotros sobrevivisteis"
+"Indicativo
+Pretérito
+
+vosotras [sobrevivir]";"vosotras sobrevivisteis"
+"Indicativo
+Pretérito
+
+ellos [sobrevivir]";"ellos sobrevivieron"
+"Indicativo
+Pretérito
+
+ellas [sobrevivir]";"ellas sobrevivieron"
+"Indicativo
+Pretérito
+
+Ustedes [sobrevivir]";"Ustedes sobrevivieron"
+"Indicativo
+Pretérito
+
+yo [soler]";"yo solí"
+"Indicativo
+Pretérito
+
+tú [soler]";"tú soliste"
+"Indicativo
+Pretérito
+
+él [soler]";"él solió"
+"Indicativo
+Pretérito
+
+ella [soler]";"ella solió"
+"Indicativo
+Pretérito
+
+Usted [soler]";"Usted solió"
+"Indicativo
+Pretérito
+
+nosotros [soler]";"nosotros solimos"
+"Indicativo
+Pretérito
+
+nosotras [soler]";"nosotras solimos"
+"Indicativo
+Pretérito
+
+vosotros [soler]";"vosotros solisteis"
+"Indicativo
+Pretérito
+
+vosotras [soler]";"vosotras solisteis"
+"Indicativo
+Pretérito
+
+ellos [soler]";"ellos solieron"
+"Indicativo
+Pretérito
+
+ellas [soler]";"ellas solieron"
+"Indicativo
+Pretérito
+
+Ustedes [soler]";"Ustedes solieron"
+"Indicativo
+Pretérito
+
+yo [sorprender]";"yo sorprendí"
+"Indicativo
+Pretérito
+
+tú [sorprender]";"tú sorprendiste"
+"Indicativo
+Pretérito
+
+él [sorprender]";"él sorprendió"
+"Indicativo
+Pretérito
+
+ella [sorprender]";"ella sorprendió"
+"Indicativo
+Pretérito
+
+Usted [sorprender]";"Usted sorprendió"
+"Indicativo
+Pretérito
+
+nosotros [sorprender]";"nosotros sorprendimos"
+"Indicativo
+Pretérito
+
+nosotras [sorprender]";"nosotras sorprendimos"
+"Indicativo
+Pretérito
+
+vosotros [sorprender]";"vosotros sorprendisteis"
+"Indicativo
+Pretérito
+
+vosotras [sorprender]";"vosotras sorprendisteis"
+"Indicativo
+Pretérito
+
+ellos [sorprender]";"ellos sorprendieron"
+"Indicativo
+Pretérito
+
+ellas [sorprender]";"ellas sorprendieron"
+"Indicativo
+Pretérito
+
+Ustedes [sorprender]";"Ustedes sorprendieron"
+"Indicativo
+Pretérito
+
+yo [subir]";"yo subí"
+"Indicativo
+Pretérito
+
+tú [subir]";"tú subiste"
+"Indicativo
+Pretérito
+
+él [subir]";"él subió"
+"Indicativo
+Pretérito
+
+ella [subir]";"ella subió"
+"Indicativo
+Pretérito
+
+Usted [subir]";"Usted subió"
+"Indicativo
+Pretérito
+
+nosotros [subir]";"nosotros subimos"
+"Indicativo
+Pretérito
+
+nosotras [subir]";"nosotras subimos"
+"Indicativo
+Pretérito
+
+vosotros [subir]";"vosotros subisteis"
+"Indicativo
+Pretérito
+
+vosotras [subir]";"vosotras subisteis"
+"Indicativo
+Pretérito
+
+ellos [subir]";"ellos subieron"
+"Indicativo
+Pretérito
+
+ellas [subir]";"ellas subieron"
+"Indicativo
+Pretérito
+
+Ustedes [subir]";"Ustedes subieron"
+"Indicativo
+Pretérito
+
+yo [suceder]";"yo sucedí"
+"Indicativo
+Pretérito
+
+tú [suceder]";"tú sucediste"
+"Indicativo
+Pretérito
+
+él [suceder]";"él sucedió"
+"Indicativo
+Pretérito
+
+ella [suceder]";"ella sucedió"
+"Indicativo
+Pretérito
+
+Usted [suceder]";"Usted sucedió"
+"Indicativo
+Pretérito
+
+nosotros [suceder]";"nosotros sucedimos"
+"Indicativo
+Pretérito
+
+nosotras [suceder]";"nosotras sucedimos"
+"Indicativo
+Pretérito
+
+vosotros [suceder]";"vosotros sucedisteis"
+"Indicativo
+Pretérito
+
+vosotras [suceder]";"vosotras sucedisteis"
+"Indicativo
+Pretérito
+
+ellos [suceder]";"ellos sucedieron"
+"Indicativo
+Pretérito
+
+ellas [suceder]";"ellas sucedieron"
+"Indicativo
+Pretérito
+
+Ustedes [suceder]";"Ustedes sucedieron"
+"Indicativo
+Pretérito
+
+yo [sufrir]";"yo sufrí"
+"Indicativo
+Pretérito
+
+tú [sufrir]";"tú sufriste"
+"Indicativo
+Pretérito
+
+él [sufrir]";"él sufrió"
+"Indicativo
+Pretérito
+
+ella [sufrir]";"ella sufrió"
+"Indicativo
+Pretérito
+
+Usted [sufrir]";"Usted sufrió"
+"Indicativo
+Pretérito
+
+nosotros [sufrir]";"nosotros sufrimos"
+"Indicativo
+Pretérito
+
+nosotras [sufrir]";"nosotras sufrimos"
+"Indicativo
+Pretérito
+
+vosotros [sufrir]";"vosotros sufristeis"
+"Indicativo
+Pretérito
+
+vosotras [sufrir]";"vosotras sufristeis"
+"Indicativo
+Pretérito
+
+ellos [sufrir]";"ellos sufrieron"
+"Indicativo
+Pretérito
+
+ellas [sufrir]";"ellas sufrieron"
+"Indicativo
+Pretérito
+
+Ustedes [sufrir]";"Ustedes sufrieron"
+"Indicativo
+Pretérito
+
+yo [suponer]";"yo supuse"
+"Indicativo
+Pretérito
+
+tú [suponer]";"tú supusiste"
+"Indicativo
+Pretérito
+
+él [suponer]";"él supuso"
+"Indicativo
+Pretérito
+
+ella [suponer]";"ella supuso"
+"Indicativo
+Pretérito
+
+Usted [suponer]";"Usted supuso"
+"Indicativo
+Pretérito
+
+nosotros [suponer]";"nosotros supusimos"
+"Indicativo
+Pretérito
+
+nosotras [suponer]";"nosotras supusimos"
+"Indicativo
+Pretérito
+
+vosotros [suponer]";"vosotros supusisteis"
+"Indicativo
+Pretérito
+
+vosotras [suponer]";"vosotras supusisteis"
+"Indicativo
+Pretérito
+
+ellos [suponer]";"ellos supusieron"
+"Indicativo
+Pretérito
+
+ellas [suponer]";"ellas supusieron"
+"Indicativo
+Pretérito
+
+Ustedes [suponer]";"Ustedes supusieron"
+"Indicativo
+Pretérito
+
+yo [surgir]";"yo surgí"
+"Indicativo
+Pretérito
+
+tú [surgir]";"tú surgiste"
+"Indicativo
+Pretérito
+
+él [surgir]";"él surgió"
+"Indicativo
+Pretérito
+
+ella [surgir]";"ella surgió"
+"Indicativo
+Pretérito
+
+Usted [surgir]";"Usted surgió"
+"Indicativo
+Pretérito
+
+nosotros [surgir]";"nosotros surgimos"
+"Indicativo
+Pretérito
+
+nosotras [surgir]";"nosotras surgimos"
+"Indicativo
+Pretérito
+
+vosotros [surgir]";"vosotros surgisteis"
+"Indicativo
+Pretérito
+
+vosotras [surgir]";"vosotras surgisteis"
+"Indicativo
+Pretérito
+
+ellos [surgir]";"ellos surgieron"
+"Indicativo
+Pretérito
+
+ellas [surgir]";"ellas surgieron"
+"Indicativo
+Pretérito
+
+Ustedes [surgir]";"Ustedes surgieron"
+"Indicativo
+Pretérito
+
+yo [sustituir]";"yo sustituí"
+"Indicativo
+Pretérito
+
+tú [sustituir]";"tú sustituiste"
+"Indicativo
+Pretérito
+
+él [sustituir]";"él sustituyó"
+"Indicativo
+Pretérito
+
+ella [sustituir]";"ella sustituyó"
+"Indicativo
+Pretérito
+
+Usted [sustituir]";"Usted sustituyó"
+"Indicativo
+Pretérito
+
+nosotros [sustituir]";"nosotros sustituimos"
+"Indicativo
+Pretérito
+
+nosotras [sustituir]";"nosotras sustituimos"
+"Indicativo
+Pretérito
+
+vosotros [sustituir]";"vosotros sustituisteis"
+"Indicativo
+Pretérito
+
+vosotras [sustituir]";"vosotras sustituisteis"
+"Indicativo
+Pretérito
+
+ellos [sustituir]";"ellos sustituyeron"
+"Indicativo
+Pretérito
+
+ellas [sustituir]";"ellas sustituyeron"
+"Indicativo
+Pretérito
+
+Ustedes [sustituir]";"Ustedes sustituyeron"
+"Indicativo
+Pretérito
+
+yo [tañer]";"yo tañí"
+"Indicativo
+Pretérito
+
+tú [tañer]";"tú tañiste"
+"Indicativo
+Pretérito
+
+él [tañer]";"él tañó"
+"Indicativo
+Pretérito
+
+ella [tañer]";"ella tañó"
+"Indicativo
+Pretérito
+
+Usted [tañer]";"Usted tañó"
+"Indicativo
+Pretérito
+
+nosotros [tañer]";"nosotros tañimos"
+"Indicativo
+Pretérito
+
+nosotras [tañer]";"nosotras tañimos"
+"Indicativo
+Pretérito
+
+vosotros [tañer]";"vosotros tañisteis"
+"Indicativo
+Pretérito
+
+vosotras [tañer]";"vosotras tañisteis"
+"Indicativo
+Pretérito
+
+ellos [tañer]";"ellos tañeron"
+"Indicativo
+Pretérito
+
+ellas [tañer]";"ellas tañeron"
+"Indicativo
+Pretérito
+
+Ustedes [tañer]";"Ustedes tañeron"
+"Indicativo
+Pretérito
+
+yo [temer]";"yo temí"
+"Indicativo
+Pretérito
+
+tú [temer]";"tú temiste"
+"Indicativo
+Pretérito
+
+él [temer]";"él temió"
+"Indicativo
+Pretérito
+
+ella [temer]";"ella temió"
+"Indicativo
+Pretérito
+
+Usted [temer]";"Usted temió"
+"Indicativo
+Pretérito
+
+nosotros [temer]";"nosotros temimos"
+"Indicativo
+Pretérito
+
+nosotras [temer]";"nosotras temimos"
+"Indicativo
+Pretérito
+
+vosotros [temer]";"vosotros temisteis"
+"Indicativo
+Pretérito
+
+vosotras [temer]";"vosotras temisteis"
+"Indicativo
+Pretérito
+
+ellos [temer]";"ellos temieron"
+"Indicativo
+Pretérito
+
+ellas [temer]";"ellas temieron"
+"Indicativo
+Pretérito
+
+Ustedes [temer]";"Ustedes temieron"
+"Indicativo
+Pretérito
+
+yo [tener]";"yo tuve"
+"Indicativo
+Pretérito
+
+tú [tener]";"tú tuviste"
+"Indicativo
+Pretérito
+
+él [tener]";"él tuvo"
+"Indicativo
+Pretérito
+
+ella [tener]";"ella tuvo"
+"Indicativo
+Pretérito
+
+Usted [tener]";"Usted tuvo"
+"Indicativo
+Pretérito
+
+nosotros [tener]";"nosotros tuvimos"
+"Indicativo
+Pretérito
+
+nosotras [tener]";"nosotras tuvimos"
+"Indicativo
+Pretérito
+
+vosotros [tener]";"vosotros tuvisteis"
+"Indicativo
+Pretérito
+
+vosotras [tener]";"vosotras tuvisteis"
+"Indicativo
+Pretérito
+
+ellos [tener]";"ellos tuvieron"
+"Indicativo
+Pretérito
+
+ellas [tener]";"ellas tuvieron"
+"Indicativo
+Pretérito
+
+Ustedes [tener]";"Ustedes tuvieron"
+"Indicativo
+Pretérito
+
+yo [teñir]";"yo teñí"
+"Indicativo
+Pretérito
+
+tú [teñir]";"tú teñiste"
+"Indicativo
+Pretérito
+
+él [teñir]";"él tiñó"
+"Indicativo
+Pretérito
+
+ella [teñir]";"ella tiñó"
+"Indicativo
+Pretérito
+
+Usted [teñir]";"Usted tiñó"
+"Indicativo
+Pretérito
+
+nosotros [teñir]";"nosotros teñimos"
+"Indicativo
+Pretérito
+
+nosotras [teñir]";"nosotras teñimos"
+"Indicativo
+Pretérito
+
+vosotros [teñir]";"vosotros teñisteis"
+"Indicativo
+Pretérito
+
+vosotras [teñir]";"vosotras teñisteis"
+"Indicativo
+Pretérito
+
+ellos [teñir]";"ellos tiñeron"
+"Indicativo
+Pretérito
+
+ellas [teñir]";"ellas tiñeron"
+"Indicativo
+Pretérito
+
+Ustedes [teñir]";"Ustedes tiñeron"
+"Indicativo
+Pretérito
+
+yo [torcer]";"yo torcí"
+"Indicativo
+Pretérito
+
+tú [torcer]";"tú torciste"
+"Indicativo
+Pretérito
+
+él [torcer]";"él torció"
+"Indicativo
+Pretérito
+
+ella [torcer]";"ella torció"
+"Indicativo
+Pretérito
+
+Usted [torcer]";"Usted torció"
+"Indicativo
+Pretérito
+
+nosotros [torcer]";"nosotros torcimos"
+"Indicativo
+Pretérito
+
+nosotras [torcer]";"nosotras torcimos"
+"Indicativo
+Pretérito
+
+vosotros [torcer]";"vosotros torcisteis"
+"Indicativo
+Pretérito
+
+vosotras [torcer]";"vosotras torcisteis"
+"Indicativo
+Pretérito
+
+ellos [torcer]";"ellos torcieron"
+"Indicativo
+Pretérito
+
+ellas [torcer]";"ellas torcieron"
+"Indicativo
+Pretérito
+
+Ustedes [torcer]";"Ustedes torcieron"
+"Indicativo
+Pretérito
+
+yo [toser]";"yo tosí"
+"Indicativo
+Pretérito
+
+tú [toser]";"tú tosiste"
+"Indicativo
+Pretérito
+
+él [toser]";"él tosió"
+"Indicativo
+Pretérito
+
+ella [toser]";"ella tosió"
+"Indicativo
+Pretérito
+
+Usted [toser]";"Usted tosió"
+"Indicativo
+Pretérito
+
+nosotros [toser]";"nosotros tosimos"
+"Indicativo
+Pretérito
+
+nosotras [toser]";"nosotras tosimos"
+"Indicativo
+Pretérito
+
+vosotros [toser]";"vosotros tosisteis"
+"Indicativo
+Pretérito
+
+vosotras [toser]";"vosotras tosisteis"
+"Indicativo
+Pretérito
+
+ellos [toser]";"ellos tosieron"
+"Indicativo
+Pretérito
+
+ellas [toser]";"ellas tosieron"
+"Indicativo
+Pretérito
+
+Ustedes [toser]";"Ustedes tosieron"
+"Indicativo
+Pretérito
+
+yo [traducir]";"yo traduje"
+"Indicativo
+Pretérito
+
+tú [traducir]";"tú tradujiste"
+"Indicativo
+Pretérito
+
+él [traducir]";"él tradujo"
+"Indicativo
+Pretérito
+
+ella [traducir]";"ella tradujo"
+"Indicativo
+Pretérito
+
+Usted [traducir]";"Usted tradujo"
+"Indicativo
+Pretérito
+
+nosotros [traducir]";"nosotros tradujimos"
+"Indicativo
+Pretérito
+
+nosotras [traducir]";"nosotras tradujimos"
+"Indicativo
+Pretérito
+
+vosotros [traducir]";"vosotros tradujisteis"
+"Indicativo
+Pretérito
+
+vosotras [traducir]";"vosotras tradujisteis"
+"Indicativo
+Pretérito
+
+ellos [traducir]";"ellos tradujeron"
+"Indicativo
+Pretérito
+
+ellas [traducir]";"ellas tradujeron"
+"Indicativo
+Pretérito
+
+Ustedes [traducir]";"Ustedes tradujeron"
+"Indicativo
+Pretérito
+
+yo [traer]";"yo traje"
+"Indicativo
+Pretérito
+
+tú [traer]";"tú trajiste"
+"Indicativo
+Pretérito
+
+él [traer]";"él trajo"
+"Indicativo
+Pretérito
+
+ella [traer]";"ella trajo"
+"Indicativo
+Pretérito
+
+Usted [traer]";"Usted trajo"
+"Indicativo
+Pretérito
+
+nosotros [traer]";"nosotros trajimos"
+"Indicativo
+Pretérito
+
+nosotras [traer]";"nosotras trajimos"
+"Indicativo
+Pretérito
+
+vosotros [traer]";"vosotros trajisteis"
+"Indicativo
+Pretérito
+
+vosotras [traer]";"vosotras trajisteis"
+"Indicativo
+Pretérito
+
+ellos [traer]";"ellos trajeron"
+"Indicativo
+Pretérito
+
+ellas [traer]";"ellas trajeron"
+"Indicativo
+Pretérito
+
+Ustedes [traer]";"Ustedes trajeron"
+"Indicativo
+Pretérito
+
+yo [unir]";"yo uní"
+"Indicativo
+Pretérito
+
+tú [unir]";"tú uniste"
+"Indicativo
+Pretérito
+
+él [unir]";"él unió"
+"Indicativo
+Pretérito
+
+ella [unir]";"ella unió"
+"Indicativo
+Pretérito
+
+Usted [unir]";"Usted unió"
+"Indicativo
+Pretérito
+
+nosotros [unir]";"nosotros unimos"
+"Indicativo
+Pretérito
+
+nosotras [unir]";"nosotras unimos"
+"Indicativo
+Pretérito
+
+vosotros [unir]";"vosotros unisteis"
+"Indicativo
+Pretérito
+
+vosotras [unir]";"vosotras unisteis"
+"Indicativo
+Pretérito
+
+ellos [unir]";"ellos unieron"
+"Indicativo
+Pretérito
+
+ellas [unir]";"ellas unieron"
+"Indicativo
+Pretérito
+
+Ustedes [unir]";"Ustedes unieron"
+"Indicativo
+Pretérito
+
+yo [valer]";"yo valí"
+"Indicativo
+Pretérito
+
+tú [valer]";"tú valiste"
+"Indicativo
+Pretérito
+
+él [valer]";"él valió"
+"Indicativo
+Pretérito
+
+ella [valer]";"ella valió"
+"Indicativo
+Pretérito
+
+Usted [valer]";"Usted valió"
+"Indicativo
+Pretérito
+
+nosotros [valer]";"nosotros valimos"
+"Indicativo
+Pretérito
+
+nosotras [valer]";"nosotras valimos"
+"Indicativo
+Pretérito
+
+vosotros [valer]";"vosotros valisteis"
+"Indicativo
+Pretérito
+
+vosotras [valer]";"vosotras valisteis"
+"Indicativo
+Pretérito
+
+ellos [valer]";"ellos valieron"
+"Indicativo
+Pretérito
+
+ellas [valer]";"ellas valieron"
+"Indicativo
+Pretérito
+
+Ustedes [valer]";"Ustedes valieron"
+"Indicativo
+Pretérito
+
+yo [vencer]";"yo vencí"
+"Indicativo
+Pretérito
+
+tú [vencer]";"tú venciste"
+"Indicativo
+Pretérito
+
+él [vencer]";"él venció"
+"Indicativo
+Pretérito
+
+ella [vencer]";"ella venció"
+"Indicativo
+Pretérito
+
+Usted [vencer]";"Usted venció"
+"Indicativo
+Pretérito
+
+nosotros [vencer]";"nosotros vencimos"
+"Indicativo
+Pretérito
+
+nosotras [vencer]";"nosotras vencimos"
+"Indicativo
+Pretérito
+
+vosotros [vencer]";"vosotros vencisteis"
+"Indicativo
+Pretérito
+
+vosotras [vencer]";"vosotras vencisteis"
+"Indicativo
+Pretérito
+
+ellos [vencer]";"ellos vencieron"
+"Indicativo
+Pretérito
+
+ellas [vencer]";"ellas vencieron"
+"Indicativo
+Pretérito
+
+Ustedes [vencer]";"Ustedes vencieron"
+"Indicativo
+Pretérito
+
+yo [vender]";"yo vendí"
+"Indicativo
+Pretérito
+
+tú [vender]";"tú vendiste"
+"Indicativo
+Pretérito
+
+él [vender]";"él vendió"
+"Indicativo
+Pretérito
+
+ella [vender]";"ella vendió"
+"Indicativo
+Pretérito
+
+Usted [vender]";"Usted vendió"
+"Indicativo
+Pretérito
+
+nosotros [vender]";"nosotros vendimos"
+"Indicativo
+Pretérito
+
+nosotras [vender]";"nosotras vendimos"
+"Indicativo
+Pretérito
+
+vosotros [vender]";"vosotros vendisteis"
+"Indicativo
+Pretérito
+
+vosotras [vender]";"vosotras vendisteis"
+"Indicativo
+Pretérito
+
+ellos [vender]";"ellos vendieron"
+"Indicativo
+Pretérito
+
+ellas [vender]";"ellas vendieron"
+"Indicativo
+Pretérito
+
+Ustedes [vender]";"Ustedes vendieron"
+"Indicativo
+Pretérito
+
+yo [venir]";"yo vine"
+"Indicativo
+Pretérito
+
+tú [venir]";"tú viniste"
+"Indicativo
+Pretérito
+
+él [venir]";"él vino"
+"Indicativo
+Pretérito
+
+ella [venir]";"ella vino"
+"Indicativo
+Pretérito
+
+Usted [venir]";"Usted vino"
+"Indicativo
+Pretérito
+
+nosotros [venir]";"nosotros vinimos"
+"Indicativo
+Pretérito
+
+nosotras [venir]";"nosotras vinimos"
+"Indicativo
+Pretérito
+
+vosotros [venir]";"vosotros vinisteis"
+"Indicativo
+Pretérito
+
+vosotras [venir]";"vosotras vinisteis"
+"Indicativo
+Pretérito
+
+ellos [venir]";"ellos vinieron"
+"Indicativo
+Pretérito
+
+ellas [venir]";"ellas vinieron"
+"Indicativo
+Pretérito
+
+Ustedes [venir]";"Ustedes vinieron"
+"Indicativo
+Pretérito
+
+yo [ver]";"yo vi"
+"Indicativo
+Pretérito
+
+tú [ver]";"tú viste"
+"Indicativo
+Pretérito
+
+él [ver]";"él vio"
+"Indicativo
+Pretérito
+
+ella [ver]";"ella vio"
+"Indicativo
+Pretérito
+
+Usted [ver]";"Usted vio"
+"Indicativo
+Pretérito
+
+nosotros [ver]";"nosotros vimos"
+"Indicativo
+Pretérito
+
+nosotras [ver]";"nosotras vimos"
+"Indicativo
+Pretérito
+
+vosotros [ver]";"vosotros visteis"
+"Indicativo
+Pretérito
+
+vosotras [ver]";"vosotras visteis"
+"Indicativo
+Pretérito
+
+ellos [ver]";"ellos vieron"
+"Indicativo
+Pretérito
+
+ellas [ver]";"ellas vieron"
+"Indicativo
+Pretérito
+
+Ustedes [ver]";"Ustedes vieron"
+"Indicativo
+Pretérito
+
+yo [vestir]";"yo vestí"
+"Indicativo
+Pretérito
+
+tú [vestir]";"tú vestiste"
+"Indicativo
+Pretérito
+
+él [vestir]";"él vistió"
+"Indicativo
+Pretérito
+
+ella [vestir]";"ella vistió"
+"Indicativo
+Pretérito
+
+Usted [vestir]";"Usted vistió"
+"Indicativo
+Pretérito
+
+nosotros [vestir]";"nosotros vestimos"
+"Indicativo
+Pretérito
+
+nosotras [vestir]";"nosotras vestimos"
+"Indicativo
+Pretérito
+
+vosotros [vestir]";"vosotros vestisteis"
+"Indicativo
+Pretérito
+
+vosotras [vestir]";"vosotras vestisteis"
+"Indicativo
+Pretérito
+
+ellos [vestir]";"ellos vistieron"
+"Indicativo
+Pretérito
+
+ellas [vestir]";"ellas vistieron"
+"Indicativo
+Pretérito
+
+Ustedes [vestir]";"Ustedes vistieron"
+"Indicativo
+Pretérito
+
+yo [vivir]";"yo viví"
+"Indicativo
+Pretérito
+
+tú [vivir]";"tú viviste"
+"Indicativo
+Pretérito
+
+él [vivir]";"él vivió"
+"Indicativo
+Pretérito
+
+ella [vivir]";"ella vivió"
+"Indicativo
+Pretérito
+
+Usted [vivir]";"Usted vivió"
+"Indicativo
+Pretérito
+
+nosotros [vivir]";"nosotros vivimos"
+"Indicativo
+Pretérito
+
+nosotras [vivir]";"nosotras vivimos"
+"Indicativo
+Pretérito
+
+vosotros [vivir]";"vosotros vivisteis"
+"Indicativo
+Pretérito
+
+vosotras [vivir]";"vosotras vivisteis"
+"Indicativo
+Pretérito
+
+ellos [vivir]";"ellos vivieron"
+"Indicativo
+Pretérito
+
+ellas [vivir]";"ellas vivieron"
+"Indicativo
+Pretérito
+
+Ustedes [vivir]";"Ustedes vivieron"
+"Indicativo
+Pretérito
+
+yo [volver]";"yo volví"
+"Indicativo
+Pretérito
+
+tú [volver]";"tú volviste"
+"Indicativo
+Pretérito
+
+él [volver]";"él volvió"
+"Indicativo
+Pretérito
+
+ella [volver]";"ella volvió"
+"Indicativo
+Pretérito
+
+Usted [volver]";"Usted volvió"
+"Indicativo
+Pretérito
+
+nosotros [volver]";"nosotros volvimos"
+"Indicativo
+Pretérito
+
+nosotras [volver]";"nosotras volvimos"
+"Indicativo
+Pretérito
+
+vosotros [volver]";"vosotros volvisteis"
+"Indicativo
+Pretérito
+
+vosotras [volver]";"vosotras volvisteis"
+"Indicativo
+Pretérito
+
+ellos [volver]";"ellos volvieron"
+"Indicativo
+Pretérito
+
+ellas [volver]";"ellas volvieron"
+"Indicativo
+Pretérito
+
+Ustedes [volver]";"Ustedes volvieron"
+"Indicativo
+Pretérito
+
+yo [yacer]";"yo yací"
+"Indicativo
+Pretérito
+
+tú [yacer]";"tú yaciste"
+"Indicativo
+Pretérito
+
+él [yacer]";"él yació"
+"Indicativo
+Pretérito
+
+ella [yacer]";"ella yació"
+"Indicativo
+Pretérito
+
+Usted [yacer]";"Usted yació"
+"Indicativo
+Pretérito
+
+nosotros [yacer]";"nosotros yacimos"
+"Indicativo
+Pretérito
+
+nosotras [yacer]";"nosotras yacimos"
+"Indicativo
+Pretérito
+
+vosotros [yacer]";"vosotros yacisteis"
+"Indicativo
+Pretérito
+
+vosotras [yacer]";"vosotras yacisteis"
+"Indicativo
+Pretérito
+
+ellos [yacer]";"ellos yacieron"
+"Indicativo
+Pretérito
+
+ellas [yacer]";"ellas yacieron"
+"Indicativo
+Pretérito
+
+Ustedes [yacer]";"Ustedes yacieron"
