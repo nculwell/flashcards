@@ -56,14 +56,17 @@ def write_output(selected_verbs):
     print("#html:false")
     for row in selected_verbs:
         for form, pronoun in FORMS:
-            print(
-                    '"' + row["mood"] + "\n" + row["tense"]
-                    + "\n\n"
-                    + pronoun + " [" + row["infinitive"] + "]"
-                    + '";"'
-                    + pronoun + " " + row["form_"+form]
-                    + '"'
-                    )
+            front = '\n'.join([
+                row["mood"],
+                row["tense"],
+                '',
+                f'{pronoun} [{row["infinitive"]}]',
+                ])
+            back = pronoun + " " + row["form_"+form]
+            write_output_line([ front, back ])
+
+def write_output_line(fields):
+    print(';'.join(( f'"{f}"' for f in fields )))
 
 def validate_args(rows, mood, tense, ending):
     err = sys.stderr
