@@ -33,16 +33,16 @@ def main():
         reader = csv.DictReader(f)
         rows = [ row for row in reader ]
     #print(rows[0])
-    validate_args(rows, mood, tense, ending)
-    selected_verbs = select_verbs(rows, mood, tense, ending)
+    (endings,) = validate_args(rows, mood, tense, ending)
+    selected_verbs = select_verbs(rows, mood, tense, endings)
     write_output(selected_verbs)
 
-def select_verbs(rows, mood, tense, ending):
+def select_verbs(rows, mood, tense, endings):
     selected_verbs = rows
-    if ending:
+    if endings:
         selected_verbs = [
                 row for row in selected_verbs
-                if row["infinitive"].endswith(ending)
+                if any(( row["infinitive"].endswith(e) for e in endings ))
                 ]
     selected_verbs = [
             row for row in selected_verbs
@@ -77,9 +77,17 @@ def validate_args(rows, mood, tense, ending):
         print("Invalid tense: " + tense, file=err)
         print("Available tenses: " + (', '.join(all_tenses)), file=err)
         sys.exit(1)
-    if ending and ending not in ['ar', 'er', 'ir']:
-        print("Invalid ending: " + ending, file=err)
-        sys.exit(1)
+    endings = None
+    if ending:
+        endings = ending.split(',')
+        invalid = []
+        for e in endings:
+            if e not in ['ar', 'er', 'ir']:
+                invalid.append(e)
+        if len(invalid) > 0:
+            print("Invalid endings: " + (','.join(invalid)), file=err)
+            sys.exit(1)
+    return ( endings, )
 
 if __name__ == '__main__':
     main()
